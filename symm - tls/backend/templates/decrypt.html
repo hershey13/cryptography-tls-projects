@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hybrid Crypto - Decrypt</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .floating-label input:focus + label,
+    .floating-label input:not(:placeholder-shown) + label,
+    .floating-label textarea:focus + label,
+    .floating-label textarea:not(:placeholder-shown) + label {
+      transform: translateY(-1.5rem) scale(0.9);
+      color: #2563eb;
+    }
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+      z-index: 10;
+      transition: color 0.2s;
+    }
+    .clear-icon:hover {
+      color: #e11d48;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-indigo-100 to-blue-50 min-h-screen flex items-center justify-center p-4">
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8 relative">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6">Decrypt Message</h1>
+    <form id="decryptForm" class="space-y-6">
+
+      <!-- Encrypted Message -->
+      <div class="floating-label relative">
+        <textarea id="encryptedMessage" rows="4" placeholder=" " required
+                  class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent resize-none"></textarea>
+        <label for="encryptedMessage"
+               class="absolute left-2 top-2 text-gray-500 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-2 peer-focus:text-sm">
+          Encrypted Message
+        </label>
+        <span class="clear-icon" onclick="clearField('encryptedMessage')">&#10005;</span>
+      </div>
+
+      <!-- Password -->
+      <div class="floating-label relative">
+        <input type="password" id="decryptPassword" placeholder=" " required
+               class="peer w-full pr-24 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+        <label for="decryptPassword"
+               class="absolute left-2 top-2 text-gray-500 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-2 peer-focus:text-sm">
+          Password
+        </label>
+        <button type="button" id="toggleDecryptPassword"
+                class="absolute right-10 top-1/2 transform -translate-y-1/2 text-sm text-blue-600 hover:text-blue-800 font-medium">
+          View
+        </button>
+        <span class="clear-icon" onclick="clearField('decryptPassword')">&#10005;</span>
+      </div>
+
+      <!-- Buttons -->
+      <div class="flex justify-between gap-4 pt-4">
+        <button type="submit"
+                class="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 rounded-xl transition">
+          Decrypt
+        </button>
+        <button type="button" onclick="clearAllFields()"
+                class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 font-medium py-2 rounded-xl transition">
+          Clear All
+        </button>
+      </div>
+
+      <!-- Output -->
+      <div id="output" class="pt-4 text-sm text-gray-700"></div>
+    </form>
+  </div>
+<script>
+document.getElementById("decryptForm").addEventListener("submit", async function (e) {
+  e.preventDefault();
+
+  const encrypted = document.getElementById("encryptedMessage").value.trim();
+  const password = document.getElementById("decryptPassword").value.trim();
+
+  if (!encrypted || !password) {
+    document.getElementById("output").innerHTML = "<div class='text-red-500'>Please fill in both fields.</div>";
+    return;
+  }
+
+  try {
+    const res = await fetch("/decrypt", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ciphertext: encrypted, password })
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+      document.getElementById("output").innerHTML =
+        `<strong>Decrypted:</strong> <div class='mt-2 p-2 bg-green-100 rounded'>${data.message}</div>`;
+    } else {
+      document.getElementById("output").innerHTML =
+        `<div class='text-red-500'>❌ ${data.error}</div>`;
+    }
+  } catch (error) {
+    document.getElementById("output").innerHTML =
+      "<div class='text-red-500'>Server error. Try again later.</div>";
+  }
+});
+
+  const autoEncrypted = "{{ encrypted_msg }}";
+  const autoPassword = "{{ password }}";
+
+  // Autofill the form
+  document.getElementById("encryptedMessage").value = autoEncrypted;
+  document.getElementById("decryptPassword").value = autoPassword;
+
+  // Hidden for UiPath
+  const hiddenDiv = document.createElement("div");
+  hiddenDiv.style.position = "absolute";
+  hiddenDiv.style.top = "0";
+  hiddenDiv.style.left = "0";
+  hiddenDiv.style.color = "#e0e7ff"; // Tailwind indigo-100
+  hiddenDiv.style.fontSize = "10px";
+  hiddenDiv.innerHTML = `Encrypted: ${autoEncrypted}<br>Password: ${autoPassword}`;
+  document.body.appendChild(hiddenDiv);
+
+</script>
+
+</body>
+</html>

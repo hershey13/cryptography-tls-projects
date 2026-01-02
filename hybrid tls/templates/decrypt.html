@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Decrypt Message</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+    .floating-label input:focus + label,
+    .floating-label input:not(:placeholder-shown) + label,
+    .floating-label textarea:focus + label,
+    .floating-label textarea:not(:placeholder-shown) + label {
+      transform: translateY(-1.5rem) scale(0.9);
+      color: #2563eb;
+    }
+
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+      z-index: 10;
+      transition: color 0.2s;
+    }
+
+    .clear-icon:hover { color: #e11d48; }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4">
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6">Decrypt Message</h1>
+
+    <form method="POST" action="/decrypt" class="space-y-6">
+
+      <!-- Encrypted Message Field -->
+      <div class="floating-label relative">
+        <textarea id="encrypted_message" name="encrypted_message" rows="4" placeholder=" " required
+                  class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent resize-none"></textarea>
+        <label for="encrypted_message"
+               class="absolute left-2 top-2 text-gray-500 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-focus:top-2 peer-focus:text-sm">
+          Encrypted Message
+        </label>
+        <span class="clear-icon" onclick="clearField('encrypted_message')">&#10005;</span>
+      </div>
+
+      <!-- Password Field -->
+      <div class="floating-label relative">
+        <input type="password" id="password" name="password" placeholder=" " required
+               class="peer w-full pr-24 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+        <label for="password"
+               class="absolute left-2 top-2 text-gray-500 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-focus:top-2 peer-focus:text-sm">
+          AES Password
+        </label>
+        <button type="button" id="togglePassword"
+                class="absolute right-10 top-1/2 transform -translate-y-1/2 text-sm text-blue-600 hover:text-blue-800 font-medium">
+          View
+        </button>
+        <span class="clear-icon" onclick="clearField('password')">&#10005;</span>
+      </div>
+
+      <!-- Buttons -->
+      <div class="flex justify-between gap-4 pt-4">
+        <button type="submit"
+                class="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 rounded-xl transition">
+          Decrypt
+        </button>
+
+        <button type="button" onclick="clearAllFields()"
+                class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 font-medium py-2 rounded-xl transition">
+          Clear All
+        </button>
+      </div>
+
+      <div class="mt-6 bg-gray-100 p-4 border rounded">
+        <strong class="text-indigo-600">Decrypted Message:</strong>
+        <pre class="whitespace-pre-wrap mt-2 text-gray-800"></pre>
+      </div>
+     
+    </form>
+  </div>
+
+  <script>
+    function clearField(id) {
+      document.getElementById(id).value = '';
+    }
+
+    function clearAllFields() {
+      ['encrypted_message', 'password'].forEach(clearField);
+    }
+
+    document.getElementById("togglePassword").addEventListener("click", function () {
+      const input = document.getElementById("password");
+      input.type = input.type === "password" ? "text" : "password";
+    });
+  </script>
+</body>
+</html>

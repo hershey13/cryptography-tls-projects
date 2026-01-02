@@ -1,0 +1,785 @@
+2025-07-14 23:23:04 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:23:04 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 23:23:04 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:23:04 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:23:04 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:23:04 -  * Debugger is active!
+2025-07-14 23:23:04 -  * Debugger PIN: 799-630-082
+2025-07-14 23:23:39 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:23:39 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 23:23:39 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:23:39 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:23:39 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:23:39 -  * Debugger is active!
+2025-07-14 23:23:39 -  * Debugger PIN: 799-630-082
+2025-07-14 23:25:31 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:25:31 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 23:25:31 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:25:31 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:25:32 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:25:32 -  * Debugger is active!
+2025-07-14 23:25:32 -  * Debugger PIN: 799-630-082
+2025-07-14 23:25:39 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:25:39 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:25:39 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:25:39 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:25:39 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:25:39 -  * Debugger is active!
+2025-07-14 23:25:39 -  * Debugger PIN: 799-630-082
+2025-07-14 23:25:40 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:25:40 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 23:25:40 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:25:40 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:25:40 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:25:40 -  * Debugger is active!
+2025-07-14 23:25:40 -  * Debugger PIN: 799-630-082
+2025-07-14 23:26:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:26:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:26:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:26:09 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:26:10 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:26:10 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:26:10 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:10 -  * Debugger is active!
+2025-07-14 23:26:10 -  * Debugger PIN: 799-630-082
+2025-07-14 23:26:10 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:10 -  * Debugger is active!
+2025-07-14 23:26:10 -  * Debugger PIN: 799-630-082
+2025-07-14 23:26:15 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:15 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:26:15 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:26:15 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:26:15 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:15 -  * Debugger is active!
+2025-07-14 23:26:15 -  * Debugger PIN: 799-630-082
+2025-07-14 23:26:18 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:18 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:26:18 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:26:18 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:26:19 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:26:19 -  * Debugger is active!
+2025-07-14 23:26:19 -  * Debugger PIN: 799-630-082
+2025-07-14 23:28:32 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:28:32 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:28:32 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:28:32 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:28:32 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:28:32 -  * Debugger is active!
+2025-07-14 23:28:32 -  * Debugger PIN: 799-630-082
+2025-07-14 23:30:51 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:30:51 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:30:51 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:30:51 -  * Debugger is active!
+2025-07-14 23:30:51 -  * Debugger PIN: 799-630-082
+2025-07-14 23:30:52 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:30:52 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:30:52 -  * Debugger is active!
+2025-07-14 23:30:52 -  * Debugger PIN: 799-630-082
+2025-07-14 23:30:59 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:30:59 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:30:59 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:30:59 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:30:59 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:30:59 -  * Debugger is active!
+2025-07-14 23:30:59 -  * Debugger PIN: 799-630-082
+2025-07-14 23:31:16 - 127.0.0.1 - - [14/Jul/2025 23:31:16] "GET / HTTP/1.1" 200 -
+2025-07-14 23:31:16 - 127.0.0.1 - - [14/Jul/2025 23:31:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-14 23:32:20 - 127.0.0.1 - - [14/Jul/2025 23:32:20] "GET / HTTP/1.1" 200 -
+2025-07-14 23:32:29 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:32:29 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:32:29 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:32:29 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:32:30 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:32:30 -  * Debugger is active!
+2025-07-14 23:32:30 -  * Debugger PIN: 799-630-082
+2025-07-14 23:32:34 - 127.0.0.1 - - [14/Jul/2025 23:32:34] "GET / HTTP/1.1" 200 -
+2025-07-14 23:32:36 - 127.0.0.1 - - [14/Jul/2025 23:32:36] "GET / HTTP/1.1" 200 -
+2025-07-14 23:33:12 - 127.0.0.1 - - [14/Jul/2025 23:33:12] "GET / HTTP/1.1" 200 -
+2025-07-14 23:39:52 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:39:52 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:39:52 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:39:52 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:39:53 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:39:53 -  * Debugger is active!
+2025-07-14 23:39:53 -  * Debugger PIN: 799-630-082
+2025-07-14 23:46:00 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:46:00 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:46:00 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:46:00 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:46:01 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:46:01 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:46:01 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:46:01 -  * Debugger is active!
+2025-07-14 23:46:01 -  * Debugger PIN: 799-630-082
+2025-07-14 23:46:01 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:46:01 -  * Debugger is active!
+2025-07-14 23:46:01 -  * Debugger PIN: 799-630-082
+2025-07-14 23:46:06 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:46:06 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-14 23:46:06 - [33mPress CTRL+C to quit[0m
+2025-07-14 23:46:06 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:46:06 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:46:06 -  * Debugger is active!
+2025-07-14 23:46:06 -  * Debugger PIN: 799-630-082
+2025-07-14 23:47:29 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:47:29 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:47:29 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:47:29 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:47:29 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:47:30 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:47:30 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:47:30 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:47:30 -  * Debugger is active!
+2025-07-14 23:47:30 -  * Debugger PIN: 799-630-082
+2025-07-14 23:47:30 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-14 23:47:30 -  * Debugger is active!
+2025-07-14 23:47:30 -  * Debugger PIN: 799-630-082
+2025-07-14 23:48:02 - 127.0.0.1 - - [14/Jul/2025 23:48:02] "GET / HTTP/1.1" 200 -
+2025-07-14 23:49:03 - 127.0.0.1 - - [14/Jul/2025 23:49:03] "GET / HTTP/1.1" 200 -
+2025-07-14 23:49:03 - 127.0.0.1 - - [14/Jul/2025 23:49:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-14 23:51:44 - 127.0.0.1 - - [14/Jul/2025 23:51:44] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 23:51:51 - 
+--- Encrypted Session ---
+Email: hbhasin5555@gmail.com
+OTP: 462597
+Encrypted Message: lAgx30lwGf4p3EMK7/TY0w==
+Encrypted AES Key (RSA): APUQQKwbDOqtueHhnmjalLqr2w1prIVZHkXHJHj1L27g5OWntv+5JY/l4fphiCf+h9QiGqA3haFkCWoubZWUY2Ei/BhqmkE31TRb57XLuAR8DQo3Lu38Uz6wZhQxGjiLXI599Q0lqYykStutjqg8X8sxjQwMh/QOSufU2Zb3C3rttoQNhp4ADu+5SGwmtKPgiUdX9CcI8uVfGPYHPV/j+Q1LHTXf7FrKN5u32fSp4NzhUdPFhnibYarN8BBzdlGe8J9utI5/Nlqc4adHLUVyMM4I9sBBhk81G3CMCSDqSYVto51AV3ngSZccsnpfIzjo8U73wOBKaYthWK+40L6MtA==
+IV: obMOOH6IJsj1FhxdtyUY8w==
+----------------------------------------
+
+2025-07-14 23:51:51 - 127.0.0.1 - - [14/Jul/2025 23:51:51] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 23:53:52 - 127.0.0.1 - - [14/Jul/2025 23:53:52] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 23:53:58 - 
+--- Encrypted Session ---
+Email: hbhasin5555@gmail.com
+OTP: 934010
+Encrypted Message: hAIijVTOgO33/3QCvtSL7Q==
+Encrypted AES Key (RSA): Jvkkt4sXx1T7s9CuOCIRYFLvnZ36/SMbmquse0/HirbBMXAmVu18KSKsh0PY2ekTQHqXL2ZgM8CgESjIce0liBvhsc+HU9beJYF4zqcABqf/Xy5HOU4SsoT4YZWNyVSEq3FjNGw3RtpWnFBoNNhXucscL7nPWb3nAkKbU9gI2j894IFrD4dSne1Ob8l90wmakELGwFWNzGFBnEy1aEB/jdnVpcj486rheK8H/7XpryKNWiVAYJkTdJ3pyZ+WECeLM1bQdABD/NfoP54Il7nyT+rCBGrWn0qAB2O4SkoKZJ4eW4aO3RuTO7CO2uCfTqKLVztmXaewzTGyFIHY2cp+FA==
+IV: PpRWEDk+ogy97294KUfn9Q==
+----------------------------------------
+
+2025-07-14 23:53:58 - 127.0.0.1 - - [14/Jul/2025 23:53:58] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 23:54:16 - 127.0.0.1 - - [14/Jul/2025 23:54:16] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-14 23:54:16 - 127.0.0.1 - - [14/Jul/2025 23:54:16] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-14 23:56:32 - 127.0.0.1 - - [14/Jul/2025 23:56:32] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 23:56:38 - 
+--- Encrypted Session ---
+Email: hbhasin5555@gmail.com
+OTP: 588699
+Encrypted Message: Rb4AUEkyArB+tDgRbyDML1hfCV++wMTmNpa0YsfFp3w=
+Encrypted AES Key (RSA): oOdUo/rRVq2KZ8K7Y5eH6/U2gOmBpyGF4cUCaF16aknZnxpkMnKml7ho300mjjQ5HX9LYqqchUNSWroaJ+4dNLi7yT4tyTh6oqm6ADG/roX8R1DLIULGos90srUrf/+UQlgOu/PCpkEEArcnQhOVMoSt+jiMOrDrPbqC7F3+/3em0vV1oLU12a4YR+R0I+uXaRfMEU+bQVpgGiVYus5CNEp+NUJDY/CBhsz8dM/Weo0bXZUoaoFDV/NS3nvBXZTL6FLxdwWjpP7FLAIiorPm0Q+BwGQiJb0z+OIBXJOlZWgo30YzzIczux10b6vp23ZOGRC+XNBCjCG73J5AdYfZVQ==
+IV: 3ODiq3MrP0Wj5mQOOpm2VQ==
+----------------------------------------
+
+2025-07-14 23:56:38 - 127.0.0.1 - - [14/Jul/2025 23:56:38] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 23:57:09 - 127.0.0.1 - - [14/Jul/2025 23:57:09] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-14 23:57:10 - 127.0.0.1 - - [14/Jul/2025 23:57:10] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-15 01:44:29 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 01:44:29 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-15 01:44:29 - [33mPress CTRL+C to quit[0m
+2025-07-15 01:44:29 -  * Restarting with watchdog (windowsapi)
+2025-07-15 01:44:29 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 01:44:29 -  * Debugger is active!
+2025-07-15 01:44:29 -  * Debugger PIN: 799-630-082
+2025-07-15 01:49:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 01:49:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 01:49:09 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 01:49:10 -  * Restarting with watchdog (windowsapi)
+2025-07-15 01:49:10 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 01:49:10 -  * Debugger is active!
+2025-07-15 01:49:10 -  * Debugger PIN: 799-630-082
+2025-07-15 01:49:27 - 127.0.0.1 - - [15/Jul/2025 01:49:27] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-15 01:49:34 - 
+--- Encrypted Session ---
+Email: epitomearchangel84@gmail.com
+OTP: 901864
+Encrypted Message: 2qggkGAAvLBm14CvuymICw==
+Encrypted AES Key (RSA): f2I/DGxgunG8h4AFDtgOlPyTLj9z6vPnsceEYzsZiISe1OITYg052Tnhz98hl4SMt4GhStj6Eyagg9ST0/uXdlxprUhlU/2TwRqAd9RJSp85C0DDQyQvNoivVbCIOJobNcK2dLLMrbg0P+CcLR1Gl3IGpTTlMP4jQ70SAqt29ERrpci6co5bi/qB9D+RFZCcobC6q727dtk5Pk6KPgqXPnEAqV+kdS+PkFWQd706sy06zg5Ho6xKU9Ztq4tY/7mF4szgHwbx29bVe1Rekw/WptKuv8740oqlA8TqTRdcUIJyrnhhbSQeXzgtWtE1IM/Q2hvW+Rso5aybf/e7K+FKMw==
+IV: FNAYpAvFeJrzBEXOuLq8Qw==
+----------------------------------------
+
+2025-07-15 01:49:34 - 127.0.0.1 - - [15/Jul/2025 01:49:34] "POST /send-otp HTTP/1.1" 200 -
+2025-07-15 01:50:05 - 127.0.0.1 - - [15/Jul/2025 01:50:05] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-15 01:50:05 - 127.0.0.1 - - [15/Jul/2025 01:50:05] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:24:53 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 12:24:53 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-15 12:24:53 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:24:53 -  * Restarting with watchdog (windowsapi)
+2025-07-15 12:24:53 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 12:24:53 -  * Debugger is active!
+2025-07-15 12:24:53 -  * Debugger PIN: 799-630-082
+2025-07-15 12:25:00 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Crypto\\Random\\__init__.py', reloading
+2025-07-15 12:25:00 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\os.py', reloading
+2025-07-15 12:25:00 -  * Restarting with watchdog (windowsapi)
+2025-07-15 12:25:01 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 12:25:01 -  * Debugger is active!
+2025-07-15 12:25:01 -  * Debugger PIN: 799-630-082
+2025-07-15 12:25:22 - 127.0.0.1 - - [15/Jul/2025 12:25:22] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-15 12:25:29 - 
+--- Encrypted Session ---
+Email: hbhasin5555@gmail.com
+OTP: 745206
+Encrypted Message: b853e7KlCict1Y0ZNnyYoNAWSUlmnrA0SvHtSU+xknE=
+Encrypted AES Key (RSA): MUjU4I/lYwEihWeOyAqYYp0eCHVFYITJMvc8scLmhfX/johBfoQpj5NDcMHHyQQx8l4GP02QxScL0+LAHO61GMwk24dzbvwLh1ZyQ/acA1ulL8S3KT5yLNjAT8epYdbTX3ieWykbhILsCpVdRmfFVPt4RqN1T2E0QXOrElNCTjME96uFfdJuXAomOzumfdsXb5M2K3VI2yqtZmEZepz5BLf84CK5zxIf74kfVmvK8wMrFAoVE6HZ0jXjTQ3Uj9KMYbGJL9zkURbCcQAAFILQuYX5119WVg1rsd220maOzYreIhKHyq2WfEOeL0HQaRkmaxj/h8PIkFD9cTUAwymS6g==
+IV: mpi7Xo3J86zQD9Ln+lXZeg==
+----------------------------------------
+
+2025-07-15 12:25:29 - 127.0.0.1 - - [15/Jul/2025 12:25:29] "POST /send-otp HTTP/1.1" 200 -
+2025-07-15 12:25:52 - 127.0.0.1 - - [15/Jul/2025 12:25:52] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:25:52 - 127.0.0.1 - - [15/Jul/2025 12:25:52] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:26:40 - 127.0.0.1 - - [15/Jul/2025 12:26:40] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-15 12:26:45 - 
+--- Encrypted Session ---
+Email: epitomearchangel84@gmail.com
+OTP: 941112
+Encrypted Message: tQYucmVCrpyHNfI+K4mfR16gseGeqFOMaxdxV89EJ1Y=
+Encrypted AES Key (RSA): h9P4NtK7SlpPz3XgGmE4ESuXG6ZEdHUw9HKB8gCR3IHjnxk0mQBKnpbQqMhNWctL+OgpXBEtL9l1o0+WdKFr6brLdqv6qCo8f6dp+04Xv1JhUgfkyjFv29HUTkS5Rew6uSwQNo7Wy5KKMyAwZzePlJFEFyt58w5hYBGYZBtfvVsavDBfDZ1Y3qJIBs3RERWeshJSRszWE80QKysG+eVR8uXZcsN2WdzSLETKIfA5QB7xHXwHiolIeLy74gvcEruiETjzvmcWYrYO3eQCuiGpGW/I9cS6hX/jHuJDZ8DBa8c+r2fZ2VoSARcG+AAGrv5TwjThGWCX+zXOtPnckY0z0g==
+IV: B65O5aK8Nzt1J8KxO53RVw==
+----------------------------------------
+
+2025-07-15 12:26:45 - 127.0.0.1 - - [15/Jul/2025 12:26:45] "POST /send-otp HTTP/1.1" 200 -
+2025-07-15 12:27:12 - 127.0.0.1 - - [15/Jul/2025 12:27:12] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:27:12 - 127.0.0.1 - - [15/Jul/2025 12:27:12] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:28:01 - 127.0.0.1 - - [15/Jul/2025 12:28:01] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-15 12:28:09 - 
+--- Encrypted Session ---
+Email: pam.work1989@gmail.com
+OTP: 690806
+Encrypted Message: 99FySV9RS1PAVSzckthqq1rYXEH/jvLlUP+fHBXj8ts=
+Encrypted AES Key (RSA): aW/3V3HLZ4pFDpe7RP6IOCz9K4+/vy4CatdAEP4wSOoEztbiEbxBMzpEnxwgpC9YwzwlJNBlN7tS/N7WDmOt6gLWiGqt90DUZqp8eoqZD78F+n3AdEM06Ehf9TOnMZfLdsfVpKTRLWHocBx/XPfui4d8eB6TRb08gTQwRlHjcjf/GF9rRv9pUDvFqQDGQA2O/U7hUlbFVgJhEK6814flVhrVB0+9q3IdKsWnJgWSg9uwVBimuSzAlZVyuLrb6LLAVbqju/cnaLnaFg6ZegCOMLpeIXcPAQ3hTlJ4bGOQv2qAYX2bBQZ8f1Z3fMU88g4wAWrkijxb8ntK9uOV+0beKg==
+IV: mByre0CUdv7K9Ee6zrZ4yA==
+----------------------------------------
+
+2025-07-15 12:28:09 - 127.0.0.1 - - [15/Jul/2025 12:28:09] "POST /send-otp HTTP/1.1" 200 -
+2025-07-15 12:28:23 - 127.0.0.1 - - [15/Jul/2025 12:28:23] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-15 12:28:23 - 127.0.0.1 - - [15/Jul/2025 12:28:23] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-15 23:47:50 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 23:47:50 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-15 23:47:50 - [33mPress CTRL+C to quit[0m
+2025-07-15 23:47:50 -  * Restarting with watchdog (windowsapi)
+2025-07-15 23:47:50 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 23:47:50 -  * Debugger is active!
+2025-07-15 23:47:50 -  * Debugger PIN: 799-630-082
+2025-07-15 23:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:49:03 -  * Restarting with watchdog (windowsapi)
+2025-07-15 23:49:03 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 23:49:03 -  * Debugger is active!
+2025-07-15 23:49:03 -  * Debugger PIN: 799-630-082
+2025-07-15 23:49:13 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:49:13 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:49:14 -  * Restarting with watchdog (windowsapi)
+2025-07-15 23:49:14 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-15 23:49:14 -  * Debugger is active!
+2025-07-15 23:49:14 -  * Debugger PIN: 799-630-082
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00+\x00\x07\x06')
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03j>')
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03YUÃÀÑak²(i\x11Ç\x1d>\x8ap\x0eÈ\x89©\x13ãK,½â'tEtó´ Çx\x98q\x12\x9d\x83bX×¦-s{ñ£Hy=ä \x9a#*\x1cZÏGÍ²z\x7f\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sºº\x00\x00\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00+\x00\x07\x06[0m" 400 -
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03j>\x0d\x1aõ\x9b'L\x03(º\x91n`0£À2ª\x15»\x93\x99>ÚE[0m" 400 -
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] code 400, message Bad request version ('N\\G®Ô8j\x16½Úé\x00')
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03q\x15Âqþ\x03O\x95Bí¦´DO1µ\x9d´ôZÆw\x1a\x95=q©\x8c6N|\x16 \x8ag\x9cQ\x08<\x80|âIÏG²\x143ÇMæ\x83c\x0dN\\G®Ô8j\x16½Úé\x00 [0m" 400 -
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+2025-07-15 23:49:23 - 127.0.0.1 - - [15/Jul/2025 23:49:23] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03÷ýx©¥\x05<@$ërÊ[íÌ2§h\x19Ó\x11?\x12\x82Ä½\x8f\x86\x94\x9e{X þÉ\x8dð\x1f¿Âe\x83\x84<F3Q\x10µ©\x02çD\x12\x16c³sMÿ\x98èíJÙ\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S[0m" 400 -
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] code 400, message Bad request version ('ã\x9bãöéÐkq6ÞÏ¥|c\x88ÕRUü\x84#\x9cÔ%RÃ²\x14Ì\x00')
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03 È\x01\x8aþ)Ê\x83Tzh¦æ3L·n*¡\x06¦5RN\x18VÙ\x10ºDd\x12 ÿé\x1fã\x9bãöéÐkq6ÞÏ¥|c\x88ÕRUü\x84#\x9cÔ%RÃ²\x14Ì\x00 [0m" 400 -
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03u9÷}\x813w©84\x93\x04IþEkÂú\x95\x0d%-R4BÀÒÅ)\x93Ãß t\x14\x17ØáEcá\x08\x14#¹´!.à\x96\x13S\x00\x1f`ÿÇÚ}Ó}:c\x0dQ\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063[0m" 400 -
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x83\x1b\x9bñ÷zÊ\x8chÑ(@ðn\x07\x9d~\x97ÅR;\x08\x02\x9b\x92¬4÷gª¦\x8e NF¬\x06ìÀvm\x8d,ò\x02\x19¶f\x92=Dü£zï\x80²Ü^É\x12\x8dÅuÍ\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01(\x00 \x9dò\x83k7`\x13ï¨´"D\x9b\x97r\x08¹\x7f¨-Æ¸h+½\x12¸\x1a\x8ci\\\x11\x00Ð­Q\x06f\x1fNG\x0c9\x19\x18\x19y\x8fj'«\x97²w"\x12õÍzXøÃþ*\x8aÙÚ\x0c\x9d¸\x96à¯s\x0dHµèOH\x00\x88£<Xç\x89éà7\x94c¸S³Ho\x07îY\x00}ì\x14f\x8eJHoÞ»Ã\x95´;¾\x89Q\x83Õxác¤\x0c\x0f6o\x03\x1c?5\x13\x85B%kþs  U7±\x06Csaz´}üÍWR\x07Ðw\x90PûÆÅb·²=\x1e\x84°\x09¸\x07õ±,V\x7f7v\x94¦\x08|\x8fdØ\x15È8Q²[ÐF4\x87^¯\x7f\x86¥\x0c©ªûKÖJ\x09\x96iÇ*Ô\x88$\x87\x9f#I\x16vDv&¨¬ù*\x10\x88û\x0cfVP\x1aÅEPfÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00\x00#\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" 400 -
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] code 400, message Bad request version ('ö6\xad\x00Ü»ð*dò')
+2025-07-15 23:49:25 - 127.0.0.1 - - [15/Jul/2025 23:49:25] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ù\x80\x1f+J \x11\x91ß\x8c\x8f\x9f=3)\x1e\x9aY\x12Æí\x9f\x80VØ\x95r|\x13±°Ö mÑ¼ô}Ôºfµ4Ý\x86JbÕ\x8fT\x09ö6­\x00Ü»ð*dò[0m" 400 -
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00')
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03>AÙyÔw\x9d20ÀeO¬[Á\x0b¦\x91¢ëEì\x8a\x0bÅhY\x91P©\x95b vZX)Fò¸yTÞ:¯O{£/ÄÁQ<ÃÖ¨¡ò0þU´ð\x05\x8a\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x9a\x9a\x00\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03EÁ¶g¢ýRM\x88ÁÆþ¬@|ô¾[0m" 400 -
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] code 400, message Bad request version ('¦\x89R\x93\x92Æ¡qÜ9+\x9a\x1b')
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x19\x92½\x1bÃ\x05t\x0bpÃ \x0f\x13ðû\x03!¸ÿÚ{®\x17\x95cSÜOz¯íi ;\x1e\x9bú\x1bMf@£Ü\x80ó\x97\x82\x04Ô±V\x023*¾³®:8â³\x9bAÛÐ\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063JJ\x00\x00\x00#\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x0b\x00\x02\x01\x00DÍ\x00\x05\x00\x03\x02h2\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04Àê\x16\x90\x0f\x98\x099  J\x94Ê\x84Õ>mvÈ°\x96\x8d¨u¤~dzqZ>¡\x1b´ÿH>pò\x91à¢9\x0b¦\x89R\x93\x92Æ¡qÜ9+\x9a\x1b[0m" 400 -
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] code 400, message Bad request version ('Ég\x11fW\x8f·°\x80K¢\\¼á\x8c\x9c®á\\\x88Îç9\x0fy\x02l\x06.\x84\x00')
+2025-07-15 23:49:26 - 127.0.0.1 - - [15/Jul/2025 23:49:26] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03¡\x81@\x86\x98kï¥r\x19Nr\x16UáJU\x9dir>Hº\x7f÷Ó\x9896XÏ7 K\x1dÉg\x11fW\x8f·°\x80K¢\\¼á\x8c\x9c®á\\\x88Îç9\x0fy\x02l\x06.\x84\x00 [0m" 400 -
+2025-07-15 23:50:12 - 127.0.0.1 - - [15/Jul/2025 23:50:12] "GET / HTTP/1.1" 200 -
+2025-07-15 23:50:12 - 127.0.0.1 - - [15/Jul/2025 23:50:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] code 400, message Bad request version ('ü~\x8b@·øÖ')
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03´=¬<LZ¼ZS­\x06\x99\x0e\x14T¾+\x1a \x08$JyÔÃéVÛ\x1b\x16\x1fh \x84µÁ\x94\x1b\x0dL>híÂV\x0cRòHn·>X\x13¿PçÏñ\x8e\x97©"O\x1c\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ÊÊ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1þ\x0d\x01\x1a\x00\x00\x01\x00\x01Ý\x00 \x98(\x07R0\x94qºTØCe)¿dÂ©2àÃä¾uþ\x17)Ð7\x99úì@\x00ðì\x0cd«ËI©6ÈÃÔ·J\x9e\x03fÞ;OÆ1¾¨eêSp\x1f\x18í#t¸\x9dµ\x0e­s\x07­½\x8aZ\x09ü~\x8b@·øÖ[0m" 400 -
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] code 400, message Bad request version ('îxÎ$®-²:\x1b\\\x0fxæí¦')
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03"lsK\x9b%\x94À«§\x1f\x14æV\x95H¯Ê\x98Xc\x10úÛU\x01\x87~\x93OÓ\x0b TýÛ\x92\x0dø\x09îxÎ$®-²:\x1b\\\x0fxæí¦[0m" 400 -
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03Ú\x00\x1cce\x1e$¶\x8c{·a\x80A\x9b 9YH\x892ÁÁË\x07q\x0e\x95ëÑ÷û k¸ÖAQ)\x1b\x1eí\x91NõQ\x1bCÃ\x07\x1f\x0e±\x07{°Æcah\x00\x09\x1e@Â\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S[0m" 400 -
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] code 400, message Bad request version ('Fé\x18-j')
+2025-07-15 23:53:49 - 127.0.0.1 - - [15/Jul/2025 23:53:49] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x12\x8dMÁååJa6Ü¡Uº>u\x80³sKSÈg«4S¶D\x93nâj| ¾)c\x81\x0bÀð_Bïq\x90ÜS\x02Är\x9eß\x107Â\x8d\x86(\x91Æ\x81è\x84¼Y\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063**\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04í::\x00\x01\x00\x11ì\x04ÀbåÃK¬\x12ÅàÎ»@\x9a\x8bP>\x89fTü\x90\x1bÓ\x17\x98W,\x94»ÀÆ2s?\x9døG){.ÌSEKë\x83\x07Q6y\x07\x94\x8cL\\{\x15\x18õ£oÇ2C\x06\x87,ÅZxÕ\x99*³ùzú$bw\x9c',õ%r¨~É\x00¡CQ\x8f\x97gªl#\x88.\x85Fé\x18-j[0m" 400 -
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03âÐï')
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03âÐï[0m" 400 -
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x05v(g0rì\x01ö\x89«;\x83vÃ4Lò5\x9dE\x99§ãÖO=\x91RxfÉ')
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x05v(g0rì\x01ö\x89«;\x83vÃ4Lò5\x9dE\x99§ãÖO=\x91RxfÉ \x04\x16\x01²ç[0m" 400 -
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] code 400, message Bad request version ('\x1a\x83üY\x9f5Ånh§\\¦±r©ñ¸m/ñ$õø\x14\x11¸Â\x15\x8e\x99ò$F!ò(SæI¬\x89Cùïe"z|Ãû¬»JaPé\x8bH2Cø6\x05\x1bKF÷¿±\x80tØ\x1aÖP\x89')
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x89Ýs\x19âí\x97Y!\x94#©\x7fªf7.\x98ê\x93\\\x12\x0dT\x12Å\x84­Í\x1c\x1c' \x8c\x85\x9b\x0d6à ¼\x81Âåa)T\x8eú\x0dcËTØ\x1cã\x88Çg >¢»×?\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ªª\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00\x00\x17\x00\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01F\x00 64ðºÂh¸¦OúrMJÿF\x8f1\x92\x90ù\x14~9\\:~ZïSv,\x13\x00ð\x7fåÙÿ2z\x19\x8av@û\x0b(\x95õÔ\x8bd­\x16Ñ g\x04egï\x98}¹ò|\x13Y\x81ò°\x80¦\x9f\x7fò\x94\x82\x18\x1b>Ûùjî\x0b\x1a\x83üY\x9f5Ånh§\\¦±r©ñ¸m/ñ$õø\x14\x11¸Â\x15\x8e\x99ò$F!ò(SæI¬\x89Cùïe"z|Ãû¬»JaPé\x8bH2Cø6\x05\x1bKF÷¿±\x80tØ\x1aÖP\x89[0m" 400 -
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] code 400, message Bad request version ('\x02h2\x08http/1.1\x00#\x00\x00\x00')
+2025-07-15 23:53:50 - 127.0.0.1 - - [15/Jul/2025 23:53:50] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x9c7\x1a«#\x12Ð\x09< îB>ù\x1d:hm$î\x89@ÈùôáZY¤H9M E\x92Ý\x15ª\x14uÊ\x158ROµHÍ\x8a\x14,\x99Øc=¼}#+\x17\x7fÁ±íÏ\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93êê\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00#\x00\x00\x00[0m" 400 -
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] code 400, message Bad request version ('<')
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03×Vjê\x85\x0c\x8dÁýxÏNsµ\x86\x96vWà\x96æC\x1fÀM¾Æ0ÎeäÀ <[0m" 400 -
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] code 400, message Bad request version ('¼\x98°\x93ÁZSó¼dzsBé~\x93\x976&3\x05Û{\x95Þ3À~Cr4«\x14\x81û\x1bFX\x9fïÁ}Z¬&\x98\x12l\x8awL&¹i¯\x9a\x9a\x9bÈ´:lLD&½»·')
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x07ü½õ¨¿.\x83yÜ\x90\x80\x08\x15OÈ9¬öÈ\x09\x9e\x9d\x0dkèñºu 'º D\x0f\x990Æ õ\x0dÎº!\x98yËÇ82ö\x03\x8e\x82àÃ\x9a§ôa\\u\x8e\x18^\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063zz\x00\x00\x00+\x00\x07\x06ºº\x03\x04\x03\x03\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04À0\x09\x06¸@^\x82ò¡oc\x87Ó\x88t2k=\x0cê¢*7i«ÓÄ\x90vN¼ù¡ÑG\x0c`ën:\x1c2^Übb{\x90ÖI4D¼CÖ\x1c\x98\x0d\x08ÇÚ\x887çÅµJõ»Ýò­\x0c!\x17\\×'ª`:¨Óf%&\x17ÄÖ²\x150\x03@phµÔ\x0b¼\x98°\x93ÁZSó¼dzsBé~\x93\x976&3\x05Û{\x95Þ3À~Cr4«\x14\x81û\x1bFX\x9fïÁ}Z¬&\x98\x12l\x8awL&¹i¯\x9a\x9a\x9bÈ´:lLD&½»·[0m" 400 -
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x05!\x9fÓ´G\x14Øóèº²ÔºKO\x96ê¢`]\x97+\x03TÏ\x12a\x84*\x14§')
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x05!\x9fÓ´G\x14Øóèº²ÔºKO\x96ê¢`]\x97+\x03TÏ\x12a\x84*\x14§ h\x05ÞÁÙæÌ\x94\x81[0m" 400 -
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00')
+2025-07-15 23:54:00 - 127.0.0.1 - - [15/Jul/2025 23:54:00] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x00\x91\x17oL\x0c\x89ÁV\x18\x9d°Ü\x1cu\x18}\x15WZ\x90ú\x17~õ.\x88fT\x80Ï\x16 +7\x03¯B\x02ßî\x89·\x94_D7ô^¢O3\x9c\x01¬>Ä\x8cÓ\x92ù×úÅb\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03þ\x0d\x00º\x00\x00\x01\x00\x01¨\x00 =o\x0el\x17\x92$YjasêuïÿóQ\x06)Çö\x1daq;\x113\x1bÅIóE\x00\x90t\x09\x81\x86\x97k«7þú;*)Ô(KaÝ\x86Ë\x13ºùØ[¦ñ\x93\x9c«Ü\x0f±í\x05\x019\x1f½ú¿Ú¡hÍ\x85§\x06|{P\x02\x05²°Äãÿ£ÌÏ\x15\x90éjU¹W(«é\x0bÄä\x1d\x17l^ÝåÔÑ\x1d#VPUA°}gbG\x9c\x93\x02d\x17½ó§\x93­Bø»Ðt`Û\x9fÞ\x1a_±ÖUäñ\x8eÏ\x8f\x8eÊ\x11Éú¯Æ»\x1c\x88R)HEbX\x8d\x93(s\x9fè\x00#\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00[0m" 400 -
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x032ß\x05´¹´\x86\xadùE9ÈÃî\x9cL')
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x032ß\x05´¹´\x86­ùE9ÈÃî\x9cL \x02g\x93\x13,j®[0m" 400 -
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] code 400, message Bad request version ('R;g~Õ,có\x98E>LÀ')
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03þP>IEñ v/òK\x08µAå·Ñ\x19dú­;û\x11Q\x87¹¸6eW\x1b ¥.÷]ûÍ=Ø\x97IÞß\x03ØßBç\x8d\x1c\x18£BZ©³§®Ç\x0c\x0cðn\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93\x1a\x1a\x00\x00ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04í**\x00\x01\x00\x11ì\x04ÀÅì\x8b\x83R½P,È\x8eh\x87ê\x132\x8bt\x15pkx{¹h\x1e3\x0bn`!CªÇáÚ\x7fCädYàC¦¤¢úºWï\x86JDÇ«ìöu\x078©\x03¼ih\x8c]øê\x1e\x12\x0cz\x03»(í¬\x1d\x13ë_¦Àµåt\x09\x85»\x93\x15|\x88#\\\x9a\x9c\x12:\x19áÅvàjv\x15nvq\x97\x0fcM¿DÇ»¹¤h3`Bæz+\x0c:~Õ½ã\x01\x7f\x1b\x98yðÐ\x08\x08 o·J\x8fïÐ¥\x99Ë\x1fI\x83në\x0cR;g~Õ,có\x98E>LÀ[0m" 400 -
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] code 400, message Bad request version ('ô´Sv\x98¥\x02\x04')
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03Ì%kt=ü+ª%"[»ù|dE .Ï9\x90b^\x07ï\x09-CÃmQl \x1b¬¸¾±\x0e\x91ð3\x1c\x88\x8c(\x01R\x11\x00\x80\x9b@;\x18ht¼i\x00wXø~0\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06JJ\x03\x04\x03\x03\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04ÀÆ¥\x96\x07ðÌÈ\x05»\x0cô´Sv\x98¥\x02\x04[0m" 400 -
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+2025-07-15 23:54:02 - 127.0.0.1 - - [15/Jul/2025 23:54:02] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03t\x01\x0e\x81[0m" 400 -
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03YQ\x0cf\x84\x10ÿð\x8ezRJÙõâl)\x93T\x80ý¥T\\\x03\x13àX¾Øi¼ \x9f×BÙ\x8a!syéQ\x97\x85Æ\x19+¶`Í(Üî\x0dF\x8eÖÖ1L¢É\x95Ø\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x1a\x1a\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x12\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03þ\x0d\x00Ú\x00\x00\x01\x00\x01X\x00 >£Ç\x9e\x0fÛòï`|¡ÝL)\x17®Ê¢\x98\x1e·\x0c\x9d\x0e6½¬\x95`#p%\x00°x¬Wé¶:\x9b\x18cß\x9béÅC\x82Ë\x8a\x10f&ZU(\x19;·¦ºKÛ±¹g¹A_\x09âÌzÆlh[kR\x8bÓ\x89ëèÒPÍzh\x8b}\x7f+N%Ú\x01±GïÑì\x88Ânz\x7fæÚg8#ùªK\x88Ëô\\ì\x9fÞK>æ%\x99ðèb¾ÊÕwÎ¼ýg¬WR\x80\x8fn\x81m\x12P=mÔt©\x97¸¼\x83 eE\x0fÿÔáÁ²0\x8eÑ\x13Ä[¼ùA}\x19?YÜ¢Ý^É+íéÓ2"wêÅ\x03½\x1c®\x98"\x01i2Ü\x1a%\x8e\x88\x1f©\x00\x0b\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00[0m" 400 -
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] code 400, message Bad request version ('\x00\\íE»±³Àü`DkÜ«D')
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x00\x15B\x0c\x14Â\x09o6,\x8d¦\x99Í³:Ö\x8a£|¡ø\x9cà3\x07ÀM\x19%\x97f À\x10#\x19Q4ÂnF\x9fJ\x1c\x11¸Í\x1a0/ãÂ\x05ô\x98\x8c2'\x89\x87z\x1a\x9bä\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SZZ\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04íªª\x00\x01\x00\x11ì\x04Àþë#ö:<tY\x93\x9bü0\x0e³yb\x16\x18\x93W\x17,Z+\x946H^\x97°\x949/`r¼"\x90\x7f\x85I%Ø4ÆTâ\x01q´l¤J\x85\x1dØ)aÜ¶|±:ß\x956R\x1c\x08Ü@pÅüDÛÕJÂ(\x02Û\x1c\x17\x93Ça\x99+Q\x8cp\x09«P=ôô\\d\x96\x8e\x8d\x1b7\x1c2\x90th\x14£à·Ù\x09\x88\x01\x03¸\x8fS¯á±\x84\x14EG¤à\x9e\x04RÁh@\\Pæ§2w4rQ\x80{@Tuâ_A,¢`¡%-\x19#¨Ç\x8eÈ ­å\x96[-r\x14\x1er\x97\x19\x12\x14ã2\x12Ä"j¬Z\x14Þµ¨¡Uz<\x9a{£\x1b\x08\x1c\x00\\íE»±³Àü`DkÜ«D[0m" 400 -
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] code 400, message Bad request version ('hÊÛ\x81"*£\x94§l&1§ÄÉ]\x06\x00Ð®\x14')
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03WÏ \x05}\\Ý\x00à*\x15%mHc=Fà\x0fU\x9f*è4m@\x8a\x9b{÷Dy ¯<\x04_c\x96JY­P×c\x9eÞoø,Æ³\x95\x8dJ\x04)B¦\x8a@\x9eÖ(\x18\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1þ\x0d\x00ú\x00\x00\x01\x00\x01~\x00 â\x82\x82\x06¼ø¾\x04r³)\x14Tl\x1dhÊÛ\x81"*£\x94§l&1§ÄÉ]\x06\x00Ð®\x14[0m" 400 -
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] code 400, message Bad request version ('T`1\x11\x10nlnî\x97ù\x9d\x9f\x8eËÍ\x82\x10')
+2025-07-15 23:54:26 - 127.0.0.1 - - [15/Jul/2025 23:54:26] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03£Ñm\x83\x1fSÅãd\x90áËa¤EPü2É\x0bb~x\x97µj$x^é\x9dS ê\x9dC÷Ì\x88k>àÙez\x19@b\x80³OØÜ½ü\x17\x14\x97\x08áô¿K\x0bç\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063JJ\x00\x00\x00\x0b\x00\x02\x01\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01þ\x0d\x00º\x00\x00\x01\x00\x01?\x00 \x15\x9flº\x93\x94¢\x0bE×"/ºx¹¯\x90ZR\x00Õoy­H\x11:Ä,m\x01\x09\x00\x90ORÔ\x98 \x0c.«½UT¥\x83Í/k)87êãá&¼ô\x15ÌÔbe¢¥8K1ùÒ×\x13öxãJ\x97³\x19Û"\x9f\x00£CÐ°¡+\x0eÙ\x8d\x1cJ\x13ct9Ç\x96ø£A\x9e\x14\x10Î`\x0e\x15À56^¾\x1e\x85£_+UW÷ÏAéd\x1fìõ5\x1dT`1\x11\x10nlnî\x97ù\x9d\x9f\x8eËÍ\x82\x10[0m" 400 -
+2025-07-15 23:54:34 - 127.0.0.1 - - [15/Jul/2025 23:54:34] "GET / HTTP/1.1" 200 -
+2025-07-15 23:54:34 - 127.0.0.1 - - [15/Jul/2025 23:54:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 23:59:00 - 127.0.0.1 - - [15/Jul/2025 23:59:00] "GET / HTTP/1.1" 200 -
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00\x00')
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03~vçò\x07¡(Oýh)h\x1ey\x16â\x8cY1\x0d§\x1d± r\\gÓ\\\x9a\x03\x0b \x1d\x03Ä\x91\x97 ÀÆ¥Ð\x82aò\x0feÇ½ÞÈk¿0Çòk9»{VðïD\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00\x00[0m" 400 -
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sºº\x00\x00\x00')
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x03­Æ\x09\x9b\x0e\\Íy*\x815í.\x19ÖÅååÉ}\x83É\x0eàd¦Ê8¹ñ¨ ¢B\x8aáËQóB|Äá\x0bX\x06y\x8a\x94\x87ïuXI_62\x00jSF\x84\x07)\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sºº\x00\x00\x00[0m" 400 -
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00')
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03á\x8cåµ\x94\x9dÑ)fjW\x16ÜoÅC\x90ô\x91cÍf\x90¶ßZ-\x01&\x02\x9a\x1e SéôB\x0dÚ\x9a1> \x9fµáØ\x0eÛ©\x84eàRëý\x8b¦\x08-s\x1aò\x00\x14\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00[0m" 400 -
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] code 400, message Bad request version ('´\x84Ö[w')
+2025-07-15 23:59:01 - 127.0.0.1 - - [15/Jul/2025 23:59:01] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03;&;\x97 ÀÁ\x08\x83\x06ÑJ\x90co\x101O=L ü¬\x9a\x1d\x97\x0d@tÅ\x17v ´\x84Ö[w[0m" 400 -
+2025-07-15 23:59:02 - 127.0.0.1 - - [15/Jul/2025 23:59:02] "GET / HTTP/1.1" 200 -
+2025-07-15 23:59:58 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:59:58 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-15 23:59:59 -  * Restarting with watchdog (windowsapi)
+2025-07-16 00:00:37 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 00:00:37 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 00:00:37 - [33mPress CTRL+C to quit[0m
+2025-07-16 00:00:37 -  * Restarting with watchdog (windowsapi)
+2025-07-16 00:00:37 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 00:00:37 -  * Debugger is active!
+2025-07-16 00:00:37 -  * Debugger PIN: 799-630-082
+2025-07-16 00:00:46 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 00:00:46 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 00:00:46 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 00:00:47 -  * Restarting with watchdog (windowsapi)
+2025-07-16 00:06:57 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 00:06:57 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 00:06:57 - [33mPress CTRL+C to quit[0m
+2025-07-16 00:06:57 -  * Restarting with watchdog (windowsapi)
+2025-07-16 00:06:58 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 00:06:58 -  * Debugger is active!
+2025-07-16 00:06:58 -  * Debugger PIN: 799-630-082
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ('à^¶îtp\x00')
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03á\x19(?ÚíÐS\x11õýò\x81\x0b\x8bè\x89Ãa\x9c\x06ü»\x8b±W¶Ö\x13÷øË \x8c\x81÷´UÙp\x8c\x1bVì\x92íÑ\x87;G8F8ÊìB«å\x09à^¶îtp\x00 [0m" 400 -
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ('\x99¡\x86UP@Ñ"\x90\x92R;%8\x02\x00')
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03:æ¸F\x90å\x0dÒ\x09\x7f(@oi­ÄT\x1dÁtVp\x8d{\x96äW Áu\x005 \x08ó\x14\\vºÌXI©Õ\x85\x9fÒ\x13`\x0c\x99¡\x86UP@Ñ"\x90\x92R;%8\x02\x00 [0m" 400 -
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ('?ðºþ\x93¼^äq)')
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03÷F)ìÙ\x02p¿·\x98-¾×\x03¥F\x87¸5ÇêÝô0!Ty\x14Ì\x9d1# 'Ý\x17µÔãujb\x9dÚ¾-,îÅ\x1bß¢·ð@0_ï\x12.³ß\x94Sï\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93jj\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01\x83\x00 «\x02Aà\x08ê©¾\x8bß~äAg¤~8\x9cå4\x09\x95%KÇÀäþÊJ$\x0b\x00ð¡k\x0cVGÉ¼¤a)V>ò ¯UDè\x14\x10¦ñX¸h\x96_W9Lõ«LV)ç²ì\x11¨\x1e>\x12gã\x83e\x9b\x93\x17XRö\x84ø]\x83pÈ\x8c\x1e¦\x87>*ÂîMÎcé8\x7f@>\x7f\x8dÑç\x99G´ò\x87ã(æÒ«~\x8d\x86úW+:\x03þâ¿Ñæ\x01ÁÊ\x8dÙ¡Í©ÂRkCï\x86\x9dPõ\x89w:ÙV>§SÖG\x17{Ó×ÆGðÑY\x87é©Ö\x8b'\x03Ûck9\x9cv¸²\x9bSý#ÏdtkF\x8bø.y~\x9a¸\x17QX\x9e´oY+÷nó#\x9c|å¿\x97ð\x0bZÊ3Ò²ñÑb®=\x01ØÁvl°\x19\x09É»\x19\x0ds\x9fÙÖ¾_\x1e\x87Eþw¾Qþ\x92ûÍÆ@\x81õæ7Ý¿gø¿\x0fÜ\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x003\x04ï\x04íªª\x00\x01\x00\x11ì\x04À¸\x97 U¬h\x83û~¬!¶æ\x10{ûs¶\x89TJÍ´@~Y&\x09\x9b\x8b×5\x954£\x00A²WÓË0b\x03cþ\x8c\x8b´g*£êe\x8a¦K¿\x81:\x16úa\\\x06\x89A9~?¨ÂBÄ\x87Ü\x16\x9d2°c¼¦\x850¼¡³D\x9f/\x0c\x88]\x8a½:Õ\x87û\x94¶õ4\x9d\x1bH~óÚÏa{a¨Ø\x0d?ðºþ\x93¼^äq)[0m" 400 -
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ("\x10Ã'\x91S\x04\x03\x8d¡")
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x00Yíe\x01u|\x1d-½)ª\x00®¸\x1a\x9eí\x9dï\x8fñc\x1cv­à\x1c¬Q\x0fæ °\x02ø\x9a\x94Új\x8bÇà\x0c\x11\x14®>ç ò\x7f\x7fH1\x00¢\x0eaR\x9bCÇjf\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s**\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04À\x88¶aí9 I\x93\x16\x82J[Õ¸[ò¬\x81Ô\x09g²UoçÚ\x0f\x9a¸!\x0b\x15\x07¿Y|\x9fá&ç#;ÝÚ¯ø¤<$if\x86Ã¡0ÈgåAÇ¼8D!&'À|1ý\x85\x10Ã'\x91S\x04\x03\x8d¡[0m" 400 -
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ("õq1å\x9d2ë\x00J\x98v\x15èW±B³¸)<¸I0¯±a\x13F4~±oÙ'w\x01¥\x16õ\x98ËVr")
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03QÏJR\x94 Â9ä¡¦I"ézþ¸\x18p\x80AogX\x12½ÓÓ\x15\x7fÞ- j\x120a`\x8b§\x80\x0bô\x0b\x02\x8e·yj\x02h~õ÷\x00°HP\x17Q\x9c·­àE\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93\x9a\x9a\x00\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04ÀrÈ\x1b¯auä´\x19âµÃ\x97\x1c\x1cK\x05\x14f«\x92\x18fR'c¸Üq_ºª\x9b\x02|3\x91»³\x03ÔµØ\x13w8JyÊ0\x9c\x18:\x91À)\x1e[\x99-=ö.!ãsôó\x1b¤\x92¸\x1e³Í\x09õq1å\x9d2ë\x00J\x98v\x15èW±B³¸)<¸I0¯±a\x13F4~±oÙ'w\x01¥\x16õ\x98ËVr[0m" 400 -
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] code 400, message Bad request version ('Uè\x08ºO\x8fEÇ.IX\x84\x1bÝT`\x8b{\x81â\x96P\x04\x88ô¼«aø\x9aRÍ_\x86\x19\x82"¤uÕv\x94ÒÏ\x073è×')
+2025-07-16 00:07:05 - 127.0.0.1 - - [16/Jul/2025 00:07:05] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03RUk¨ýÿY4\x0dâw?T9±4\x1dó5Q©\x8dx.\x98Z-ÖÎ5\\ì £µ-E\x1dý/\x11xû·\x91\x7fC\x94æ)¦\x14(Ù\x12 2\x0cóê)é\x88KÍ\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sºº\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01\x12\x00 ô\x0e\x8eÄAÝò©ÎùÜ¦T,{\x90jðÉ"­\x92(#ÑÛ6¦Ø&§;\x00Ð\x10:æý\x05óÍ\x8eöþP\x1bµuC\x13'Û¸ìñlñD®b+M\x19#>\x14 cU-ÞÇ,ÛÈ\x83jZº±Ç=×È\x16´n¥Ê\\ÒÉÄëa¤ikmÇ\x81\x1c\x85°\x84\x9fî9³<P\x05V\x02\x08\x97t¨I\x96¶\x94s}h¢·IMaA(<\x03ø"âµ\x17\x1cUè\x08ºO\x8fEÇ.IX\x84\x1bÝT`\x8b{\x81â\x96P\x04\x88ô¼«aø\x9aRÍ_\x86\x19\x82"¤uÕv\x94ÒÏ\x073è×[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x1a\x1a\x00\x00\x00+\x00\x07\x06')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03à6§\x82\x1ci\x16Äé\x06àb\x08»\x8f]LH\x07ë@@\x9d\x02äØ\x85Ò«pä\x94 1\x00à\\wÀ\x1f\x09Á_Æõ£\x91¼H¬h\x9d\x18+\x00\x92øÈ¡å3J="\x83\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x1a\x1a\x00\x00\x00+\x00\x07\x06[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('ê\x14ájõ"°ë\x8a%Á\x9b¦\x101÷g')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03(kr\x1eú\x03¿h \x836=\x00 \x16\\ob{6¾Ö\x87YwÞ\x03èO\x94¸£ y$â\x93"¢22¨¶bE°Ì}\x03ZZ\x99*Ö°Ç5\x82Ìâ|\x96¦\x1cÄ\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÚÚ\x00\x00\x00#\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x17\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01g\x00 ê\x14ájõ"°ë\x8a%Á\x9b¦\x101÷g[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x1a\x1a\x00\x00\x00\x12\x00\x00\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x92\x1f\x80\x8a¾È&çß÷yüòÐÁ³Á¨#\x89Y0Ô\x0b<´ inD\x1d¥ b©c©#KÆN\x08²\x91{K\x89\x99ô~«eÃg½\x84Uø2tý¹\x9ah[\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x1a\x1a\x00\x00\x00\x12\x00\x00\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x82\x1c\x841\x91§ÔS¦Cëx\x8a\x10t\x9dæ\x8d$\x0b>©\x96 ¿"_\x1d\x08¦p\x8a ø\x12ÀS3õ%â\x06Ø\x93èA\x8c$%2Ã\x9e\x04\x97t)!\x1e\x80\x02ó\x96\x08,j\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1ÿ\x01\x00\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01p\x00 ³ËÆX|ÞOj¬ÿjçT&fø\x84¯\x03I\x19eÔóNY\x97DòE<2\x00Ð-3ò\x0dÆÁ¥\x10PW,q¾;\x89¤ÅöìFXZ²Æ:{Y¥²\x18ÔHº.\x93"à¨í\x19\x01ÃÔ6Ä6×\\¨÷a\x08Èìâ\x89ð\x1aú \x99z\x0629E<öI#kc³>Y®\x93Òªç\x9dðØÃKÿ{úYº¨Ê=\x97l0^ÉÓ¶I\x95Ú}q9\x94\x92Ûm=®\x0cÇ.R0\x7f¯\x98¦½ N¨\x83_Òx»B\x1eø3-½Í[ðÏ'z\x80,\x12=L5K\x0dÿÁø\x8cÛZßªyM¥\x0cëõò\x85írt\x95¹èH\x0e³ö;µÊ\x8bÜ\x9fùT\x11G\x93åõ\x85\x8e\x8e\x92Ò\x1c±Æ\x86ÎR¾ÅYS\x98w¼ð\x00#\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04À¦\x96')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03wD\x18.\x907/ÉáWy-.Î\x07ÂØ\x1d\x86\x91mª\x81\x02\x85\x06Ã\x0c\x9d¿\x16\\ De9\x15\x1f\x80\x09[ßwÌ9¹õïÅ%^~\x97m³¹ô\x84A\x17ÅÑ-\x9fs\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ZZ\x00\x00\x00#\x00\x00\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06JJ\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04À¦\x96[0m" 400 -
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] code 400, message Bad request version ('Ì×=¿ã\x9eù\x9cj\x07óÝ¬X¾\x84\x92\x95å»')
+2025-07-16 00:07:07 - 127.0.0.1 - - [16/Jul/2025 00:07:07] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03Ã/pZ\x1foü2\x1cWjP½¯»Ð\x04\x97\x0b3\x1eEf\x87Å1B¿U\x0c>¯ Ì×=¿ã\x9eù\x9cj\x07óÝ¬X¾\x84\x92\x95å»[0m" 400 -
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] code 400, message Bad request version ('\x16â\x0fÎ¥\x8dA«Nì¶6ãkýáoz{ì\x8b6\x91\x99DË\x90|g?\x82G\x14FVÓíØÂÃ·¸qéâR\\´à\x9e¸\x9c+Ò½VW\x18\x1b·vªjµà\x90\x8c')
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x031Ö\x0fÊ¾¨MKóa9vz¥é¼\x05tL!¥\x97Ì\x9cá\\\x81\x099Ð«¿ \x9f¾îÔá©DF\x07\x03"­6ÚY\x91%¿\x0e®\\ZÝ`¤Í\x1dÐ\x99\x15=ª\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s**\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00-\x00\x02\x01\x01þ\x0d\x00ú\x00\x00\x01\x00\x01\x10\x00 G\x95\x86\x09Qo\x1aâÄdK\x01¡8\x9axìBÑêêkµ\x82D(²\x1dÿ\x9eÝQ\x00Ð\x9bß\x81P/Ý=è F\x7f\x1bmNI\x800\x0b\x16â\x0fÎ¥\x8dA«Nì¶6ãkýáoz{ì\x8b6\x91\x99DË\x90|g?\x82G\x14FVÓíØÂÃ·¸qéâR\\´à\x9e¸\x9c+Ò½VW\x18\x1b·vªjµà\x90\x8c[0m" 400 -
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] code 400, message Bad request version ('¹fX\x07\x91\x17NöUL¸')
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x17\x888ÖA\x0e\x16O­\x8eâw½;á«@ê¬Ý+`MOâ×ÙV\x08@ù\x99 e\x8c\x0c¯;\x85ö\x07\x90bgµæ2HÐËw¼Â¡Pô\x09 úôô\x99w"%\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x8a\x8a\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00#\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04Àâ\x16\x81\x08\x88³yY\x853\x05|Ý\x1cwòÑK\x0d\x06\x12\x935\x98\x97\x86tI×\x01\x96\x80\x93y#8\x91w\x0eç\x95Ì×ë\x1bÝ£`\x9f°¿Q§\x11\x0eb^*\x05\x88m\x9b\x0d¹fX\x07\x91\x17NöUL¸[0m" 400 -
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00#\x00\x00\x00')
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x89\x9e#á&\x85\x85èµ\x92ÔþÅ§3°;ÅQ\x87"o·\x8f\x10¿F\x89ìãÚÙ *;\x05Ù#\x89\x895¾\x1cÖóË7+[æj\x04>ÁXïVsËÆ\x86\x0e\x0bÇê\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00#\x00\x00\x00[0m" 400 -
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] code 400, message Bad request version ('û¸B)\x8a\x8e¢\x1aeüEÀ\x92Z©3\x10@\x04å$j\x81§ÇE±\x9eR»\x0eØ\x80L<32\x07}\x89°5\x01ÊO\x08\x06\x0fù¡±\x06ê\x17\x1bÂ6\x95(c_Ä§à¡\x9eø\x94\x0fèô&Ì\x1b·]')
+2025-07-16 00:07:24 - 127.0.0.1 - - [16/Jul/2025 00:07:24] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x14«ÞÛ¢$-\x9d\x13f\x11N°q{=á\x0b÷lÈ­Í\x81\x8c\x18}2Ê\x03\x1að !Îu·ñ!\x02¶Lõ»\x81¶:nÙzõ'¸\x97Ê%UþÝ®×D\x04\x98^\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S::\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x003\x04ï\x04í\x9a\x9a\x00\x01\x00\x11ì\x04À\x1c¼Ê&\x1a"#© û¸B)\x8a\x8e¢\x1aeüEÀ\x92Z©3\x10@\x04å$j\x81§ÇE±\x9eR»\x0eØ\x80L<32\x07}\x89°5\x01ÊO\x08\x06\x0fù¡±\x06ê\x17\x1bÂ6\x95(c_Ä§à¡\x9eø\x94\x0fèô&Ì\x1b·][0m" 400 -
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] code 400, message Bad request version ('\x91ù¹~\x8dÿë\x01æQ×>8T\x000È\x88v\x9d')
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x99\x10\x89\x1f\x8a\x87ú>¼\x09·\x15Ëj'FLàét~\x1fÙ¦\x07£»\x99R3\x83} \x91ù¹~\x8dÿë\x01æQ×>8T\x000È\x88v\x9d[0m" 400 -
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x12\x00\x00\x003\x04ï\x04íZZ\x00\x01\x00\x11ì\x04Àx,3E"l\x9dÑ}9sFX\x94¼\x9fW.1ë®Ò4d¸Ê\x80ÜkTá1\x84y;Êêi>ÿ\x1bR¹\x88Xhá7ÌFÆQ©vðØ¾æ7±')
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03ô\\w-¨¹'}Óh9\x91¥Üào?ÌR\x92`\x9aÏÝ<Ë\x8aÓ\x9d\x88Øc ®Q³\x96\x8båË MÂA)ÁÄö0:Az½\x8fÐ'8\x12? e\x88\x84\x86>\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x12\x00\x00\x003\x04ï\x04íZZ\x00\x01\x00\x11ì\x04Àx,3E"l\x9dÑ}9sFX\x94¼\x9fW.1ë®Ò4d¸Ê\x80ÜkTá1\x84y;Êêi>ÿ\x1bR¹\x88Xhá7ÌFÆQ©vðØ¾æ7±[0m" 400 -
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03/Úü\x14\x90ù(?»¼BÁÊi\x83JÞ¬KK\x1b««e5\x9eU\x9a0¼.õ ÁÈWÖ\x8d¶È\x14§[þq\x05\x13ûû®âÆ]µbO\x95?{\x19}½\x87[¡\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063[0m" 400 -
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] code 400, message Bad request version ('§ç¼a')
+2025-07-16 00:07:35 - 127.0.0.1 - - [16/Jul/2025 00:07:35] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03¾é\x81P\x82¾\x95è}x\x8aiÇ\x04\x88ö¡µ\x1eÁ\x97oUy9f\x15cR\x00\x9cN \x0e\x0e3\x9a¿x2e«åû\x94­;*QïXA\x062Ø\x17J*\x14òÉ\x0b\x1d£Ç\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01\x08\x00 D\x9e}\x15\x0dNÅ0\x17´N\x09Àû\x98\x16ªú§È`\x9a\x94g\x9cP¥É\x9bSa\x02\x00°\x84\\\x98\x9eE\x12O)x\x06Û;«\x9f®B¾µ\x14½éø6RûñäÔw\x8cvºPª4;ÚIM\x0bÞQ\x1c§ç¼a[0m" 400 -
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] code 400, message Bad request version ('±7ãQ®Â´\x11Â')
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x82Èo;6¨N\x7f\x03\x87#ð¡ouYQT:ËÈ"%\x8d\x9a\x81\x8b\\âxR+ _ö\x9a®÷\x8fÖ`kævÓ]×£(ß\x1b\x04ãÀÏïEÚÝ¨¦}kÚ\x08\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S::\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04Àyj,hÂ\x14O(\x14\x8c1¶¹\x15i\x0b0-¸ñºÞEW\x88\x93ZeÅÁ\x11Ê§\x03d\x0f!\x9bR\x08W\x08\x8f\x85\x1d\x0c\x83\x04\x04ª>ôÆÅÀ,x\x1b\x87r\x1aF\x86qÑ\x8f\x94\x0b\x88ib ©R8ù\\)þÐ\x92Ü\x96\x16Ü%]e\x98UÏRVNó\x17\x0bëykå\x92vB çÃT\x9ec¶¹E{P¡\x99\x05\\\x8bUD¢.ê¨V@)&\x92¶ ÀÀS+Ê\x0d±7ãQ®Â´\x11Â[0m" 400 -
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s**\x00\x00\x00')
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03$\x02b\x0fdT²\x114\x87cæÐ\x93\x93Yö\x88\x0eÃ\x1d³LáØ(­\x9fjÍBæ ï>\x16Ï­l\x13{·4îv\x9etdÀBbc\x86~{\x12±·\x04¼âvò.K\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s**\x00\x00\x00[0m" 400 -
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] code 400, message Bad request version ('ozº~\x00Ð+½\x15\x00Å£K$}c~Ñ\x9dõJ&ÌEê\x15\x83')
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ilx\x81þyIsÏo\x11Ú\x09ïfQÈÄ\x87¡Ò\x16LÐÎ\x8c7\x1dF \x05% ÷×\x1eu=\x9aÎûõV âT~\x87\x99ÚlÒke\x8bQ\x81y¶k\x95ñÖ[f\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s::\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01â\x00 \x8a`)B3\x91Z\x1dH\x83\x01\x17BÒ\x9dkqÀÞ:CUa\x80èÏÁ\x1dozº~\x00Ð+½\x15\x00Å£K$}c~Ñ\x9dõJ&ÌEê\x15\x83[0m" 400 -
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] code 400, message Bad request version ('\x16@LgÃ%9\x84\x80\x91Æ2\x1a\x8b©©\x018u\x19\x801ß\x8cF\x7f\x82ÅÏ@½l\x08¡u\x81ªùB$ÜH\x95w\x18\x9fy\x97(')
+2025-07-16 00:07:41 - 127.0.0.1 - - [16/Jul/2025 00:07:41] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03 \x1e\x17£&;\x8cIP}OîðÄ\x9d[6ßyá\x94\x0fªP_c\x1f¥·ÞÖ\x9b FªÙtZ\x0bÎ¡k\x11\x07\x0c\x16¤\x85½ú\x000ÏR\x8aÞ\x1e\x9b\x1133ò<\x12¢\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04Àø¸\x82ð\x10AL²\x9bÓZ\x9bÞ\x08Rþ N\x9f\x84¬6â¾\x92¢³%qDLÒ\x8fq©\x8cçÅ\x01ñ¨n4fk½Jt\x87\x09EüÐ^\x0dYÊh«£)2\x992\x8b\x82êi\x83¶ñ#Ç7(Nì\x10t¡~qê3é\x00ÌîÜY`\x83\x85\x1c\x14µw8]7\x14zö ®"0ÍnHÎ¦+iV·\x16¯ú/_Ë}\x0eT\x95\x0f!´P\x95v\x93\x89F4\x96r\x91!\x90eD¸Þ\x0b<r¢ÏÛµ<â\x03\x88vTA\x8b\x86Kß\x07·Ú|[\x98 b\x0dxVÙ\x8b\x93Bi\x9f\x97\x05$Sl\x8b\x1e² ¡ð\x10±\x14\x03,#f×E1\x12Ð[\x8fóZßÒ2í²£lÀ&&Ú\x8f'\x0bºdzmÍrH\x18\x96~\x89\x09\x16@LgÃ%9\x84\x80\x91Æ2\x1a\x8b©©\x018u\x19\x801ß\x8cF\x7f\x82ÅÏ@½l\x08¡u\x81ªùB$ÜH\x95w\x18\x9fy\x97([0m" 400 -
+2025-07-16 00:07:49 - 127.0.0.1 - - [16/Jul/2025 00:07:49] code 400, message Bad request syntax ('\x16\x03\x01\x01')
+2025-07-16 00:07:49 - 127.0.0.1 - - [16/Jul/2025 00:07:49] "[31m[1m\x16\x03\x01\x01[0m" 400 -
+2025-07-16 00:07:49 - 127.0.0.1 - - [16/Jul/2025 00:07:49] code 400, message Bad request syntax ("\x16\x03\x03\x00©\x01\x00\x00¥\x03\x03hv\x9fýIö*\x82³Ãþÿv'J\x03«è\x03;åv\x8bÝ\x82%Êá]{Ðç\x00\x00$À,À+À0À/À$À#À(À'À")
+2025-07-16 00:07:49 - 127.0.0.1 - - [16/Jul/2025 00:07:49] "[31m[1m\x16\x03\x03\x00©\x01\x00\x00¥\x03\x03hv\x9fýIö*\x82³Ãþÿv'J\x03«è\x03;åv\x8bÝ\x82%Êá]{Ðç\x00\x00$À,À+À0À/À$À#À(À'À[0m" 400 -
+2025-07-16 00:08:08 - 127.0.0.1 - - [16/Jul/2025 00:08:08] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 00:08:17 - 127.0.0.1 - - [16/Jul/2025 00:08:17] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 00:08:17 - 127.0.0.1 - - [16/Jul/2025 00:08:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 00:09:16 - 127.0.0.1 - - [16/Jul/2025 00:09:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 00:09:34 - 127.0.0.1 - - [16/Jul/2025 00:09:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 00:09:34 - 127.0.0.1 - - [16/Jul/2025 00:09:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 00:09:42 - 127.0.0.1 - - [16/Jul/2025 00:09:42] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 10:20:20 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:20:20 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 10:20:20 - [33mPress CTRL+C to quit[0m
+2025-07-16 10:20:20 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:20:21 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:20:21 -  * Debugger is active!
+2025-07-16 10:20:21 -  * Debugger PIN: 799-630-082
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] code 400, message Bad request version ('Å\x93')
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03çQåÉâÐ¿\x1a8>\x0b\x9a49Ý=ë|s\x8b\x9bÈXæð Ò\x94#}¿\x8f èb=ÿ\x1bR\x9cÏ#)ª\x99:¶)æ]\x14d\x1d©\x8cE·\x8bÜÐ¡Þ\x0e\x03¡\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02þ\x0d\x00º\x00\x00\x01\x00\x01t\x00 ¿¯T.\x9f\x83¯\x14\x9a\x82ç\\ }%~]ð\x16\x8f\x84âþ\x1b`ÝõÆOø>V\x00\x90\x9fº©T'\x1a\x81ü\x11\x9fd³\x18ò<ÒßtÀt4PÒ\x0c\x17FÃ³@ÀgáÃ·q@\x13Ü\x113¥ßå¼A'»uwÐ1(5sgÉ\x7f\x8cR»áÆ§fÜ!·\x9dxM\x94!ÐuÓ\x14\x15ØÈ¾£U0þ4®È÷Ç\x85Å\x93[0m" 400 -
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00')
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03´eöX[W{\x93¾"\x993{ÎÌî\x8aã\x17ÞæÏØ¿\x0c§\x06Æ\x9f´ÐX ©\x08Ë\x95Ä³=.7\x92¼jÏ<ñêg[­\x88\x81¾!z:M\x15Ã\x95¬\x85Ç\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SJJ\x00\x00\x00\x17\x00\x00\x00#\x00\x00\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00[0m" 400 -
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03dû±~\x86yÊ¡Þå\x1fÕ"\x04«%Ý\x1a\x06\x91«Ïw\x9d\x87\x97³{¦á\x88? QÁ\x0f\x07¯º\x91¬\x96©\x861ì\x826ßÜ\x97 C{$+\x1c\x05¶¹Qnr÷¿\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063**\x00\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+2025-07-16 10:20:34 - 127.0.0.1 - - [16/Jul/2025 10:20:34] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03AX@ûè\x0b¬@Å3ï²ý$\x92ç\x89\x94B>h¿\x81$5\x1a~ñà\x8fªÀ \\À½ÐÊ\x7fg\x8c)Üôª\x84\x8c\x14Û~U6\x90Å{vm\x0eS4\x09±\x87y\x1d\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" 400 -
+2025-07-16 10:20:41 - 127.0.0.1 - - [16/Jul/2025 10:20:41] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 10:20:41 - 127.0.0.1 - - [16/Jul/2025 10:20:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 10:20:51 - 127.0.0.1 - - [16/Jul/2025 10:20:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 10:20:51 - 127.0.0.1 - - [16/Jul/2025 10:20:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 10:23:26 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\os.py', reloading
+2025-07-16 10:23:27 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:23:27 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:23:27 -  * Debugger is active!
+2025-07-16 10:23:27 -  * Debugger PIN: 799-630-082
+2025-07-16 10:23:47 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:23:47 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 10:23:47 - [33mPress CTRL+C to quit[0m
+2025-07-16 10:23:47 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:23:47 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:23:47 -  * Debugger is active!
+2025-07-16 10:23:47 -  * Debugger PIN: 799-630-082
+2025-07-16 10:23:55 - 127.0.0.1 - - [16/Jul/2025 10:23:55] "GET / HTTP/1.1" 200 -
+2025-07-16 10:24:06 - 127.0.0.1 - - [16/Jul/2025 10:24:06] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-16 10:24:14 - 127.0.0.1 - - [16/Jul/2025 10:24:14] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 10:27:54 - 127.0.0.1 - - [16/Jul/2025 10:27:54] "GET / HTTP/1.1" 200 -
+2025-07-16 10:27:54 - 127.0.0.1 - - [16/Jul/2025 10:27:54] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 10:28:21 - 127.0.0.1 - - [16/Jul/2025 10:28:21] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-16 10:32:05 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:32:05 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 10:32:05 - [33mPress CTRL+C to quit[0m
+2025-07-16 10:32:05 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:32:06 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:32:06 -  * Debugger is active!
+2025-07-16 10:32:06 -  * Debugger PIN: 799-630-082
+2025-07-16 10:32:14 - 127.0.0.1 - - [16/Jul/2025 10:32:14] "GET / HTTP/1.1" 200 -
+2025-07-16 10:32:28 - 
+--- Encrypted Session ---
+Email: pam.work1989@gmail.com
+OTP: 909178
+Encrypted Message: 8r8N2fHtLTy8WzKC9klc3g==
+Encrypted AES Key (RSA): Lya0WOpUcWk4YAmJnyRdSV1qZA45jW5mLbC3nHFKgzWyzdTdCHfC/kKQS+DbDa/BXj79hDsSWDxbR/dSEzQmxepxoeZkbSINxFYN7RYiPg/5LacIrfdDft4gNZWNQ3wMtLo6GuyWMAnBqY51mSMsqROeV0bjPl3YeSwlIxpX4tJA0WosriQpi7JK9RCx7ZrkNw61Cs/21pyvny/fA53ESojOX5JMNr05KOSV7uwQBPZBeig1PXcl0KhgK9vJazT9po6gRvgV4wPcq+ZYjTJpxAX7hLDHYfrQYS5d5E9KHBFRivIQ8V4zJk3r3l9GKbzBH2koesGxIEpI7XHegRgDGg==
+IV: M5PDdts4XulgJ3uw5GxTPQ==
+----------------------------------------
+
+2025-07-16 10:32:28 - 127.0.0.1 - - [16/Jul/2025 10:32:28] "POST /send-otp HTTP/1.1" 200 -
+2025-07-16 10:32:31 - 127.0.0.1 - - [16/Jul/2025 10:32:31] "[33mGET /pg2.html HTTP/1.1[0m" 404 -
+2025-07-16 10:33:21 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Crypto\\Random\\__init__.py', reloading
+2025-07-16 10:33:21 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:33:21 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:33:21 -  * Debugger is active!
+2025-07-16 10:33:21 -  * Debugger PIN: 799-630-082
+2025-07-16 10:34:44 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:34:44 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:34:44 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:34:44 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:34:44 -  * Debugger is active!
+2025-07-16 10:34:44 -  * Debugger PIN: 799-630-082
+2025-07-16 10:34:50 - 127.0.0.1 - - [16/Jul/2025 10:34:50] "[33mGET /pg2.html HTTP/1.1[0m" 404 -
+2025-07-16 10:35:00 - 127.0.0.1 - - [16/Jul/2025 10:35:00] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-16 10:35:04 - 
+--- Encrypted Session ---
+Email: pam.work1989@gmail.com
+OTP: 570665
+Encrypted Message: b8N9ACMPuNAqGzxOhJ7cng==
+Encrypted AES Key (RSA): CdEM+Jcw2YNYkOoqeWqIxOrBj+LcMBwyZakSFLCERvTMWz9QpvrFPE+4ZDwsqtBI6+4lSVIHbfdfzVtKh1mz90Js2daASH8xQWo7AEjAhacZB4LLkIFqWEepLKzqS3M/uJWppYKz7+YwUBobL181bNt4C0nJcVbjsomGQKbydZEpY2VrNn5I99DWDS2nRxiBTGNHf0w/mqPF4hMSx5tjz0xevTgr1vBScApKw6aBuDKz/BidvEp+gDD5k24dpQt4EADxH1dX1be4QDYrzkrLgsGtRA8rs2lzmoQOcfJwvo4sOvEFboUA6jSwWDV9HPxICcDaq8bX5cIW1FhHSMbang==
+IV: TpvePSa6tOh8W8QiDHuL8w==
+----------------------------------------
+
+2025-07-16 10:35:04 - 127.0.0.1 - - [16/Jul/2025 10:35:04] "POST /send-otp HTTP/1.1" 200 -
+2025-07-16 10:35:08 - 127.0.0.1 - - [16/Jul/2025 10:35:08] "[33mGET /pg2.html HTTP/1.1[0m" 404 -
+2025-07-16 10:39:02 - 127.0.0.1 - - [16/Jul/2025 10:39:02] "[33mGET /pg2.html HTTP/1.1[0m" 404 -
+2025-07-16 10:39:34 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:39:34 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:39:35 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:39:35 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:39:35 -  * Debugger is active!
+2025-07-16 10:39:35 -  * Debugger PIN: 799-630-082
+2025-07-16 10:39:45 - 127.0.0.1 - - [16/Jul/2025 10:39:45] "GET /pg2.html HTTP/1.1" 200 -
+2025-07-16 10:40:11 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:40:11 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:40:11 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:40:12 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:40:12 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:40:12 -  * Debugger is active!
+2025-07-16 10:40:12 -  * Debugger PIN: 799-630-082
+2025-07-16 10:40:21 - 127.0.0.1 - - [16/Jul/2025 10:40:21] "GET / HTTP/1.1" 200 -
+2025-07-16 10:40:22 - 127.0.0.1 - - [16/Jul/2025 10:40:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 10:40:38 - 
+--- Encrypted Session ---
+Email: pam.work1989@gmail.com
+OTP: 523637
+Encrypted Message: /6dNo2GFSl8fX9t4zk0uMA==
+Encrypted AES Key (RSA): C4UzNVMGpSS437O3N84IX7myge9DkuCcf6994WwnunC7PfgaNmdfWUNjuIP9W3iDUnQ80DxS3Vv3vmmWMW4tRp2f5K1q1GUFjrQPRsQLbrH+de2VoO6tKGEdQNtR/jv5U6jzCSWSqaU5rnIPglMKnlE/SxsAQjk0uth17pkb0mKa5irhGbw4usIP+0qI8tE6Jl1iCSBC8APnh0kv4jg6NyhfKELYtVNWdv57EWNKu56wCzjH+YB5+tAoAQaxPurvY0AHCx3lmZIElmtEG1GyRSqivZkWzKZo8FvR4qQhIobGFjHYMrrVgMCVhsN0Sa4zTzhrLcVhnUwXGaN1s4PH4g==
+IV: NIWze6QnbIumufEF46iLeQ==
+----------------------------------------
+
+2025-07-16 10:40:38 - 127.0.0.1 - - [16/Jul/2025 10:40:38] "POST /send-otp HTTP/1.1" 200 -
+2025-07-16 10:40:41 - 127.0.0.1 - - [16/Jul/2025 10:40:41] "GET /pg2.html HTTP/1.1" 200 -
+2025-07-16 10:41:07 - 127.0.0.1 - - [16/Jul/2025 10:41:07] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-16 10:41:09 - 127.0.0.1 - - [16/Jul/2025 10:41:09] "[33mGET /pg3.html HTTP/1.1[0m" 404 -
+2025-07-16 10:41:24 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:41:24 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-16 10:41:25 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:41:53 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:41:53 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-07-16 10:41:53 - [33mPress CTRL+C to quit[0m
+2025-07-16 10:41:53 -  * Restarting with watchdog (windowsapi)
+2025-07-16 10:41:53 - 
+============================================================
+Server Started - New Session
+============================================================
+2025-07-16 10:41:53 -  * Debugger is active!
+2025-07-16 10:41:53 -  * Debugger PIN: 799-630-082
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] code 400, message Bad request version ('BBC5')
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x9c~\x19*ô¾ç)eß±b\x97<¶\x1a\x03Äu\x9dþNÖ®mØ\x90§5\x82dJ ¢ý\x0cy«ßÀ$\x1f¼Ô\x84½L}\x05W\x1crÕSÖ?4ÍmØÉ{X-\x14\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93::\x00\x00\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04Àè¥\x84\x85©\x06\x8f!-\x8b0-kW³\x93Æ;],Xºq³\x8aº\x0e]4\x18ßê\x90ÇV0¢ò¿ÍÈ\x1bb\x8c:\x80\x19$X»\x8a^IrBü\x90\x971\x10&\x9c¼:c;H\x9a­\x11rÇRö\x1emÑ\x8dîÄÍøB\x1f\x14\x95µ\x80¥´ÃÚ4Ä´\x13!(gìèÅIBÀã;QÎÉ\x0f\x13B\x80Ý\x8a\x19½ôÀn);¶ú\x98ô2\x922Ñqî'Íðc^\x97÷_Ñ\x9bi\x973Ï_Cº¡\x08r\x05÷¿4Xg\x01²fOúÀ£òiË\x08Â\x13\x07¿,\x17#\x1d\x97D®¼uw\x09 æÕmÙpÉ\x88¸kõT\x8f\x9b4\x05BwTlø\x1e1Á\x9chæ>Ç4\x85\x85è\x03|×\x0cì\x08\x88ÞY{ø[§°ÌsJÀÈ¯Æ\x0bé±néh2b\x08-'#M9©U\x83\x11Je\x19"FeJ\x8a+\x16\x8c\x11\x90ó9®^4µ\x83¢\x10­Ã\x1eBBC5[0m" 400 -
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03KàÉ\x8b\x8a»]n\x8d\x04ø=ëD\x98¨\x81\x85\x1fÊL\x7f\x06\x0efK\x0bû¾\x06I\\ ¼Õ5¦ìO\x0b\x88ê\x80\x1aî\x8a\x7f(\x14  \x90\x1cõÈv\x9c¿\x9eÞ\x0f?ëÆd\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sªª\x00\x00\x00\x12\x00\x00\x00\x17\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" 400 -
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] code 400, message Bad request version ('À\x87\x83stü0Ü/\x02AÞ\x97\x8eò?mE«E`D>jåHyì\x9bä6\x02°íÍÍM\x84©-Ë\x8bÊl½¨S°u\x84Ý´\\áùÏ±Lå,¿\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03\x00')
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03>\x1f\x88¬Ð²s\x86Ie\x83¹¨[éÚ²ÌÕç7ý§i\x1b,\x85\x0e\x7fÆÏÊ PBß\x1d³]¦e¨Íoõ°\x8aÕò\x0fn÷R\x01àëNö\x9e\x8b\x1b\x00²È\x07\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00\x17\x00\x00DÍ\x00\x05\x00\x03\x02h2þ\x0d\x00ú\x00\x00\x01\x00\x01\x12\x00 EAÀ\x90E©¶o\x0cqp°p\x84\x90áÐ\x9etãouc\x8b%z\x05\x9dm.¨L\x00Ð\x9aJX¸ÍpÐ&_-\x9a`P"m«\x93ç/±\x91;§+¦ \x97f\x1cßØ\x8c4ö¦2ÌéÃ\x07^¼¹>Õ}\x9cæ\x14k\x07ôHÞkD;ó!-·\x88<-5\x8cyÑK{´Çë\x94çå]mðµt¤+\\h\x05ÜíÇ\x04.âÐN\x0d0­ú ,Ï÷î\x9dý!óª1½jqdÝí.ÂFjC\x07 :\x1d×d#ã\x1f\x06\x81¿TjL\x14\x03Åë\x15p\x97\x08\x03R}\x0cÀ\x87\x83stü0Ü/\x02AÞ\x97\x8eò?mE«E`D>jåHyì\x9bä6\x02°íÍÍM\x84©-Ë\x8bÊl½¨S°u\x84Ý´\\áùÏ±Lå,¿\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03\x00[0m" 400 -
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] code 400, message Bad request version ('\x00\x02\x01\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04í')
+2025-07-16 10:42:00 - 127.0.0.1 - - [16/Jul/2025 10:42:00] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03¢Yð\x9dbºM¹}á´-Ñ\x8d¼õ\x05$\x83Ñ\x8d5J\x1aË×\x17¢sÌWk à\x1e\x90\x0cî>=íI\x02Þ'.Í\x92anåWçB;/HÒ¡7ÌÇ\x9f;"\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x1a\x1a\x00\x00\x00\x0b\x00\x02\x01\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04í[0m" 400 -
+2025-07-16 10:42:10 - 127.0.0.1 - - [16/Jul/2025 10:42:10] "GET / HTTP/1.1" 200 -
+2025-07-16 10:42:30 - 
+--- Encrypted Session ---
+Email: epitomearchangel84@gmail.com
+OTP: 743324
+Encrypted Message: KRFseYZj5ZUf+8SqY9/XLlSXnOT5rQeIlijWy6qDEOo=
+Encrypted AES Key (RSA): j80qq3iE1t0ZMamj1+cLLebDP6T+yifWTegHk0Lg1ARpLn+Ts/za2H5B/H1TXzdh0KeL0Dy7l6gsG7kPZa9o8zESheQQ8jAV1SkNf0II8NefBPM4iPvXbyMWX/FGryYx14TNL39ihG8cSD2XexWb71Vrd/9IvPiNLOcdNIsJTmH1XRmEDsRAU6sBcG1rm8edRGvmIU/4oNHvioIDYogypzjnwaE8XpJNeBzIzgfgQnIdGUFc3GJo07ZK3O3FRzF6F4OlNEJWiJAS+Uv3BA62IlaaS6GbQsgR5DIdfMVY5a+5BytIkQmQcH/kiPdLm4vAMQws6AeIIq9x3WB15FNsbA==
+IV: 96IKrU7tf0h2iGt7d+tkrQ==
+----------------------------------------
+
+2025-07-16 10:42:30 - 127.0.0.1 - - [16/Jul/2025 10:42:30] "POST /send-otp HTTP/1.1" 200 -
+2025-07-16 10:42:30 - 127.0.0.1 - - [16/Jul/2025 10:42:30] "GET /pg2.html HTTP/1.1" 200 -
+2025-07-16 10:42:43 - 127.0.0.1 - - [16/Jul/2025 10:42:43] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-16 10:42:45 - 127.0.0.1 - - [16/Jul/2025 10:42:45] "GET /pg3.html HTTP/1.1" 200 -
+2025-07-16 10:43:45 - 127.0.0.1 - - [16/Jul/2025 10:43:45] "GET / HTTP/1.1" 200 -
+2025-07-16 10:44:00 - 
+--- Encrypted Session ---
+Email: pam.work1989@gmail.com
+OTP: 661751
+Encrypted Message: HvppVjUcZ1Wk6/g08cZ/iA==
+Encrypted AES Key (RSA): FSFld+7TpJKbfFkKGfPtgGK2wokiPf+O0A9V2ST12B8HhtqeoVxqNvBANlcutxI9YOw3d1dF2E+1dYwMjFGLMDdhM8vF4+qVEUd5nHUQtyRythhH3BrPje39zsypZnGCaGyA/NJJdHpafN3T3SRQIs5uVDJ09KclUKy5T4s/oCDGbk5B4DyS3dIpvbDod++dA/CP1vEbdS2UYwfTSxXHDDQgF8QD7UlqGY34afdvaI56QxANwAgdQYb5B/gJUU5oyAphWzi8gdJfjTdfN3x8hejIFup+yT63tJkYvLJJKVBL+PMgmCIqy69T4LEoWSZ6UdZiT3KK3tiCjonxilyLqA==
+IV: suAsliOto7j+c0KTyTEWWw==
+----------------------------------------
+
+2025-07-16 10:44:00 - 127.0.0.1 - - [16/Jul/2025 10:44:00] "POST /send-otp HTTP/1.1" 200 -
+2025-07-16 10:47:01 - 127.0.0.1 - - [16/Jul/2025 10:47:01] "GET /pg2.html HTTP/1.1" 200 -

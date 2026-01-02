@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reveal Message</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/node-forge@1.3.1/dist/forge.min.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+    }
+
+    .clear-icon:hover {
+      color: #e11d48;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4">
+
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8 relative">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6">Reveal Message</h1>
+
+    <!-- Decrypt Button -->
+    <div class="flex justify-center mb-4">
+      <button onclick="decryptMessage()"
+        class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-6 rounded-xl transition">
+        Show Message
+      </button>
+    </div>
+
+    <!-- Output Box -->
+    <div id="outputBox" class="hidden bg-gray-100 text-gray-800 rounded-xl p-4 text-center border border-indigo-200">
+      <strong>Decrypted Message:</strong>
+      <p id="outputText" class="mt-2"></p>
+    </div>
+  </div>
+
+  <script>
+    function decryptMessage() {
+     
+
+      try {
+        const encryptedMessage = sessionStorage.getItem("encryptedMessage");
+        const ivBase64 = sessionStorage.getItem("iv");
+        const encryptedKey = sessionStorage.getItem("encryptedKey");
+        const privateKeyPem = sessionStorage.getItem("privateKey");
+        const password = sessionStorage.getItem("userPassword");
+
+        if (!encryptedMessage || !ivBase64 || !encryptedKey || !privateKeyPem || !password) {
+          alert("❌ Missing session data.");
+          return;
+        }
+
+        // Decode from base64
+        const encryptedKeyBytes = forge.util.decode64(encryptedKey);
+        const iv = forge.util.decode64(ivBase64);
+        const encryptedBytes = forge.util.decode64(encryptedMessage);
+
+        // Decrypt AES password using private key
+        const privateKey = forge.pki.privateKeyFromPem(privateKeyPem);
+        const decryptedPasswordBytes = privateKey.decrypt(encryptedKeyBytes, "RSA-OAEP");
+        const decryptedPassword = forge.util.decodeUtf8(decryptedPasswordBytes);
+
+        if (decryptedPassword !== password) {
+          alert("❌ Password mismatch or tampering detected.");
+          return;
+        }
+
+        // AES Decrypt the message
+        const keyPadded = password.padEnd(32, '\0'); // match padding from backend
+        const decipher = forge.cipher.createDecipher('AES-CBC', forge.util.encodeUtf8(keyPadded));
+        decipher.start({ iv: iv });
+        decipher.update(forge.util.createBuffer(encryptedBytes));
+        const success = decipher.finish();
+
+        if (!success) {
+          alert("❌ Decryption failed.");
+          return;
+        }
+
+        const message = decipher.output.toString();
+        document.getElementById("outputText").textContent = message;
+        document.getElementById("outputBox").classList.remove("hidden");
+
+      } catch (error) {
+        console.error(error);
+        alert("❌ Error during decryption: " + error.message);
+      }
+    }
+  </script>
+</body>
+</html>

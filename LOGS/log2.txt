@@ -1,0 +1,327 @@
+2025-07-10 16:09:11,409 -  * Debugger is active!
+2025-07-10 16:09:11,409 -  * Debugger PIN: 799-630-082
+2025-07-10 16:10:16,069 - 127.0.0.1 - - [10/Jul/2025 16:10:16] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:10:16,354 - 127.0.0.1 - - [10/Jul/2025 16:10:16] "[35m[1mPOST /send-otp HTTP/1.1[0m" 500 -
+2025-07-10 16:10:39,841 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:10:39,841 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:10:39,841 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:10:40,100 -  * Debugger is active!
+2025-07-10 16:10:40,100 -  * Debugger PIN: 799-630-082
+2025-07-10 16:10:58,110 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:10:58,110 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:10:58,110 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:10:58,372 -  * Debugger is active!
+2025-07-10 16:10:58,372 -  * Debugger PIN: 799-630-082
+2025-07-10 16:11:02,866 - 127.0.0.1 - - [10/Jul/2025 16:11:02] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:11:03,151 - 127.0.0.1 - - [10/Jul/2025 16:11:03] "[35m[1mPOST /send-otp HTTP/1.1[0m" 500 -
+2025-07-10 16:11:07,352 - 127.0.0.1 - - [10/Jul/2025 16:11:07] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:11:07,675 - 127.0.0.1 - - [10/Jul/2025 16:11:07] "[35m[1mPOST /send-otp HTTP/1.1[0m" 500 -
+2025-07-10 16:13:28,568 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:13:28,568 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:13:28,568 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:13:28,820 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:13:29,130 -  * Debugger is active!
+2025-07-10 16:13:29,130 -  * Debugger PIN: 799-630-082
+2025-07-10 16:13:34,987 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:13:34,987 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:13:34,998 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:13:35,273 -  * Debugger is active!
+2025-07-10 16:13:35,273 -  * Debugger PIN: 799-630-082
+2025-07-10 16:13:42,289 - 127.0.0.1 - - [10/Jul/2025 16:13:42] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:13:42,570 - 127.0.0.1 - - [10/Jul/2025 16:13:42] "[35m[1mPOST /send-otp HTTP/1.1[0m" 500 -
+2025-07-10 16:15:32,972 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:15:32,972 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:15:32,972 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:15:33,220 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:15:33,505 -  * Debugger is active!
+2025-07-10 16:15:33,505 -  * Debugger PIN: 799-630-082
+2025-07-10 16:15:50,953 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:15:50,953 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:15:50,966 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:15:51,264 -  * Debugger is active!
+2025-07-10 16:15:51,267 -  * Debugger PIN: 799-630-082
+2025-07-10 16:16:04,367 - 127.0.0.1 - - [10/Jul/2025 16:16:04] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:16:08,420 - 127.0.0.1 - - [10/Jul/2025 16:16:08] "POST /send-otp HTTP/1.1" 200 -
+2025-07-10 16:17:27,401 - 127.0.0.1 - - [10/Jul/2025 16:17:27] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:17:27,668 - 127.0.0.1 - - [10/Jul/2025 16:17:27] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-10 16:18:04,844 - 127.0.0.1 - - [10/Jul/2025 16:18:04] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:18:05,102 - 127.0.0.1 - - [10/Jul/2025 16:18:05] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:26:16,026 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:26:16,026 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:26:16,027 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:26:16,220 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:26:16 -  * Debugger is active!
+2025-07-10 16:26:16 -  * Debugger PIN: 799-630-082
+2025-07-10 16:26:31 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:26:31 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:26:31 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:26:31 -  * Debugger is active!
+2025-07-10 16:26:31 -  * Debugger PIN: 799-630-082
+2025-07-10 16:26:57 - 127.0.0.1 - - [10/Jul/2025 16:26:57] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:27:01 - 127.0.0.1 - - [10/Jul/2025 16:27:01] "POST /send-otp HTTP/1.1" 200 -
+2025-07-10 16:29:25 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:29:25 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:29:26 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:29:26 -  * Debugger is active!
+2025-07-10 16:29:26 -  * Debugger PIN: 799-630-082
+2025-07-10 16:29:32 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:29:32 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:29:32 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:29:32 -  * Debugger is active!
+2025-07-10 16:29:32 -  * Debugger PIN: 799-630-082
+2025-07-10 16:31:38 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:31:38 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:31:38 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:31:38 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:31:38 - 
+------------------------------------------------------------
+2025-07-10 16:31:38 - Server Started - New Session
+2025-07-10 16:31:38 - ------------------------------------------------------------
+
+2025-07-10 16:31:38 -  * Debugger is active!
+2025-07-10 16:31:38 -  * Debugger PIN: 799-630-082
+2025-07-10 16:31:43 - 
+------------------------------------------------------------
+2025-07-10 16:31:43 - Server Started - New Session
+2025-07-10 16:31:43 - ------------------------------------------------------------
+
+2025-07-10 16:31:43 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 16:31:43 - [33mPress CTRL+C to quit[0m
+2025-07-10 16:31:43 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:31:44 - 
+------------------------------------------------------------
+2025-07-10 16:31:44 - Server Started - New Session
+2025-07-10 16:31:44 - ------------------------------------------------------------
+
+2025-07-10 16:31:44 -  * Debugger is active!
+2025-07-10 16:31:44 -  * Debugger PIN: 799-630-082
+2025-07-10 16:32:12 - 127.0.0.1 - - [10/Jul/2025 16:32:12] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:32:14 - 127.0.0.1 - - [10/Jul/2025 16:32:14] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:32:16 - Email: epitomearchangel84@gmail.com | AES Encrypted: qpA6X6zTX+vKDYGM69GYXJVTEyuEdWvj7tr6+0RTeWSY/yp0X0TFB3Gjg2pKICtT | OTP: 274056
+2025-07-10 16:32:16 - 127.0.0.1 - - [10/Jul/2025 16:32:16] "POST /send-otp HTTP/1.1" 200 -
+2025-07-10 16:33:34 - 127.0.0.1 - - [10/Jul/2025 16:33:34] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:33:35 - 127.0.0.1 - - [10/Jul/2025 16:33:35] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-11 19:22:50 - 
+------------------------------------------------------------
+2025-07-11 19:22:50 - Server Started - New Session
+2025-07-11 19:22:50 - ------------------------------------------------------------
+
+2025-07-11 19:22:50 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-11 19:22:50 - [33mPress CTRL+C to quit[0m
+2025-07-11 19:22:50 -  * Restarting with watchdog (windowsapi)
+2025-07-11 19:22:51 - 
+------------------------------------------------------------
+2025-07-11 19:22:51 - Server Started - New Session
+2025-07-11 19:22:51 - ------------------------------------------------------------
+
+2025-07-11 19:22:51 -  * Debugger is active!
+2025-07-11 19:22:51 -  * Debugger PIN: 799-630-082
+2025-07-14 16:47:59 - 
+------------------------------------------------------------
+2025-07-14 16:47:59 - Server Started - New Session
+2025-07-14 16:47:59 - ------------------------------------------------------------
+
+2025-07-14 16:47:59 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 16:47:59 - [33mPress CTRL+C to quit[0m
+2025-07-14 16:47:59 -  * Restarting with watchdog (windowsapi)
+2025-07-14 16:48:00 - 
+------------------------------------------------------------
+2025-07-14 16:48:00 - Server Started - New Session
+2025-07-14 16:48:00 - ------------------------------------------------------------
+
+2025-07-14 16:48:00 -  * Debugger is active!
+2025-07-14 16:48:00 -  * Debugger PIN: 799-630-082
+2025-07-14 16:48:03 - 127.0.0.1 - - [14/Jul/2025 16:48:03] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 16:48:08 - 127.0.0.1 - - [14/Jul/2025 16:48:08] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 16:48:09 - Email: hbhasin5555@gmail.com | AES Encrypted: xjdB24Q2kUXk8HYy0LdiCCc30zrouon9NMCC5VLkPa8= | OTP: 536547
+2025-07-14 16:48:09 - 127.0.0.1 - - [14/Jul/2025 16:48:09] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 16:48:13 - Email: hbhasin5555@gmail.com | AES Encrypted: cb4nI32CEsY+vOHdNNxkC8jzTcLDCWXNCU/BUMeNLyk= | OTP: 781264
+2025-07-14 16:48:13 - 127.0.0.1 - - [14/Jul/2025 16:48:13] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 16:48:29 - 127.0.0.1 - - [14/Jul/2025 16:48:29] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-14 16:48:30 - 127.0.0.1 - - [14/Jul/2025 16:48:30] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-14 17:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\aes_util.py', reloading
+2025-07-14 17:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\aes_util.py', reloading
+2025-07-14 17:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\aes_util.py', reloading
+2025-07-14 17:49:03 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\aes_util.py', reloading
+2025-07-14 17:49:03 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:49:04 - 
+------------------------------------------------------------
+2025-07-14 17:49:04 - Server Started - New Session
+2025-07-14 17:49:04 - ------------------------------------------------------------
+
+2025-07-14 17:49:04 -  * Debugger is active!
+2025-07-14 17:49:04 -  * Debugger PIN: 799-630-082
+2025-07-14 17:49:17 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\rsa_util.py', reloading
+2025-07-14 17:49:17 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\crypto_utils\\rsa_util.py', reloading
+2025-07-14 17:49:17 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:49:17 - 
+------------------------------------------------------------
+2025-07-14 17:49:17 - Server Started - New Session
+2025-07-14 17:49:17 - ------------------------------------------------------------
+
+2025-07-14 17:49:17 -  * Debugger is active!
+2025-07-14 17:49:17 -  * Debugger PIN: 799-630-082
+2025-07-14 17:52:07 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:07 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:07 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:07 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:07 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:07 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:52:08 - 
+------------------------------------------------------------
+2025-07-14 17:52:08 - Server Started - New Session
+2025-07-14 17:52:08 - ------------------------------------------------------------
+
+2025-07-14 17:52:08 -  * Debugger is active!
+2025-07-14 17:52:08 -  * Debugger PIN: 799-630-082
+2025-07-14 17:52:32 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:32 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\asymm- tls\\backend\\generate_keys.py', reloading
+2025-07-14 17:52:33 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:52:33 - 
+------------------------------------------------------------
+2025-07-14 17:52:33 - Server Started - New Session
+2025-07-14 17:52:33 - ------------------------------------------------------------
+
+2025-07-14 17:52:33 -  * Debugger is active!
+2025-07-14 17:52:33 -  * Debugger PIN: 799-630-082
+2025-07-14 17:52:35 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Crypto\\__init__.py', reloading
+2025-07-14 17:52:35 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:52:36 - 
+------------------------------------------------------------
+2025-07-14 17:52:36 - Server Started - New Session
+2025-07-14 17:52:36 - ------------------------------------------------------------
+
+2025-07-14 17:52:36 -  * Debugger is active!
+2025-07-14 17:52:36 -  * Debugger PIN: 799-630-082
+2025-07-14 17:52:39 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Crypto\\PublicKey\\__init__.py', reloading
+2025-07-14 17:52:40 -  * Restarting with watchdog (windowsapi)
+2025-07-14 17:52:40 - 
+------------------------------------------------------------
+2025-07-14 17:52:40 - Server Started - New Session
+2025-07-14 17:52:40 - ------------------------------------------------------------
+
+2025-07-14 17:52:40 -  * Debugger is active!
+2025-07-14 17:52:40 -  * Debugger PIN: 799-630-082
+2025-07-14 21:12:04 - 
+------------------------------------------------------------
+2025-07-14 21:12:04 - Server Started - New Session
+2025-07-14 21:12:04 - ------------------------------------------------------------
+
+2025-07-14 21:12:04 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 21:12:04 - [33mPress CTRL+C to quit[0m
+2025-07-14 21:12:04 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:12:04 - 
+------------------------------------------------------------
+2025-07-14 21:12:04 - Server Started - New Session
+2025-07-14 21:12:04 - ------------------------------------------------------------
+
+2025-07-14 21:12:04 -  * Debugger is active!
+2025-07-14 21:12:04 -  * Debugger PIN: 799-630-082
+2025-07-14 21:12:19 - 127.0.0.1 - - [14/Jul/2025 21:12:19] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 21:12:23 - Email: hbhasin5555@gmail.com | AES Encrypted: 9jl13Xqla6cFeOt0MnJmVjFN/H1b484fkCNz6eLMfCg= | OTP: 979800
+2025-07-14 21:12:23 - 127.0.0.1 - - [14/Jul/2025 21:12:23] "POST /send-otp HTTP/1.1" 200 -
+2025-07-14 21:12:48 - 127.0.0.1 - - [14/Jul/2025 21:12:48] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-14 21:12:48 - 127.0.0.1 - - [14/Jul/2025 21:12:48] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-14 21:13:15 - 127.0.0.1 - - [14/Jul/2025 21:13:15] code 400, message Bad request version ('Îò\\¢')
+2025-07-14 21:13:15 - 127.0.0.1 - - [14/Jul/2025 21:13:15] "[31m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03>6\x94I\x91\x10öu\x0eÈ6!\x16:Ù0\x10\x16Yý$Ð\x17 $â³àìö.\x16 \x1f&\x97xáÎÐP\x85½oV\x93í±\x0bv½ç®h'¾Y\x08\x1fª\x89BQ\x10\x0e\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x9a\x9a\x00\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01DÍ\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01Ã\x00 Îò\\¢[0m" 400 -
+2025-07-14 21:13:15 - 127.0.0.1 - - [14/Jul/2025 21:13:15] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93**\x00\x00\x00')
+2025-07-14 21:13:15 - 127.0.0.1 - - [14/Jul/2025 21:13:15] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03×ã\x0blt£Üü\x0f\x10(Îì\x83û\x09Aéf\x89õD8\x87w>\x83=üL.k ,4£/\x93ç9cF}H\x8f\x08Ì\x0c\x80}Î\x1d¦ý<>q¢rÜ\x9f\x9d`À)\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93**\x00\x00\x00[0m" 400 -
+2025-07-14 21:16:29 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:16:30 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:16:30 - 
+------------------------------------------------------------
+2025-07-14 21:16:30 - Server Started - New Session
+2025-07-14 21:16:30 - ------------------------------------------------------------
+
+2025-07-14 21:16:30 -  * Debugger is active!
+2025-07-14 21:16:30 -  * Debugger PIN: 799-630-082
+2025-07-14 21:17:26 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:17:27 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:17:27 - 
+------------------------------------------------------------
+2025-07-14 21:17:27 - Server Started - New Session
+2025-07-14 21:17:27 - ------------------------------------------------------------
+
+2025-07-14 21:17:27 -  * Debugger is active!
+2025-07-14 21:17:27 -  * Debugger PIN: 799-630-082
+2025-07-14 21:17:59 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:18:00 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:18:00 - 
+------------------------------------------------------------
+2025-07-14 21:18:00 - Server Started - New Session
+2025-07-14 21:18:00 - ------------------------------------------------------------
+
+2025-07-14 21:18:00 -  * Debugger is active!
+2025-07-14 21:18:00 -  * Debugger PIN: 799-630-082
+2025-07-14 21:18:02 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:18:03 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:18:04 - 
+------------------------------------------------------------
+2025-07-14 21:18:04 - Server Started - New Session
+2025-07-14 21:18:04 - ------------------------------------------------------------
+
+2025-07-14 21:18:04 -  * Debugger is active!
+2025-07-14 21:18:04 -  * Debugger PIN: 799-630-082
+2025-07-14 21:23:13 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:23:13 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:23:13 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 21:23:14 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:27:07 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:27:08 -  * Debugger is active!
+2025-07-14 21:27:08 -  * Debugger PIN: 799-630-082
+2025-07-14 21:30:22 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-14 21:30:22 - [33mPress CTRL+C to quit[0m
+2025-07-14 21:30:22 -  * Restarting with watchdog (windowsapi)
+2025-07-14 21:30:23 -  * Debugger is active!
+2025-07-14 21:30:23 -  * Debugger PIN: 799-630-082
+2025-07-14 21:30:59 - 127.0.0.1 - - [14/Jul/2025 21:30:59] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-14 21:30:59 - 127.0.0.1 - - [14/Jul/2025 21:30:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-14 21:31:21 - 127.0.0.1 - - [14/Jul/2025 21:31:21] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-14 21:31:22 - 127.0.0.1 - - [14/Jul/2025 21:31:22] "[35m[1mPOST /send-otp HTTP/1.1[0m" 500 -
+2025-07-14 23:16:38 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 23:16:38 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-14 23:16:39 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:39 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:39 -  * Debugger is active!
+2025-07-14 23:16:39 -  * Debugger PIN: 799-630-082
+2025-07-14 23:16:39 -  * Debugger is active!
+2025-07-14 23:16:39 -  * Debugger PIN: 799-630-082
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-14 23:16:44 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-14 23:16:44 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:44 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:45 -  * Debugger is active!
+2025-07-14 23:16:45 -  * Debugger PIN: 799-630-082
+2025-07-14 23:16:45 -  * Debugger is active!
+2025-07-14 23:16:45 -  * Debugger PIN: 799-630-082
+2025-07-14 23:16:54 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:16:54 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:16:54 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:16:54 -  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm-asymm\\server.py', reloading
+2025-07-14 23:16:54 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:54 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:16:55 -  * Debugger is active!
+2025-07-14 23:16:55 -  * Debugger is active!
+2025-07-14 23:16:55 -  * Debugger PIN: 799-630-082
+2025-07-14 23:16:55 -  * Debugger PIN: 799-630-082
+2025-07-14 23:23:04 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_16_le.py', reloading
+2025-07-14 23:23:04 -  * Restarting with watchdog (windowsapi)
+2025-07-14 23:23:04 -  * Debugger is active!
+2025-07-14 23:23:04 -  * Debugger PIN: 799-630-082

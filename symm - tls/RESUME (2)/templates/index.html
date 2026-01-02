@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8" />
+  <title>ResumeMatch Pro</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+<body class="min-h-screen bg-gradient-to-br from-gray-50 via-blue-50 to-indigo-100 font-sans">
+
+  <main class="max-w-4xl mx-auto px-4 py-16">
+    <div class="bg-white rounded-3xl shadow-2xl p-10 border border-gray-100">
+      <div class="text-center mb-10">
+        <h2 class="text-4xl font-bold text-gray-800 mb-2 tracking-tight">Resume Scanner</h2>
+        <p class="text-gray-500 text-lg">Upload your resume and provide the job description to get started</p>
+      </div>
+
+<form id="analyzeForm" action="/analyze" method="POST" enctype="multipart/form-data">
+
+        <!-- Resume Upload -->
+        <div>
+          <label class="block text-lg font-semibold text-gray-700 mb-4">1. Upload Your Resume</label>
+          <div class="border-2 border-dashed border-gray-300 bg-gray-50 rounded-2xl p-8 text-center hover:border-indigo-400 transition-colors">
+            <input type="file" accept=".pdf,.doc,.docx" id="resume-upload" name="resume-upload" class="input-style">
+
+            <label for="resume-upload" class="cursor-pointer">
+              <div class="w-16 h-16 bg-indigo-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <i class="ri-upload-cloud-2-line text-indigo-600 text-3xl"></i>
+              </div>
+              
+
+              <p id="fileName" class="text-gray-700 font-medium">Click to upload resume</p>
+              <p class="text-sm text-gray-400 mt-1">PDF, DOC, or DOCX files</p>
+            </label>
+          </div>
+        </div>
+
+        <!-- Job Description -->
+        <label class="block text-lg font-semibold text-gray-700 mb-4">2. Job Description</label>
+
+        <!-- JD URL -->
+        <div class="border-2 border-dashed border-gray-300 bg-gray-50 rounded-2xl p-6 hover:border-indigo-400 transition-colors">
+          <label for="jd_url" class="block text-lg font-medium text-gray-700 mb-3 text-center">Paste JD URL</label>
+          <input id="jd_url" type="url" name="jd_url" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-400 placeholder-gray-400" placeholder="https://..." />
+        </div>
+
+        <!-- JD Template -->
+        <div class="border-2 border-dashed border-gray-300 bg-gray-50 rounded-2xl p-6 hover:border-indigo-400 transition-colors">
+          <label for="jd_template" class="block text-lg font-medium text-gray-700 mb-3 text-center">Choose JD Template</label>
+          <select id="jd_template" name="jd_template" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-400 text-gray-700">
+            <option value="">-- Select a Template --</option>
+            <option value="software_engineer">Software Engineer</option>
+            <option value="data_scientist">Data Scientist</option>
+            <option value="product_manager">Product Manager</option>
+          </select>
+        </div>
+
+        <!-- JD Text -->
+        <div class="border-2 border-dashed border-gray-300 bg-gray-50 rounded-2xl p-6 hover:border-indigo-400 transition-colors">
+          <label for="jd_text" class="block text-lg font-medium text-gray-700 mb-3 text-center">Paste JD Text</label>
+          <textarea id="jd_text" name="jd_text" rows="8" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-400 resize-y placeholder-gray-400" placeholder="Enter Job Description (Optional)"></textarea>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="text-center mt-10">
+          <button type="submit" class="bg-gradient-to-r from-indigo-600 to-blue-600 text-white px-10 py-4 rounded-xl font-semibold text-lg hover:from-indigo-700 hover:to-blue-700 shadow-lg transition-all" id="analyzeBtn">
+            Analyze Resume
+          </button>
+        </div>
+      </form>
+    </div>
+  </main>
+
+</body>
+</html>

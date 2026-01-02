@@ -1,0 +1,568 @@
+[2025-07-07 17:58:36] 🚀 Server started
+2025-07-07 22:01:36,289 -  * Debugger is active!
+2025-07-07 22:01:36,289 -  * Debugger PIN: 799-630-082
+2025-07-07 22:01:44,636 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 22:01:44,636 - [33mPress CTRL+C to quit[0m
+2025-07-07 22:01:44,642 -  * Restarting with watchdog (windowsapi)
+2025-07-07 22:01:44,907 -  * Debugger is active!
+2025-07-07 22:01:44,910 -  * Debugger PIN: 799-630-082
+2025-07-07 22:02:13,656 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 22:02:13,656 - [33mPress CTRL+C to quit[0m
+2025-07-07 22:02:13,663 -  * Restarting with watchdog (windowsapi)
+2025-07-07 22:02:13,910 -  * Debugger is active!
+2025-07-07 22:02:13,912 -  * Debugger PIN: 799-630-082
+2025-07-08 00:13:54,060 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 00:13:54,060 - [33mPress CTRL+C to quit[0m
+2025-07-08 00:13:54,076 -  * Restarting with watchdog (windowsapi)
+2025-07-08 00:13:54,342 -  * Debugger is active!
+2025-07-08 00:13:54,380 -  * Debugger PIN: 799-630-082
+2025-07-08 00:13:58,250 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\typing.py', reloading
+2025-07-08 00:13:58,266 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-08 00:13:58,282 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-08 00:13:58,452 -  * Restarting with watchdog (windowsapi)
+2025-07-08 00:13:58,739 -  * Debugger is active!
+2025-07-08 00:13:58,739 -  * Debugger PIN: 799-630-082
+2025-07-08 00:14:32,127 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 00:14:32,127 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 00:14:32,127 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 00:14:33,090 -  * Restarting with watchdog (windowsapi)
+2025-07-08 00:14:33,438 -  * Debugger is active!
+2025-07-08 00:14:33,439 -  * Debugger PIN: 799-630-082
+2025-07-08 00:14:51,274 - 127.0.0.1 - - [08/Jul/2025 00:14:51] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:14:56,789 - Email: hbhasin5555@gmail.com | Message: i am an intern | Password: abcd | OTP: 688615
+2025-07-08 00:14:56,789 - 127.0.0.1 - - [08/Jul/2025 00:14:56] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:15:00,634 - 127.0.0.1 - - [08/Jul/2025 00:15:00] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:15:00,894 - 127.0.0.1 - - [08/Jul/2025 00:15:00] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:15:28,861 - 127.0.0.1 - - [08/Jul/2025 00:15:28] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:15:32,645 - 127.0.0.1 - - [08/Jul/2025 00:15:32] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:15:55,606 - 127.0.0.1 - - [08/Jul/2025 00:15:55] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:17:23,296 - 127.0.0.1 - - [08/Jul/2025 00:17:23] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:17:27,276 - 127.0.0.1 - - [08/Jul/2025 00:17:27] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:27,536 - 127.0.0.1 - - [08/Jul/2025 00:17:27] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:17:45,678 - 127.0.0.1 - - [08/Jul/2025 00:17:45] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:48,727 - 127.0.0.1 - - [08/Jul/2025 00:17:48] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:50,590 - 127.0.0.1 - - [08/Jul/2025 00:17:50] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:50,654 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 842753
+2025-07-08 00:17:50,654 - 127.0.0.1 - - [08/Jul/2025 00:17:50] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:53,619 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 979210
+2025-07-08 00:17:53,620 - 127.0.0.1 - - [08/Jul/2025 00:17:53] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:54,224 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 540553
+2025-07-08 00:17:54,224 - 127.0.0.1 - - [08/Jul/2025 00:17:54] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:56,387 - 127.0.0.1 - - [08/Jul/2025 00:17:56] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:17:56,634 - 127.0.0.1 - - [08/Jul/2025 00:17:56] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:18:42,429 - 127.0.0.1 - - [08/Jul/2025 00:18:42] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:19:20,528 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 00:19:20,528 - [33mPress CTRL+C to quit[0m
+2025-07-08 00:19:20,537 -  * Restarting with watchdog (windowsapi)
+2025-07-08 00:19:20,819 -  * Debugger is active!
+2025-07-08 00:19:20,826 -  * Debugger PIN: 799-630-082
+2025-07-08 00:19:31,302 - 127.0.0.1 - - [08/Jul/2025 00:19:31] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:19:36,749 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 363508
+2025-07-08 00:19:36,749 - 127.0.0.1 - - [08/Jul/2025 00:19:36] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:19:52,694 - 127.0.0.1 - - [08/Jul/2025 00:19:52] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:19:52,944 - 127.0.0.1 - - [08/Jul/2025 00:19:52] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:20:01,768 - 127.0.0.1 - - [08/Jul/2025 00:20:01] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:20:16,491 - 127.0.0.1 - - [08/Jul/2025 00:20:16] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:22:05,077 - 127.0.0.1 - - [08/Jul/2025 00:22:05] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:22:05,334 - 127.0.0.1 - - [08/Jul/2025 00:22:05] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:27:36,812 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 00:27:36,812 - [33mPress CTRL+C to quit[0m
+2025-07-08 00:27:36,821 -  * Restarting with watchdog (windowsapi)
+2025-07-08 00:27:37,113 -  * Debugger is active!
+2025-07-08 00:27:37,117 -  * Debugger PIN: 799-630-082
+2025-07-08 00:28:11,561 - 127.0.0.1 - - [08/Jul/2025 00:28:11] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:28:16,499 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 790214
+2025-07-08 00:28:16,499 - 127.0.0.1 - - [08/Jul/2025 00:28:16] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:28:19,424 - 127.0.0.1 - - [08/Jul/2025 00:28:19] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:28:19,680 - 127.0.0.1 - - [08/Jul/2025 00:28:19] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:28:45,664 - 127.0.0.1 - - [08/Jul/2025 00:28:45] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:29:04,085 - 127.0.0.1 - - [08/Jul/2025 00:29:04] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:30:02,823 - 127.0.0.1 - - [08/Jul/2025 00:30:02] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:33:17,278 - 127.0.0.1 - - [08/Jul/2025 00:33:17] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:33:21,958 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 671402
+2025-07-08 00:33:21,958 - 127.0.0.1 - - [08/Jul/2025 00:33:21] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:33:21,958 - 127.0.0.1 - - [08/Jul/2025 00:33:21] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:33:26,589 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 215239
+2025-07-08 00:33:26,589 - 127.0.0.1 - - [08/Jul/2025 00:33:26] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:40,113 - 127.0.0.1 - - [08/Jul/2025 00:37:40] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:42,612 - 127.0.0.1 - - [08/Jul/2025 00:37:42] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:44,767 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 825230
+2025-07-08 00:37:44,767 - 127.0.0.1 - - [08/Jul/2025 00:37:44] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:46,605 - Email: epitomearchangel84@gmail.com | Message: i am an intern | Password: abcd | OTP: 554495
+2025-07-08 00:37:46,605 - 127.0.0.1 - - [08/Jul/2025 00:37:46] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:49,146 - 127.0.0.1 - - [08/Jul/2025 00:37:49] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 00:37:49,416 - 127.0.0.1 - - [08/Jul/2025 00:37:49] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 00:42:57,333 - 127.0.0.1 - - [08/Jul/2025 00:42:57] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 00:46:23,865 - 127.0.0.1 - - [08/Jul/2025 00:46:23] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 12:35:45,688 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 12:35:45,688 - [33mPress CTRL+C to quit[0m
+2025-07-08 12:35:45,703 -  * Restarting with watchdog (windowsapi)
+2025-07-08 12:35:46,001 -  * Debugger is active!
+2025-07-08 12:35:46,005 -  * Debugger PIN: 799-630-082
+2025-07-08 12:36:48,262 - 127.0.0.1 - - [08/Jul/2025 12:36:48] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:36:54,072 - 127.0.0.1 - - [08/Jul/2025 12:36:54] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:36:56,972 - 127.0.0.1 - - [08/Jul/2025 12:36:56] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:36:58,398 - 127.0.0.1 - - [08/Jul/2025 12:36:58] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:01,897 - 127.0.0.1 - - [08/Jul/2025 12:37:01] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:02,271 - 127.0.0.1 - - [08/Jul/2025 12:37:02] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:02,582 - 127.0.0.1 - - [08/Jul/2025 12:37:02] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:07,109 - Email: hbhasin5555@gmail.com | Message: hello 1234 sending a message | Password: abcd | OTP: 741170
+2025-07-08 12:37:07,110 - 127.0.0.1 - - [08/Jul/2025 12:37:07] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:07,420 - 127.0.0.1 - - [08/Jul/2025 12:37:07] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:37:07,735 - 127.0.0.1 - - [08/Jul/2025 12:37:07] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:43:15,405 - 127.0.0.1 - - [08/Jul/2025 12:43:15] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:43:19,700 - Email: epitomearchangel84@gmail.com | Message: hello this is a message | Password: abcd | OTP: 885843
+2025-07-08 12:43:19,701 - 127.0.0.1 - - [08/Jul/2025 12:43:19] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 12:43:24,053 - 127.0.0.1 - - [08/Jul/2025 12:43:24] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:43:24,315 - 127.0.0.1 - - [08/Jul/2025 12:43:24] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 12:44:03,493 - 127.0.0.1 - - [08/Jul/2025 12:44:03] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 12:47:06,123 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 12:47:06,128 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 12:47:07,122 -  * Restarting with watchdog (windowsapi)
+2025-07-08 12:47:08,021 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 12:47:08,096 -  * Debugger is active!
+2025-07-08 12:47:08,122 -  * Debugger PIN: 799-630-082
+2025-07-08 12:48:38,576 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py', reloading
+2025-07-08 12:48:39,110 -  * Restarting with watchdog (windowsapi)
+2025-07-08 12:48:39,490 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 12:48:39,521 -  * Debugger is active!
+2025-07-08 12:48:39,524 -  * Debugger PIN: 799-630-082
+2025-07-08 12:49:23,876 - 127.0.0.1 - - [08/Jul/2025 12:49:23] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:49:27,377 - Email: epitomearchangel84@gmail.com | Message: i am learning new things | Password: abcd12 | OTP: 541520
+2025-07-08 12:49:27,378 - 127.0.0.1 - - [08/Jul/2025 12:49:27] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 12:49:29,526 - 127.0.0.1 - - [08/Jul/2025 12:49:29] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 12:49:29,842 - 127.0.0.1 - - [08/Jul/2025 12:49:29] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 12:50:10,338 - 127.0.0.1 - - [08/Jul/2025 12:50:10] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 12:50:14,165 - 127.0.0.1 - - [08/Jul/2025 12:50:14] "[33mOPTIONS /verify-otp HTTP/1.1[0m" 404 -
+2025-07-08 12:58:54,906 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 12:58:54,909 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 12:58:55,356 -  * Restarting with watchdog (windowsapi)
+2025-07-08 12:58:56,214 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 12:58:56,268 -  * Debugger is active!
+2025-07-08 12:58:56,274 -  * Debugger PIN: 799-630-082
+2025-07-08 13:00:15,695 - 127.0.0.1 - - [08/Jul/2025 13:00:15] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 13:00:24,454 - Email: epitomearchangel84@gmail.com | Message: i love to do this | Password: abcd123 | OTP: 500349
+2025-07-08 13:00:24,455 - 127.0.0.1 - - [08/Jul/2025 13:00:24] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 13:00:27,183 - 127.0.0.1 - - [08/Jul/2025 13:00:27] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 13:00:27,446 - 127.0.0.1 - - [08/Jul/2025 13:00:27] "[31m[1mPOST /send-otp HTTP/1.1[0m" 400 -
+2025-07-08 13:01:19,280 - 127.0.0.1 - - [08/Jul/2025 13:01:19] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 13:01:19,546 - 127.0.0.1 - - [08/Jul/2025 13:01:19] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 13:09:40,003 - 127.0.0.1 - - [08/Jul/2025 13:09:40] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 13:09:40,240 - 127.0.0.1 - - [08/Jul/2025 13:09:40] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 13:10:10,053 - 127.0.0.1 - - [08/Jul/2025 13:10:10] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 13:10:11,474 - 127.0.0.1 - - [08/Jul/2025 13:10:11] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 13:10:59,933 - 127.0.0.1 - - [08/Jul/2025 13:10:59] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:17:08,272 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 14:17:08,341 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 14:17:08,341 - [33mPress CTRL+C to quit[0m
+2025-07-08 14:17:08,375 -  * Restarting with watchdog (windowsapi)
+2025-07-08 14:17:08,760 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 14:17:08,791 -  * Debugger is active!
+2025-07-08 14:17:08,791 -  * Debugger PIN: 799-630-082
+2025-07-08 14:17:10,318 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-08 14:17:10,322 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-08 14:17:10,322 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-08 14:17:10,335 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-08 14:17:10,337 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-08 14:17:10,352 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-08 14:17:10,389 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-08 14:17:10,415 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-08 14:17:10,431 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-08 14:17:10,488 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+2025-07-08 14:17:10,532 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-08 14:17:10,605 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-08 14:17:10,605 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-08 14:17:10,621 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-07-08 14:17:10,705 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\typing.py', reloading
+2025-07-08 14:17:10,717 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-08 14:17:10,723 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-08 14:17:10,907 -  * Restarting with watchdog (windowsapi)
+2025-07-08 14:17:11,202 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 14:17:11,218 -  * Debugger is active!
+2025-07-08 14:17:11,218 -  * Debugger PIN: 799-630-082
+2025-07-08 14:17:44,649 - 127.0.0.1 - - [08/Jul/2025 14:17:44] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:17:46,610 - 127.0.0.1 - - [08/Jul/2025 14:17:46] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:17:53,852 - 127.0.0.1 - - [08/Jul/2025 14:17:53] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:18:05,148 - Email: hbhasin5555@gmail.com | Message: i am an intern | Password: abcd | OTP: 298020
+2025-07-08 14:18:05,148 - 127.0.0.1 - - [08/Jul/2025 14:18:05] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:19:26,697 - 127.0.0.1 - - [08/Jul/2025 14:19:26] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:19:26,936 - 127.0.0.1 - - [08/Jul/2025 14:19:26] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:19:37,691 - Email: hbhasin5555@gmail.com | Message: i am an intern | Password: abcd | OTP: 192252
+2025-07-08 14:19:37,691 - 127.0.0.1 - - [08/Jul/2025 14:19:37] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:20:55,462 - 127.0.0.1 - - [08/Jul/2025 14:20:55] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:21:14,459 - Email: epitomearchangel84@gmail.com | Message: this is an encrypted | Password: abcd12 | OTP: 282058
+2025-07-08 14:21:14,459 - 127.0.0.1 - - [08/Jul/2025 14:21:14] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:26:42,970 - 127.0.0.1 - - [08/Jul/2025 14:26:42] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:26:43,229 - 127.0.0.1 - - [08/Jul/2025 14:26:43] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-08 14:26:59,186 - 127.0.0.1 - - [08/Jul/2025 14:26:59] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:26:59,440 - 127.0.0.1 - - [08/Jul/2025 14:26:59] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:43:27,812 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 14:43:27,846 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 14:43:27,846 - [33mPress CTRL+C to quit[0m
+2025-07-08 14:43:27,866 -  * Restarting with watchdog (windowsapi)
+2025-07-08 14:43:28,156 - 
+------------------------------
+--- New Server Session Start ---
+------------------------------
+2025-07-08 14:43:28,180 -  * Debugger is active!
+2025-07-08 14:43:28,180 -  * Debugger PIN: 799-630-082
+2025-07-08 14:45:08,996 - 127.0.0.1 - - [08/Jul/2025 14:45:08] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:46:43,438 - Email: hbhasin5555@gmail.com | Message: i am an intern | Password: abcd | OTP: 194322
+2025-07-08 14:46:43,438 - 127.0.0.1 - - [08/Jul/2025 14:46:43] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:54:23,922 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 14:54:23,922 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 14:54:23,929 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 14:54:24,100 -  * Restarting with watchdog (windowsapi)
+2025-07-08 14:54:24,527 -  * Debugger is active!
+2025-07-08 14:54:24,542 -  * Debugger PIN: 799-630-082
+2025-07-08 14:55:28,798 - 127.0.0.1 - - [08/Jul/2025 14:55:28] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:55:37,346 - 127.0.0.1 - - [08/Jul/2025 14:55:37] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 14:56:06,732 - Email: hbhasin5555@gmail.com | Encrypted: UX5dWHVns5uZmR6cSPg= | Salt: AijmHOntVBFALp0yzP1mLQ== | Nonce: XB8lP7qCoHqWZvEp20fCsA== | Tag: KHWWrlap2oVJ/rws+nn5EA== | OTP: 646820
+2025-07-08 14:56:06,732 - 127.0.0.1 - - [08/Jul/2025 14:56:06] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:57:42,439 - Email: hbhasin5555@gmail.com | Encrypted: BLgwTmECA8NCa5RUv+0= | Salt: cJml8R6KybqN+OJZJkAjEQ== | Nonce: al9D3N05iJ19Bi87fw9nGA== | Tag: b9ArHleMFFAKttox8fMh/g== | OTP: 748078
+2025-07-08 14:57:42,439 - 127.0.0.1 - - [08/Jul/2025 14:57:42] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 14:58:34,374 - 127.0.0.1 - - [08/Jul/2025 14:58:34] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:58:34,644 - 127.0.0.1 - - [08/Jul/2025 14:58:34] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-08 14:59:12,573 - 127.0.0.1 - - [08/Jul/2025 14:59:12] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:59:12,815 - 127.0.0.1 - - [08/Jul/2025 14:59:12] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-08 14:59:24,672 - 127.0.0.1 - - [08/Jul/2025 14:59:24] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 14:59:24,939 - 127.0.0.1 - - [08/Jul/2025 14:59:24] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:28:15,367 - 127.0.0.1 - - [08/Jul/2025 15:28:15] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:28:21,684 - 127.0.0.1 - - [08/Jul/2025 15:28:21] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:28:23,055 - Email: hbhasin5555@gmail.com | Encrypted: h1V+aaAJedWx5GdzN6U= | Salt: 1IONacFxcJ/30jimxbVeYA== | Nonce: hCG5LgqlTToRheIW2bVCpw== | Tag: z5l508WR/VTZfoQuS36HuQ== | OTP: 588014
+2025-07-08 15:28:23,057 - 127.0.0.1 - - [08/Jul/2025 15:28:23] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:28:26,956 - Email: hbhasin5555@gmail.com | Encrypted: 50cR1wFBxvAV+x83l9Y= | Salt: cpcnxpqaxuRrHt7QLxAO5g== | Nonce: ns7SDYqvF4OrlhBvjOxg2A== | Tag: +PLm1qHWstYqQnHL3Q+I+w== | OTP: 131499
+2025-07-08 15:28:26,956 - 127.0.0.1 - - [08/Jul/2025 15:28:26] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:29:04,070 - 127.0.0.1 - - [08/Jul/2025 15:29:04] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:29:04,334 - 127.0.0.1 - - [08/Jul/2025 15:29:04] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:29:21,152 - 127.0.0.1 - - [08/Jul/2025 15:29:21] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:29:25,392 - Email: hbhasin5555@gmail.com | Encrypted: v7nIXMUF6VQ931GoEOM= | Salt: UBbzIQr9q+bS9dLwaV3GYA== | Nonce: VcKeyy/Q2bfll6wu+dNuoA== | Tag: jEfh0aLaKYmjEo0weaujZQ== | OTP: 113988
+2025-07-08 15:29:25,392 - 127.0.0.1 - - [08/Jul/2025 15:29:25] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:29:49,619 - 127.0.0.1 - - [08/Jul/2025 15:29:49] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:29:54,218 - 127.0.0.1 - - [08/Jul/2025 15:29:54] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:29:55,060 - Email: epitomearchangel84@gmail.com | Encrypted: RuVu0q0= | Salt: 6wPhUb+PNginoz/ocPuAHw== | Nonce: 8w77EzGZ4A26P0E5dOdGFQ== | Tag: mteeTGm8gjxEl1q8+6A3zg== | OTP: 653327
+2025-07-08 15:29:55,060 - 127.0.0.1 - - [08/Jul/2025 15:29:55] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:30:00,652 - Email: epitomearchangel84@gmail.com | Encrypted: aAoiVlk= | Salt: i2cwuoNY9IAQ5agd5YKoCw== | Nonce: WymaPsE2EfvQXxxqR/j/Kg== | Tag: VQMI4iXICB0lB/XrfTQK5g== | OTP: 941372
+2025-07-08 15:30:00,652 - 127.0.0.1 - - [08/Jul/2025 15:30:00] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:33:12,964 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\aliases.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1252.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\_distutils_hack\\__init__.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py', reloading
+2025-07-08 15:33:12,979 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\operator.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\functools.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\types.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\threading.py', reloading
+2025-07-08 15:33:12,995 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\abc.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\enum.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py', reloading
+2025-07-08 15:33:13,011 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py', reloading
+2025-07-08 15:33:13,026 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py', reloading
+2025-07-08 15:33:13,026 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py', reloading
+2025-07-08 15:33:13,026 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\token.py', reloading
+2025-07-08 15:33:13,026 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py', reloading
+2025-07-08 15:33:13,026 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\typing.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\string.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\locale.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\optparse.py', reloading
+2025-07-08 15:33:13,042 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\signal.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py', reloading
+2025-07-08 15:33:13,057 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py', reloading
+2025-07-08 15:33:13,073 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py', reloading
+2025-07-08 15:33:13,073 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\glob.py', reloading
+2025-07-08 15:33:13,073 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py', reloading
+2025-07-08 15:33:13,073 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py', reloading
+2025-07-08 15:33:13,073 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\random.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py', reloading
+2025-07-08 15:33:13,089 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py', reloading
+2025-07-08 15:33:13,104 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\logging\\handlers.py', reloading
+2025-07-08 15:33:13,104 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\socket.py', reloading
+2025-07-08 15:33:13,104 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py', reloading
+2025-07-08 15:33:13,230 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:33:13,653 -  * Debugger is active!
+2025-07-08 15:33:13,669 -  * Debugger PIN: 799-630-082
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\compileall.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\filecmp.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py', reloading
+2025-07-08 15:33:13,732 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py', reloading
+2025-07-08 15:33:13,747 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py', reloading
+2025-07-08 15:33:13,747 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py', reloading
+2025-07-08 15:33:13,747 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py', reloading
+2025-07-08 15:33:13,778 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\__init__.py', reloading
+2025-07-08 15:33:13,778 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_parser.py', reloading
+2025-07-08 15:33:13,778 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_re.py', reloading
+2025-07-08 15:33:13,778 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_types.py', reloading
+2025-07-08 15:33:14,044 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py', reloading
+2025-07-08 15:33:14,515 -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-07-08 15:33:14,735 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:33:15,048 -  * Debugger is active!
+2025-07-08 15:33:15,048 -  * Debugger PIN: 799-630-082
+2025-07-08 15:39:46,580 - 127.0.0.1 - - [08/Jul/2025 15:39:46] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:39:46,841 - 127.0.0.1 - - [08/Jul/2025 15:39:46] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:40:14,244 - 127.0.0.1 - - [08/Jul/2025 15:40:14] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:41:15,913 - 127.0.0.1 - - [08/Jul/2025 15:41:15] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:41:16,291 - 127.0.0.1 - - [08/Jul/2025 15:41:16] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:41:19,708 - Email: epitomearchangel84@gmail.com | Encrypted: PC5Vb+I= | Salt: WzSUHyC6UWZ6CiAL75OzXw== | Nonce: wbl6f1VBfp4PLKjSK8LQeA== | Tag: 7YZg3FArlEuDR2B+pxcvMg== | OTP: 433153
+2025-07-08 15:41:19,709 - 127.0.0.1 - - [08/Jul/2025 15:41:19] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:41:19,890 - Email: epitomearchangel84@gmail.com | Encrypted: mOWXl1o= | Salt: LmcIoxr1zTieUoCs0DapWw== | Nonce: BZ/G/pIVw6/y7EvAYew6Wg== | Tag: a6d5A952HQ8eCVWFGiOSkA== | OTP: 766371
+2025-07-08 15:41:19,891 - 127.0.0.1 - - [08/Jul/2025 15:41:19] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:41:39,837 - 127.0.0.1 - - [08/Jul/2025 15:41:39] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:41:40,107 - 127.0.0.1 - - [08/Jul/2025 15:41:40] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:41:57,056 - Email: epitomearchangel84@gmail.com | Encrypted: LlrVLzA= | Salt: rsBFq0oM+LcagCj7AIfsIw== | Nonce: Ur2qsfejd3hQwSActPsRuw== | Tag: ll/Zdrlsup8KDr6aBwul4A== | OTP: 219222
+2025-07-08 15:41:57,056 - 127.0.0.1 - - [08/Jul/2025 15:41:57] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:49:19,373 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 15:49:19,373 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 15:49:20,171 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:49:20,654 -  * Debugger is active!
+2025-07-08 15:49:20,667 -  * Debugger PIN: 799-630-082
+2025-07-08 15:49:56,504 - 127.0.0.1 - - [08/Jul/2025 15:49:56] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:50:00,409 - Email: hbhasin5555@gmail.com | Caesar Encrypted: 12345 | Shift: 6 | OTP: 761989
+2025-07-08 15:50:00,409 - 127.0.0.1 - - [08/Jul/2025 15:50:00] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:50:53,610 - 127.0.0.1 - - [08/Jul/2025 15:50:53] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:50:53,869 - 127.0.0.1 - - [08/Jul/2025 15:50:53] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:52:42,266 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 15:52:42,266 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 15:52:42,472 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:52:42,768 -  * Debugger is active!
+2025-07-08 15:52:42,768 -  * Debugger PIN: 799-630-082
+2025-07-08 15:53:46,912 - 127.0.0.1 - - [08/Jul/2025 15:53:46] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-08 15:53:56,321 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: kduvklwd | Shift: 3 | OTP: 671458
+2025-07-08 15:53:56,321 - 127.0.0.1 - - [08/Jul/2025 15:53:56] "POST /send-otp HTTP/1.1" 200 -
+2025-07-08 15:54:32,642 - 127.0.0.1 - - [08/Jul/2025 15:54:32] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-08 15:54:32,898 - 127.0.0.1 - - [08/Jul/2025 15:54:32] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-08 16:11:09,155 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-08 16:11:09,850 -  * Restarting with watchdog (windowsapi)
+2025-07-08 16:11:10,403 -  * Debugger is active!
+2025-07-08 16:11:10,403 -  * Debugger PIN: 799-630-082
+2025-07-09 01:20:18,520 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-09 01:20:18,545 - [33mPress CTRL+C to quit[0m
+2025-07-09 01:20:18,560 -  * Restarting with watchdog (windowsapi)
+2025-07-09 01:20:18,880 -  * Debugger is active!
+2025-07-09 01:20:18,909 -  * Debugger PIN: 799-630-082
+2025-07-09 01:20:52,593 - 127.0.0.1 - - [09/Jul/2025 01:20:52] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 01:20:57,637 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:fyxxivjpc  | Shift: 4 | OTP: 249749
+2025-07-09 01:20:57,637 - 127.0.0.1 - - [09/Jul/2025 01:20:57] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 01:21:33,466 - 127.0.0.1 - - [09/Jul/2025 01:21:33] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 01:21:33,712 - 127.0.0.1 - - [09/Jul/2025 01:21:33] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-09 01:22:21,366 - 127.0.0.1 - - [09/Jul/2025 01:22:21] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 01:22:26,562 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:ciw oixw ks 123 | Shift: 4 | OTP: 275643
+2025-07-09 01:22:26,562 - 127.0.0.1 - - [09/Jul/2025 01:22:26] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 01:22:43,340 - 127.0.0.1 - - [09/Jul/2025 01:22:43] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 01:22:43,596 - 127.0.0.1 - - [09/Jul/2025 01:22:43] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-09 01:30:17,978 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-09 01:30:17,978 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-09 01:30:18,215 -  * Restarting with watchdog (windowsapi)
+2025-07-09 01:30:18,748 -  * Debugger is active!
+2025-07-09 01:30:18,748 -  * Debugger PIN: 799-630-082
+2025-07-09 01:31:10,688 - 127.0.0.1 - - [09/Jul/2025 01:31:10] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 01:31:15,056 - Email: hbhasin5555@gmail.com | Caesar Encrypted: WIGYVI:xlmw mw asvomrk kssh | Shift: 4 | OTP: 942068
+2025-07-09 01:31:15,056 - 127.0.0.1 - - [09/Jul/2025 01:31:15] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 01:31:34,756 - 127.0.0.1 - - [09/Jul/2025 01:31:34] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 01:31:35,026 - 127.0.0.1 - - [09/Jul/2025 01:31:35] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-09 10:55:47,511 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-09 10:55:47,511 - [33mPress CTRL+C to quit[0m
+2025-07-09 10:55:47,534 -  * Restarting with watchdog (windowsapi)
+2025-07-09 10:55:47,925 -  * Debugger is active!
+2025-07-09 10:55:47,935 -  * Debugger PIN: 799-630-082
+2025-07-09 10:55:50,383 - 127.0.0.1 - - [09/Jul/2025 10:55:50] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 10:55:50,628 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-09 10:55:50,628 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-09 10:55:50,643 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-09 10:55:50,643 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-09 10:55:50,643 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-09 10:55:50,675 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-09 10:55:50,707 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-09 10:55:50,751 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-09 10:55:50,754 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-09 10:55:50,801 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+2025-07-09 10:55:50,818 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-09 10:55:50,891 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-09 10:55:50,891 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-09 10:55:50,907 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-07-09 10:55:50,931 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\typing.py', reloading
+2025-07-09 10:55:50,931 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-09 10:55:50,967 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-09 10:55:51,059 -  * Restarting with watchdog (windowsapi)
+2025-07-09 10:55:51,948 -  * Debugger is active!
+2025-07-09 10:55:51,963 -  * Debugger PIN: 799-630-082
+2025-07-09 10:56:31,666 - 127.0.0.1 - - [09/Jul/2025 10:56:31] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 10:56:37,786 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: AMKCZM:q iu iv qvbmzv | Shift: 8 | OTP: 667278
+2025-07-09 10:56:37,789 - 127.0.0.1 - - [09/Jul/2025 10:56:37] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:19:19,743 - 127.0.0.1 - - [09/Jul/2025 12:19:19] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 12:19:37,517 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 624272
+2025-07-09 12:19:37,532 - 127.0.0.1 - - [09/Jul/2025 12:19:37] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:20:06,179 - 127.0.0.1 - - [09/Jul/2025 12:20:06] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:20:06,469 - 127.0.0.1 - - [09/Jul/2025 12:20:06] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:20:29,994 - 127.0.0.1 - - [09/Jul/2025 12:20:29] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 12:20:42,034 - 127.0.0.1 - - [09/Jul/2025 12:20:42] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 12:20:47,267 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 445033
+2025-07-09 12:20:47,267 - 127.0.0.1 - - [09/Jul/2025 12:20:47] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:21:36,828 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 787237
+2025-07-09 12:21:36,828 - 127.0.0.1 - - [09/Jul/2025 12:21:36] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:21:38,476 - 127.0.0.1 - - [09/Jul/2025 12:21:38] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:21:38,751 - 127.0.0.1 - - [09/Jul/2025 12:21:38] "[31m[1mPOST /verify-otp HTTP/1.1[0m" 401 -
+2025-07-09 12:21:56,862 - 127.0.0.1 - - [09/Jul/2025 12:21:56] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 12:22:06,106 - Email: hbhasin5555@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 170340
+2025-07-09 12:22:06,106 - 127.0.0.1 - - [09/Jul/2025 12:22:06] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:22:25,901 - 127.0.0.1 - - [09/Jul/2025 12:22:25] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:22:26,159 - 127.0.0.1 - - [09/Jul/2025 12:22:26] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:28:06,141 - 127.0.0.1 - - [09/Jul/2025 12:28:06] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-09 12:28:11,673 - Email: epitomearchangel84@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 748103
+2025-07-09 12:28:11,673 - 127.0.0.1 - - [09/Jul/2025 12:28:11] "POST /send-otp HTTP/1.1" 200 -
+2025-07-09 12:28:34,271 - 127.0.0.1 - - [09/Jul/2025 12:28:34] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-09 12:28:34,527 - 127.0.0.1 - - [09/Jul/2025 12:28:34] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-10 15:32:50,439 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 15:32:50,439 - [33mPress CTRL+C to quit[0m
+2025-07-10 15:32:50,477 -  * Restarting with watchdog (windowsapi)
+2025-07-10 15:32:50,840 -  * Debugger is active!
+2025-07-10 15:32:50,845 -  * Debugger PIN: 799-630-082
+2025-07-10 15:32:53,064 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-10 15:32:53,073 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-10 15:32:53,167 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-10 15:32:53,189 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-10 15:32:53,239 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-10 15:32:53,239 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-10 15:32:53,256 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-10 15:32:53,256 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-10 15:32:53,273 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-10 15:32:53,289 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-10 15:32:53,302 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-10 15:32:53,318 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-07-10 15:32:53,456 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\blueprints.py', reloading
+2025-07-10 15:32:53,469 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\blueprints.py', reloading
+2025-07-10 15:32:53,673 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\typing.py', reloading
+2025-07-10 15:32:53,681 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-10 15:32:53,689 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-10 15:32:53,725 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+2025-07-10 15:32:53,753 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-10 15:32:53,992 -  * Restarting with watchdog (windowsapi)
+2025-07-10 15:32:54,465 -  * Debugger is active!
+2025-07-10 15:32:54,465 -  * Debugger PIN: 799-630-082
+2025-07-10 16:02:39,113 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:02:39,113 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:02:39,192 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:02:39,492 -  * Debugger is active!
+2025-07-10 16:02:39,492 -  * Debugger PIN: 799-630-082
+2025-07-10 16:02:52,232 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:02:52,232 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:02:52,540 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:02:52,562 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:02:52,562 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:02:52,671 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:02:53,034 -  * Debugger is active!
+2025-07-10 16:02:53,049 -  * Debugger PIN: 799-630-082
+2025-07-10 16:03:26,502 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:03:26,502 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:03:26,503 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:03:27,313 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:03:27,609 -  * Debugger is active!
+2025-07-10 16:03:27,612 -  * Debugger PIN: 799-630-082
+2025-07-10 16:03:35,106 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:03:35,725 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:03:36,009 -  * Debugger is active!
+2025-07-10 16:03:36,009 -  * Debugger PIN: 799-630-082
+2025-07-10 16:03:45,567 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Crypto\\Util\\Padding.py', reloading
+2025-07-10 16:03:46,116 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:03:46,374 -  * Debugger is active!
+2025-07-10 16:03:46,374 -  * Debugger PIN: 799-630-082
+2025-07-10 16:03:55,473 -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask_cors\\extension.py', reloading
+2025-07-10 16:03:56,474 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:03:56,722 -  * Debugger is active!
+2025-07-10 16:03:56,725 -  * Debugger PIN: 799-630-082
+2025-07-10 16:04:04,991 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:04:04,991 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:04:04,991 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:04:05,819 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:04:06,067 -  * Debugger is active!
+2025-07-10 16:04:06,070 -  * Debugger PIN: 799-630-082
+2025-07-10 16:04:29,502 - 127.0.0.1 - - [10/Jul/2025 16:04:29] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:04:58,041 - Email: hbhasin5555@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 468850
+2025-07-10 16:04:58,041 - 127.0.0.1 - - [10/Jul/2025 16:04:58] "POST /send-otp HTTP/1.1" 200 -
+2025-07-10 16:06:10,337 - 127.0.0.1 - - [10/Jul/2025 16:06:10] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:06:10,588 - 127.0.0.1 - - [10/Jul/2025 16:06:10] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:06:46,614 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:06:46,614 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:06:46,615 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:06:47,125 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:06:47,412 -  * Debugger is active!
+2025-07-10 16:06:47,412 -  * Debugger PIN: 799-630-082
+2025-07-10 16:07:34,225 - 127.0.0.1 - - [10/Jul/2025 16:07:34] "OPTIONS /send-otp HTTP/1.1" 200 -
+2025-07-10 16:07:39,091 - Email: hbhasin5555@gmail.com | Caesar Encrypted: WIGYVI:m eq er mrxivr | Shift: 4 | OTP: 662185
+2025-07-10 16:07:39,091 - 127.0.0.1 - - [10/Jul/2025 16:07:39] "POST /send-otp HTTP/1.1" 200 -
+2025-07-10 16:07:59,873 - 127.0.0.1 - - [10/Jul/2025 16:07:59] "OPTIONS /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:08:00,129 - 127.0.0.1 - - [10/Jul/2025 16:08:00] "POST /verify-otp HTTP/1.1" 200 -
+2025-07-10 16:08:48,747 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:08:49,326 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:08:49,610 -  * Debugger is active!
+2025-07-10 16:08:49,610 -  * Debugger PIN: 799-630-082
+2025-07-10 16:09:09,335 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:09:09,335 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:09:09,335 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server2.py', reloading
+2025-07-10 16:09:09,779 -  * Restarting with watchdog (windowsapi)
+2025-07-10 16:09:10,060 -  * Debugger is active!
+2025-07-10 16:09:10,060 -  * Debugger PIN: 799-630-082
+2025-07-10 16:09:11,027 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:09:11,027 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:09:11,027 -  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\server.py', reloading
+2025-07-10 16:09:11,108 -  * Restarting with watchdog (windowsapi)

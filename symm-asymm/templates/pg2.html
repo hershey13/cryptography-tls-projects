@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verify OTP</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .floating-label input:focus + label,
+    .floating-label input:not(:placeholder-shown) + label {
+      transform: translateY(-1.5rem) scale(0.9);
+      color: #2563eb;
+    }
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+    }
+    .clear-icon:hover {
+      color: #e11d48;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4">
+
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8 relative">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6">
+      Verify OTP
+    </h1>
+
+    <!-- Email Display -->
+    <p class="text-gray-700 mb-6 text-center text-sm">
+      <strong>Email:</strong> <span id="emailDisplay" class="text-indigo-700 font-medium"></span>
+    </p>
+
+    <!-- OTP Input -->
+    <div class="floating-label relative mb-6">
+      <input type="text" id="otpInput" placeholder=" " required
+             class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+      <label for="otpInput"
+             class="absolute left-2 top-2 text-gray-500 transition-all">
+        Enter OTP
+      </label>
+      <span class="clear-icon" onclick="clearField('otpInput')">&#10005;</span>
+    </div>
+
+    <!-- Password Confirmation Input -->
+    <div class="floating-label relative mb-6">
+      <input type="password" id="confirmPasswordInput" placeholder=" " required
+             class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+      <label for="confirmPasswordInput"
+             class="absolute left-2 top-2 text-gray-500 transition-all">
+        Re-enter Your Password
+      </label>
+      <span class="clear-icon" onclick="clearField('confirmPasswordInput')">&#10005;</span>
+    </div>
+
+    <!-- Buttons -->
+    <div class="flex justify-between gap-4">
+      <button onclick="goBack()"
+              class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 font-medium py-2 rounded-xl transition">
+        Back
+      </button>
+      <button onclick="verifyOTP()"
+              class="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 rounded-xl transition">
+        Verify
+      </button>
+    </div>
+  </div>
+
+  <script>
+    const email = sessionStorage.getItem("userEmail");
+    document.getElementById("emailDisplay").textContent = email;
+
+    function clearField(id) {
+      document.getElementById(id).value = "";
+      document.getElementById(id).focus();
+    }
+
+    function goBack() {
+      window.location.href = "index.html";
+    }
+
+    async function verifyOTP() {
+      const otp = document.getElementById("otpInput").value.trim();
+      const confirmPassword = document.getElementById("confirmPasswordInput").value.trim();
+      const originalPassword = sessionStorage.getItem("userPassword");
+
+      if (!otp || !confirmPassword) {
+        alert("⚠️ Please fill in both fields.");
+        return;
+      }
+
+      if (confirmPassword !== originalPassword) {
+        alert("❌ Passwords do not match.");
+        return;
+      }
+
+      try {
+        const res = await fetch("http://localhost:5050/verify-otp", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email, otp })
+        });
+
+        const data = await res.json();
+        if (res.ok) {
+          alert("✅ OTP verified. Proceeding to decrypt...");
+          window.location.href = "pg3.html";
+        } else {
+          alert("❌ " + data.message);
+        }
+      } catch (err) {
+        alert("❌ Server error: " + err.message);
+      }
+    }
+  </script>
+</body>
+</html>

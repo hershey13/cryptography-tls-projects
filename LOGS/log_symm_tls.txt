@@ -1,0 +1,1306 @@
+2025-07-14 14:06:22 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:06:22 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:06:27 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 87, in index
+    return render_template("index.html")
+           ^^^^^^^^^^^^^^^
+NameError: name 'render_template' is not defined
+2025-07-14 14:06:27 [INFO] 127.0.0.1 - - [14/Jul/2025 14:06:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-14 14:06:55 [INFO] 127.0.0.1 - - [14/Jul/2025 14:06:55] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:06:55 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 14:06:55 [INFO] \U0001f510 Rolled password: cdef
+2025-07-14 14:06:55 [INFO] \U0001f510 Cipher preview: C7TyO/0vyLwRqWfaWN3teg==:rijnu9WrfjJXvRO...
+2025-07-14 14:06:59 [INFO] 127.0.0.1 - - [14/Jul/2025 14:06:59] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:10:49 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 87, in index
+    return render_template("index.html")
+           ^^^^^^^^^^^^^^^
+NameError: name 'render_template' is not defined
+2025-07-14 14:10:49 [INFO] 127.0.0.1 - - [14/Jul/2025 14:10:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-14 14:11:28 [INFO] 127.0.0.1 - - [14/Jul/2025 14:11:28] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:11:28 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 14:11:28 [INFO] \U0001f510 Rolled password: jgnnq
+2025-07-14 14:11:28 [INFO] \U0001f510 Cipher preview: 5PGuaH10cPe/H6lT2r+PjQ==:3Bg5QkBY/VyzpW5...
+2025-07-14 14:11:32 [INFO] 127.0.0.1 - - [14/Jul/2025 14:11:32] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:15:10 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:15:10 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:16:27 [INFO] 127.0.0.1 - - [14/Jul/2025 14:16:27] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:16:27 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 14:16:27 [INFO] \U0001f510 Rolled password: cc
+2025-07-14 14:16:27 [INFO] \U0001f510 Cipher preview: sgKhOi0YgZOab89GET09FQ==:1DLCGnIbWoi8nIv...
+2025-07-14 14:16:31 [INFO] 127.0.0.1 - - [14/Jul/2025 14:16:31] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:22:44 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:22:44 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:22:49 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:22:49 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:22:57 [INFO] 127.0.0.1 - - [14/Jul/2025 14:22:57] "GET / HTTP/1.1" 200 -
+2025-07-14 14:23:08 [INFO] 127.0.0.1 - - [14/Jul/2025 14:23:08] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:23:08 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 14:23:08 [INFO] \U0001f510 Rolled password: cdef
+2025-07-14 14:23:08 [INFO] \U0001f510 Cipher preview: zEnsvObiVf45bpR+leu8Vw==:mZynjnpLrzOAhJW...
+2025-07-14 14:23:12 [INFO] 127.0.0.1 - - [14/Jul/2025 14:23:12] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:23:13 [INFO] 127.0.0.1 - - [14/Jul/2025 14:23:13] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:24:14 [INFO] 127.0.0.1 - - [14/Jul/2025 14:24:14] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:24:15 [INFO] 127.0.0.1 - - [14/Jul/2025 14:24:15] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:24:41 [INFO] 127.0.0.1 - - [14/Jul/2025 14:24:41] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:24:41 [INFO] \U0001f510 Encryption successful for email: pam.work1989@gmail.com
+2025-07-14 14:24:41 [INFO] \U0001f510 Rolled password: cdef
+2025-07-14 14:24:41 [INFO] \U0001f510 Cipher preview: EjZWaojKIU81MWi0N94AnA==:KU2xtxKIyMAsl71...
+2025-07-14 14:24:45 [INFO] 127.0.0.1 - - [14/Jul/2025 14:24:45] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:24:45 [INFO] 127.0.0.1 - - [14/Jul/2025 14:24:45] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:27:46 [INFO] 127.0.0.1 - - [14/Jul/2025 14:27:46] "[31m[1mGET /decrypt HTTP/1.1[0m" 405 -
+2025-07-14 14:30:00 [INFO] 127.0.0.1 - - [14/Jul/2025 14:30:00] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:30:06 [INFO] 127.0.0.1 - - [14/Jul/2025 14:30:06] "GET / HTTP/1.1" 200 -
+2025-07-14 14:30:13 [INFO] 127.0.0.1 - - [14/Jul/2025 14:30:13] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:30:13 [INFO] \U0001f510 Encryption successful for email: pam.work1989@gmail.com
+2025-07-14 14:30:13 [INFO] \U0001f510 Rolled password: {gcj
+2025-07-14 14:30:13 [INFO] \U0001f510 Cipher preview: C1JYNHBAnLwzOBKhGwp5vA==:P177acSVPT116Vj...
+2025-07-14 14:30:17 [INFO] 127.0.0.1 - - [14/Jul/2025 14:30:17] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:30:20 [INFO] 127.0.0.1 - - [14/Jul/2025 14:30:20] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:31:41 [INFO] 127.0.0.1 - - [14/Jul/2025 14:31:41] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:31:42 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 14:31:42 [INFO] \U0001f510 Rolled password: {gcj
+2025-07-14 14:31:42 [INFO] \U0001f510 Cipher preview: smzlinxYDOuDKhmyH7NE8g==:sAmLZd+6gzvdhki...
+2025-07-14 14:31:45 [INFO] 127.0.0.1 - - [14/Jul/2025 14:31:45] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:31:47 [INFO] 127.0.0.1 - - [14/Jul/2025 14:31:47] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:34:04 [INFO] 127.0.0.1 - - [14/Jul/2025 14:34:04] "[33mGET /decrypt' HTTP/1.1[0m" 404 -
+2025-07-14 14:34:08 [INFO] 127.0.0.1 - - [14/Jul/2025 14:34:08] "[31m[1mGET /decrypt HTTP/1.1[0m" 405 -
+2025-07-14 14:35:22 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:35:22 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:35:28 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:35:28 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:35:36 [INFO] 127.0.0.1 - - [14/Jul/2025 14:35:36] "GET / HTTP/1.1" 200 -
+2025-07-14 14:35:45 [INFO] 127.0.0.1 - - [14/Jul/2025 14:35:45] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:35:45 [INFO] \U0001f510 Encryption successful for email: pam.work1989@gmail.com
+2025-07-14 14:35:45 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 14:35:45 [INFO] \U0001f510 Cipher preview: BspJoJ8P1LLN1kovHpHrpQ==:XLrRMY0prPG10tC...
+2025-07-14 14:35:48 [INFO] 127.0.0.1 - - [14/Jul/2025 14:35:48] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:35:50 [INFO] 127.0.0.1 - - [14/Jul/2025 14:35:50] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:35:56 [INFO] 127.0.0.1 - - [14/Jul/2025 14:35:56] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:36:00 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:00] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 14:36:18 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:18] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:36:28 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:28] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:36:28 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 14:36:28 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 14:36:28 [INFO] \U0001f510 Cipher preview: 1s9Mrv/qoe3wBVG5Qho0tw==:PYT5ovmQWBR0S1E...
+2025-07-14 14:36:29 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 14:36:29 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 14:36:29 [INFO] \U0001f510 Cipher preview: UQfF4BPrgmKEBgHRAs8zlg==:XGlNCnSoO94XExe...
+2025-07-14 14:36:32 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:32] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:36:33 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:33] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:36:34 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:34] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:36:35 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:35] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:36:39 [INFO] 127.0.0.1 - - [14/Jul/2025 14:36:39] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 14:38:07 [INFO] 127.0.0.1 - - [14/Jul/2025 14:38:07] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:40:43 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:40:43 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:40:54 [INFO] 127.0.0.1 - - [14/Jul/2025 14:40:54] "GET / HTTP/1.1" 200 -
+2025-07-14 14:41:02 [INFO] 127.0.0.1 - - [14/Jul/2025 14:41:02] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:41:03 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 14:41:03 [INFO] \U0001f510 Rolled password: 34
+2025-07-14 14:41:03 [INFO] \U0001f510 Cipher preview: d3U7XzFi/gFtsdSFTy0eNw==:DPfqbdeJ9PUBCP0...
+2025-07-14 14:41:06 [INFO] 127.0.0.1 - - [14/Jul/2025 14:41:06] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:41:08 [INFO] 127.0.0.1 - - [14/Jul/2025 14:41:08] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 14:41:13 [INFO] 127.0.0.1 - - [14/Jul/2025 14:41:13] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 14:43:17 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 14:43:17 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 14:43:24 [INFO] 127.0.0.1 - - [14/Jul/2025 14:43:24] "GET / HTTP/1.1" 200 -
+2025-07-14 14:43:42 [INFO] 127.0.0.1 - - [14/Jul/2025 14:43:42] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 14:43:42 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 14:43:42 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 14:43:42 [INFO] \U0001f510 Cipher preview: pBS1FT6Yz1UvtQUXyzy4fg==:hFtOZ035a4K6QLx...
+2025-07-14 14:43:47 [INFO] 127.0.0.1 - - [14/Jul/2025 14:43:47] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 14:43:49 [INFO] 127.0.0.1 - - [14/Jul/2025 14:43:49] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:02:38 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 15:02:38 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 15:02:43 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 15:02:43 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 15:02:57 [INFO] 127.0.0.1 - - [14/Jul/2025 15:02:57] "GET / HTTP/1.1" 200 -
+2025-07-14 15:03:13 [INFO] 127.0.0.1 - - [14/Jul/2025 15:03:13] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 15:03:13 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 15:03:13 [INFO] \U0001f510 Rolled password: {gcj
+2025-07-14 15:03:13 [INFO] \U0001f510 Cipher preview: LzQOe1N7DDqypZI0l+oj+A==:KmZKhuRK3ZM9Z2/...
+2025-07-14 15:03:17 [INFO] 127.0.0.1 - - [14/Jul/2025 15:03:17] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 15:03:18 [INFO] 127.0.0.1 - - [14/Jul/2025 15:03:18] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:04:24 [INFO] 127.0.0.1 - - [14/Jul/2025 15:04:24] "POST /decrypt HTTP/1.1" 200 -
+2025-07-14 15:08:12 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 15:08:12 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 15:08:20 [INFO] 127.0.0.1 - - [14/Jul/2025 15:08:20] "GET / HTTP/1.1" 200 -
+2025-07-14 15:08:29 [INFO] 127.0.0.1 - - [14/Jul/2025 15:08:29] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 15:08:30 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 15:08:30 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 15:08:30 [INFO] \U0001f510 Cipher preview: eOcCde3nqFmbfMOezwrM1A==:Q8GhCCACSUgvavy...
+2025-07-14 15:08:33 [INFO] 127.0.0.1 - - [14/Jul/2025 15:08:33] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 15:08:36 [INFO] 127.0.0.1 - - [14/Jul/2025 15:08:36] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:09:44 [INFO] 127.0.0.1 - - [14/Jul/2025 15:09:44] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 15:09:44 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 15:09:44 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 15:09:44 [INFO] \U0001f510 Cipher preview: AX5N2xcqC7RBBumwvizAnQ==:VOpJfDbrzjz0Rz6...
+2025-07-14 15:09:47 [INFO] 127.0.0.1 - - [14/Jul/2025 15:09:47] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 15:09:49 [INFO] 127.0.0.1 - - [14/Jul/2025 15:09:49] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:10:19 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 15:10:19 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 15:10:23 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:23] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:10:26 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:26] "GET / HTTP/1.1" 200 -
+2025-07-14 15:10:32 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:32] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 15:10:32 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 15:10:32 [INFO] \U0001f510 Rolled password: {gq
+2025-07-14 15:10:32 [INFO] \U0001f510 Cipher preview: vric+QgNzpO1pIhcDc1XIQ==:N7HMR0p7JETWRjR...
+2025-07-14 15:10:36 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:36] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 15:10:38 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:38] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:10:57 [INFO] 127.0.0.1 - - [14/Jul/2025 15:10:57] "GET / HTTP/1.1" 200 -
+2025-07-14 15:11:21 [INFO] 127.0.0.1 - - [14/Jul/2025 15:11:21] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:11:38 [INFO] 127.0.0.1 - - [14/Jul/2025 15:11:38] "GET / HTTP/1.1" 200 -
+2025-07-14 15:11:39 [INFO] 127.0.0.1 - - [14/Jul/2025 15:11:39] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 15:11:40 [INFO] 127.0.0.1 - - [14/Jul/2025 15:11:40] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:11:40 [INFO] 127.0.0.1 - - [14/Jul/2025 15:11:40] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-14 15:33:41 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 15:33:41 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 15:33:59 [INFO] 127.0.0.1 - - [14/Jul/2025 15:33:59] "GET / HTTP/1.1" 200 -
+2025-07-14 15:34:14 [INFO] 127.0.0.1 - - [14/Jul/2025 15:34:14] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 15:34:15 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 15:34:15 [INFO] \U0001f510 Rolled password: 3456
+2025-07-14 15:34:15 [INFO] \U0001f510 Cipher preview: /2NpWbdcL1EOh2pBa9RcBw==:zk+SYepi4VnqfVq...
+2025-07-14 15:34:19 [INFO] 127.0.0.1 - - [14/Jul/2025 15:34:19] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 15:34:20 [INFO] 127.0.0.1 - - [14/Jul/2025 15:34:20] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 15:34:49 [INFO] 127.0.0.1 - - [14/Jul/2025 15:34:49] "POST /decrypt HTTP/1.1" 200 -
+2025-07-14 16:38:02 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 16:38:02 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 16:38:09 [INFO] 127.0.0.1 - - [14/Jul/2025 16:38:09] "GET / HTTP/1.1" 200 -
+2025-07-14 16:38:26 [INFO] 127.0.0.1 - - [14/Jul/2025 16:38:26] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 16:38:26 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 16:38:26 [INFO] \U0001f510 Rolled password: cdef
+2025-07-14 16:38:26 [INFO] \U0001f510 Cipher preview: 4XXXAiiYluKkb5YXsNIuqw==:LMI/vsSM9PDYXdP...
+2025-07-14 16:38:35 [INFO] 127.0.0.1 - - [14/Jul/2025 16:38:35] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 16:38:38 [INFO] 127.0.0.1 - - [14/Jul/2025 16:38:38] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 16:39:05 [INFO] 127.0.0.1 - - [14/Jul/2025 16:39:05] "POST /decrypt HTTP/1.1" 200 -
+2025-07-14 16:43:03 [INFO] 127.0.0.1 - - [14/Jul/2025 16:43:03] "GET / HTTP/1.1" 200 -
+2025-07-14 16:43:09 [INFO] 127.0.0.1 - - [14/Jul/2025 16:43:09] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 16:43:09 [INFO] \U0001f510 Encryption successful for email: hbhasin5555@gmail.com
+2025-07-14 16:43:09 [INFO] \U0001f510 Rolled password: jgnnq
+2025-07-14 16:43:09 [INFO] \U0001f510 Cipher preview: P2OuRZkzMXNeKutviC/8Pg==:ZJ92WhA1mXzwCwr...
+2025-07-14 16:43:13 [INFO] 127.0.0.1 - - [14/Jul/2025 16:43:13] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 16:43:15 [INFO] 127.0.0.1 - - [14/Jul/2025 16:43:15] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 16:43:32 [INFO] 127.0.0.1 - - [14/Jul/2025 16:43:32] "POST /decrypt HTTP/1.1" 200 -
+2025-07-14 16:44:30 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-14 16:44:30 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-14 16:45:02 [INFO] 127.0.0.1 - - [14/Jul/2025 16:45:02] "GET / HTTP/1.1" 200 -
+2025-07-14 16:45:19 [INFO] 127.0.0.1 - - [14/Jul/2025 16:45:19] "OPTIONS /encrypt HTTP/1.1" 200 -
+2025-07-14 16:45:19 [INFO] \U0001f510 Encryption successful for email: epitomearchangel84@gmail.com
+2025-07-14 16:45:19 [INFO] \U0001f510 Rolled password: cdef
+2025-07-14 16:45:19 [INFO] \U0001f510 Cipher preview: 0UyxTbSKdTgsfOXJsLncTw==:zZ27vDkPAAwQvdL...
+2025-07-14 16:45:24 [INFO] 127.0.0.1 - - [14/Jul/2025 16:45:24] "POST /encrypt HTTP/1.1" 200 -
+2025-07-14 16:45:27 [INFO] 127.0.0.1 - - [14/Jul/2025 16:45:27] "GET /decrypt HTTP/1.1" 200 -
+2025-07-14 16:46:00 [INFO] 127.0.0.1 - - [14/Jul/2025 16:46:00] "POST /decrypt HTTP/1.1" 200 -
+2025-07-15 12:43:28 [INFO] Starting Flask server with TLS...
+2025-07-15 12:43:28 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 12:43:28 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 12:43:28 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:43:29 [INFO] Starting Flask server with TLS...
+2025-07-15 12:43:29 [WARNING]  * Debugger is active!
+2025-07-15 12:43:29 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:43:46 [INFO] 127.0.0.1 - - [15/Jul/2025 12:43:46] "GET / HTTP/1.1" 200 -
+2025-07-15 12:44:03 [INFO] 192.168.150.179 - - [15/Jul/2025 12:44:03] "GET / HTTP/1.1" 200 -
+2025-07-15 12:44:04 [INFO] 192.168.150.179 - - [15/Jul/2025 12:44:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 12:54:06 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:54:06 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:54:08 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:54:08 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:54:08 [WARNING]  * Debugger is active!
+2025-07-15 12:54:08 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:54:17 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:54:17 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 12:54:17 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 12:54:17 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:54:18 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:54:18 [WARNING]  * Debugger is active!
+2025-07-15 12:54:18 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:54:30 [INFO] 127.0.0.1 - - [15/Jul/2025 12:54:30] "GET / HTTP/1.1" 200 -
+2025-07-15 12:54:54 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:54:54 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 12:54:54 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 12:54:54 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:54:55 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:54:55 [WARNING]  * Debugger is active!
+2025-07-15 12:54:55 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:55:11 [INFO] 127.0.0.1 - - [15/Jul/2025 12:55:11] "GET / HTTP/1.1" 200 -
+2025-07-15 12:55:35 [INFO] 127.0.0.1 - - [15/Jul/2025 12:55:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 12:59:03 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:03 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:03 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:03 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:04 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:04 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:05 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:05 [WARNING]  * Debugger is active!
+2025-07-15 12:59:05 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:05 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:05 [WARNING]  * Debugger is active!
+2025-07-15 12:59:05 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:22 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-15 12:59:22 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-15 12:59:22 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-15 12:59:22 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-15 12:59:22 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:22 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:23 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:23 [WARNING]  * Debugger is active!
+2025-07-15 12:59:23 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:23 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:23 [WARNING]  * Debugger is active!
+2025-07-15 12:59:23 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:26 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:26 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:26 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:26 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:27 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:27 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:27 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:27 [WARNING]  * Debugger is active!
+2025-07-15 12:59:28 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:28 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:28 [WARNING]  * Debugger is active!
+2025-07-15 12:59:28 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:41 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 12:59:41 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:41 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 12:59:41 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:41 [WARNING]  * Debugger is active!
+2025-07-15 12:59:41 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 12:59:41 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 12:59:41 [WARNING]  * Debugger is active!
+2025-07-15 12:59:41 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:06:06 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:06:06 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 13:06:06 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 13:06:06 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:06:06 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:06:06 [WARNING]  * Debugger is active!
+2025-07-15 13:06:06 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:06:15 [INFO] 127.0.0.1 - - [15/Jul/2025 13:06:15] "GET / HTTP/1.1" 200 -
+2025-07-15 13:06:35 [INFO] 127.0.0.1 - - [15/Jul/2025 13:06:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 13:12:06 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:12:06 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 13:12:06 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 13:12:06 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:12:06 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:12:06 [WARNING]  * Debugger is active!
+2025-07-15 13:12:06 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:12:15 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:12:15 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 13:12:15 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 13:12:15 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:12:15 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:12:15 [WARNING]  * Debugger is active!
+2025-07-15 13:12:15 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:12:29 [INFO] 127.0.0.1 - - [15/Jul/2025 13:12:29] "GET / HTTP/1.1" 200 -
+2025-07-15 13:12:50 [INFO] \U0001f4e5 Received JSON: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:12:50 [INFO] \u2705 Encryption done for hbhasin5555@gmail.com
+2025-07-15 13:12:50 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:12:50 [INFO] \U0001f4e6 Cipher preview: o+Ju8WM37EPrhcPpjJ2ZfQ==:7pQBBcAcSw/tT2R...
+2025-07-15 13:12:55 [INFO] 127.0.0.1 - - [15/Jul/2025 13:12:55] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:12:56 [INFO] 127.0.0.1 - - [15/Jul/2025 13:12:56] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 13:13:02 [INFO] \U0001f4e5 Received JSON: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:13:02 [INFO] \u2705 Encryption done for hbhasin5555@gmail.com
+2025-07-15 13:13:02 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:13:02 [INFO] \U0001f4e6 Cipher preview: I5tk/oFaW99f5HDffvq2zA==:TIoB5LPqvqGCKhN...
+2025-07-15 13:13:07 [INFO] 127.0.0.1 - - [15/Jul/2025 13:13:07] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:13:28 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-15 13:13:28 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-15 13:13:28 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-15 13:13:28 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:13:29 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:13:29 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:13:29 [WARNING]  * Debugger is active!
+2025-07-15 13:13:29 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:13:29 [INFO] \U0001f680 Starting Flask server with TLS...
+2025-07-15 13:13:29 [WARNING]  * Debugger is active!
+2025-07-15 13:13:29 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:15:04 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 13:15:04 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 13:15:04 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:15:04 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 13:15:04 [WARNING]  * Debugger is active!
+2025-07-15 13:15:04 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:15:05 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 13:15:05 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 13:15:05 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 13:15:05 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:15:05 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 13:15:05 [WARNING]  * Debugger is active!
+2025-07-15 13:15:05 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 13:15:13 [INFO] 127.0.0.1 - - [15/Jul/2025 13:15:13] "GET / HTTP/1.1" 200 -
+2025-07-15 13:15:29 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:15:29 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-15 13:15:29 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:15:29 [INFO] \U0001f510 Cipher preview: uT32RxpIZuJZT1KtB5Z45g==:2OHDNogQDJy9e4r...
+2025-07-15 13:15:34 [INFO] 127.0.0.1 - - [15/Jul/2025 13:15:34] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:15:36 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:15:36 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-15 13:15:36 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:15:36 [INFO] \U0001f510 Cipher preview: B2SafrJIY/dqtFVIPj7f5A==:tgbD/zeu2lOzT+M...
+2025-07-15 13:15:39 [INFO] 127.0.0.1 - - [15/Jul/2025 13:15:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 13:15:41 [INFO] 127.0.0.1 - - [15/Jul/2025 13:15:41] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:16:39 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:16:39 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-15 13:16:39 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:16:39 [INFO] \U0001f510 Cipher preview: PjrvFWjkBWl4E8msDip8HA==:fEI0erCaH+6npp8...
+2025-07-15 13:16:42 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-15 13:16:42 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-15 13:16:42 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 13:16:42 [INFO] \U0001f510 Cipher preview: hRTms/uVY5KbxvmwBrSaog==:EOE5M2yhWGi/w7g...
+2025-07-15 13:16:43 [INFO] 127.0.0.1 - - [15/Jul/2025 13:16:43] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:16:46 [INFO] 127.0.0.1 - - [15/Jul/2025 13:16:46] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 13:17:57 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-15 13:17:57 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-15 13:17:58 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-15 13:17:58 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-15 13:17:58 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-15 13:17:58 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-15 13:17:58 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-15 13:17:58 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 13:17:58 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 13:17:58 [WARNING]  * Debugger is active!
+2025-07-15 13:17:58 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\aliases.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_8.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1252.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\_distutils_hack\\__init__.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\struct.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\types.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\locale.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\enum.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\operator.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\functools.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\signal.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\threading.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ast.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\dis.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\collections\\abc.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\token.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\base64.py', reloading
+2025-07-15 14:32:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\copy.py', reloading
+2025-07-15 14:32:56 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 14:32:56 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 14:32:56 [WARNING]  * Debugger is active!
+2025-07-15 14:32:56 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 14:44:08 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-15 14:44:08 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-15 14:44:08 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-15 14:44:09 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 14:44:10 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 14:44:10 [WARNING]  * Debugger is active!
+2025-07-15 14:44:10 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 14:47:20 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 14:47:21 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 14:47:21 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 14:47:21 [WARNING]  * Debugger is active!
+2025-07-15 14:47:21 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 15:00:16 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 15:00:16 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 15:00:16 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 15:00:16 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 15:00:16 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 15:00:16 [WARNING]  * Debugger is active!
+2025-07-15 15:00:16 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 15:10:06 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 15:10:06 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 15:10:06 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 15:10:06 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 15:10:06 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 15:10:06 [WARNING]  * Debugger is active!
+2025-07-15 15:10:06 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 18:52:30 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:52:30 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 18:52:30 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:52:30 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 18:52:30 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:52:30 [WARNING]  * Debugger is active!
+2025-07-15 18:52:30 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 18:52:42 [INFO] 127.0.0.1 - - [15/Jul/2025 18:52:42] "GET / HTTP/1.1" 200 -
+2025-07-15 18:52:54 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hello this is a message', 'password': 'myname'}
+2025-07-15 18:52:54 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-15 18:52:54 [INFO] \U0001f510 Rolled password: o{pcog
+2025-07-15 18:52:54 [INFO] \U0001f510 Cipher preview: P6ZYns2WrtTK+2BmX81k2A==:COu5V3A41axqRrD...
+2025-07-15 18:52:54 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-15 18:52:54 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-15 18:52:54 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-15 18:52:55 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-15 18:52:55 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 18:52:55 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:52:55 [WARNING]  * Debugger is active!
+2025-07-15 18:52:55 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 18:52:59 [INFO] 127.0.0.1 - - [15/Jul/2025 18:52:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:54:25 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 18:54:25 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 18:54:26 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 18:54:54 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:54:54 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 18:54:54 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:54:54 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 18:54:55 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:54:55 [WARNING]  * Debugger is active!
+2025-07-15 18:54:55 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 18:54:57 [INFO] 127.0.0.1 - - [15/Jul/2025 18:54:57] "GET / HTTP/1.1" 200 -
+2025-07-15 18:54:57 [INFO] 127.0.0.1 - - [15/Jul/2025 18:54:57] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:55:13 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hello this will work', 'password': '123myname'}
+2025-07-15 18:55:13 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-15 18:55:13 [INFO] \U0001f510 Rolled password: 345o{pcog
+2025-07-15 18:55:13 [INFO] \U0001f510 Cipher preview: nIe+wl+l/3HLzmm6NfrSdw==:CcC5zLba8MnOapP...
+2025-07-15 18:55:18 [INFO] 127.0.0.1 - - [15/Jul/2025 18:55:18] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 18:55:39 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+2025-07-15 18:55:40 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 18:55:40 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 18:55:40 [WARNING]  * Debugger is active!
+2025-07-15 18:55:40 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:36:55 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:36:55 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 23:36:55 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 23:36:55 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:36:55 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:36:55 [WARNING]  * Debugger is active!
+2025-07-15 23:36:55 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:37:03 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:03] "GET / HTTP/1.1" 200 -
+2025-07-15 23:37:13 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'helloo', 'password': '1234'}
+2025-07-15 23:37:13 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-15 23:37:13 [INFO] \U0001f510 Rolled password: 3456
+2025-07-15 23:37:13 [INFO] \U0001f510 Cipher preview: D1w1Nm+dMeCk1F2kG32F1g==:ELSLtnwH9yaC4QQ...
+2025-07-15 23:37:17 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:17] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 23:37:17 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:17] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-15 23:37:26 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:26] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-15 23:37:30 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:30] "[31m[1mGET /decrypt HTTP/1.1[0m" 405 -
+2025-07-15 23:37:45 [INFO] 127.0.0.1 - - [15/Jul/2025 23:37:45] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-15 23:40:14 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-15 23:40:14 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:40:15 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:40:15 [WARNING]  * Debugger is active!
+2025-07-15 23:40:15 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:40:55 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 23:40:55 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 23:40:55 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:41:16 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:41:16 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 23:41:16 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 23:41:16 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:41:16 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:41:16 [WARNING]  * Debugger is active!
+2025-07-15 23:41:16 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:41:19 [INFO] 127.0.0.1 - - [15/Jul/2025 23:41:19] "GET / HTTP/1.1" 200 -
+2025-07-15 23:41:26 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hhhhhhhhhh', 'password': '1234'}
+2025-07-15 23:41:26 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-15 23:41:26 [INFO] \U0001f510 Rolled password: 3456
+2025-07-15 23:41:26 [INFO] \U0001f510 Cipher preview: o6HghjorJ2Ak+u4OJOtYRw==:iznwfb83BTta2F1...
+2025-07-15 23:41:30 [INFO] 127.0.0.1 - - [15/Jul/2025 23:41:30] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 23:41:30 [INFO] 127.0.0.1 - - [15/Jul/2025 23:41:30] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-15 23:41:41 [INFO] 127.0.0.1 - - [15/Jul/2025 23:41:41] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:43:35 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 23:43:35 [INFO]  * Detected change in 'C:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-15 23:43:35 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:43:35 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:43:35 [WARNING]  * Debugger is active!
+2025-07-15 23:43:35 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:43:50 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:43:50 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 23:43:50 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 23:43:50 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-15 23:43:50 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-15 23:43:50 [WARNING]  * Debugger is active!
+2025-07-15 23:43:50 [INFO]  * Debugger PIN: 799-630-082
+2025-07-15 23:44:00 [INFO] 127.0.0.1 - - [15/Jul/2025 23:44:00] "GET / HTTP/1.1" 200 -
+2025-07-15 23:44:01 [INFO] 127.0.0.1 - - [15/Jul/2025 23:44:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 23:44:26 [INFO] \U0001f4e5 /encrypt received: {'email': 'pam.work1989@gmail.com', 'message': 'hello t=w', 'password': 'qwe234'}
+2025-07-15 23:44:26 [INFO] \u2705 Encrypted for pam.work1989@gmail.com
+2025-07-15 23:44:26 [INFO] \U0001f510 Rolled password: syg456
+2025-07-15 23:44:26 [INFO] \U0001f510 Cipher preview: FMaevNsQHIV/TQAi5Yj+Iw==:XW6lSQG/nJFi8Z/...
+2025-07-15 23:44:33 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-15 23:44:33 [INFO] 127.0.0.1 - - [15/Jul/2025 23:44:33] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-15 23:44:38 [INFO] \U0001f4e5 /encrypt received: {'email': 'pam.work1989@gmail.com', 'message': 'hello t=w', 'password': 'qwe234'}
+2025-07-15 23:44:38 [INFO] \u2705 Encrypted for pam.work1989@gmail.com
+2025-07-15 23:44:38 [INFO] \U0001f510 Rolled password: syg456
+2025-07-15 23:44:38 [INFO] \U0001f510 Cipher preview: glOy/wgj87pfAGaTMNHQ/Q==:Wkr2T1QlOphpTlP...
+2025-07-15 23:44:43 [INFO] \U0001f4e5 /encrypt received: {'email': 'pam.work1989@gmail.com', 'message': 'hello t=w', 'password': 'abcd'}
+2025-07-15 23:44:43 [INFO] \u2705 Encrypted for pam.work1989@gmail.com
+2025-07-15 23:44:43 [INFO] \U0001f510 Rolled password: cdef
+2025-07-15 23:44:43 [INFO] \U0001f510 Cipher preview: RKpPUrMOK531enVfnf9l6A==:+bkK3JSBmDseVyS...
+2025-07-15 23:44:56 [INFO] 127.0.0.1 - - [15/Jul/2025 23:44:56] "GET / HTTP/1.1" 200 -
+2025-07-15 23:44:56 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-15 23:44:56 [INFO] 127.0.0.1 - - [15/Jul/2025 23:44:56] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-15 23:45:04 [INFO] 127.0.0.1 - - [15/Jul/2025 23:45:04] "POST /encrypt HTTP/1.1" 200 -
+2025-07-15 23:45:16 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': '111111111111111111111', 'password': 'asd'}
+2025-07-15 23:45:16 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-15 23:45:16 [INFO] \U0001f510 Rolled password: cuf
+2025-07-15 23:45:16 [INFO] \U0001f510 Cipher preview: 0cRqaUDDqFt6L7/OOLV++A==:ORzg9AMdZJVl8Ry...
+2025-07-15 23:45:46 [INFO] 127.0.0.1 - - [15/Jul/2025 23:45:46] "[31m[1mGET /decrypt HTTP/1.1[0m" 405 -
+2025-07-15 23:45:46 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-15 23:45:46 [INFO] 127.0.0.1 - - [15/Jul/2025 23:45:46] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-15 23:45:50 [INFO] 127.0.0.1 - - [15/Jul/2025 23:45:50] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-15 23:45:50 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-15 23:45:50 [INFO] 127.0.0.1 - - [15/Jul/2025 23:45:50] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-15 23:46:43 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'D1w1Nm+dMeCk1F2kG32F1g==:ELSLtnwH9yaC4QQ2TfzSmQ==', 'password': '3456'}
+2025-07-15 23:46:43 [INFO] 127.0.0.1 - - [15/Jul/2025 23:46:43] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:02:47 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-16 10:02:47 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-16 10:02:47 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-16 10:02:47 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-16 10:02:47 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-16 10:02:47 [WARNING]  * Debugger is active!
+2025-07-16 10:02:47 [INFO]  * Debugger PIN: 799-630-082
+2025-07-16 10:03:06 [INFO] 127.0.0.1 - - [16/Jul/2025 10:03:06] "GET / HTTP/1.1" 200 -
+2025-07-16 10:03:07 [INFO] 127.0.0.1 - - [16/Jul/2025 10:03:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 10:03:18 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello this is a message', 'password': '1234'}
+2025-07-16 10:03:19 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-16 10:03:19 [INFO] \U0001f510 Rolled password: 3456
+2025-07-16 10:03:19 [INFO] \U0001f510 Cipher preview: 4hhV4qG5WHvEBSyXM2iSgA==:NG9O5Re/bAtx2sN...
+2025-07-16 10:03:19 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-16 10:03:19 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-16 10:03:19 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-16 10:03:19 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-16 10:03:19 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-16 10:03:19 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-16 10:03:19 [WARNING]  * Debugger is active!
+2025-07-16 10:03:19 [INFO]  * Debugger PIN: 799-630-082
+2025-07-16 10:03:24 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-16 10:03:24 [INFO] 127.0.0.1 - - [16/Jul/2025 10:03:24] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-16 10:03:42 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-16 10:03:43 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-16 10:03:43 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-16 10:03:43 [WARNING]  * Debugger is active!
+2025-07-16 10:03:43 [INFO]  * Debugger PIN: 799-630-082
+2025-07-16 10:06:15 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello this is a message', 'password': '1234'}
+2025-07-16 10:06:15 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-16 10:06:15 [INFO] \U0001f510 Rolled password: 3456
+2025-07-16 10:06:15 [INFO] \U0001f510 Cipher preview: NVhR17mr5/+JfHzPCtz2xg==:B4jrJYjvGd8codk...
+2025-07-16 10:06:19 [INFO] 127.0.0.1 - - [16/Jul/2025 10:06:19] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:06:20 [INFO] 127.0.0.1 - - [16/Jul/2025 10:06:20] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:06:20 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-16 10:06:20 [INFO] 127.0.0.1 - - [16/Jul/2025 10:06:20] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-16 10:06:58 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'kk', 'password': '3456'}
+2025-07-16 10:06:58 [WARNING] \u274c Decryption failed.
+2025-07-16 10:06:58 [INFO] 127.0.0.1 - - [16/Jul/2025 10:06:58] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-07-16 10:07:22 [INFO] 127.0.0.1 - - [16/Jul/2025 10:07:22] "GET / HTTP/1.1" 200 -
+2025-07-16 10:07:35 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hello this is amessage', 'password': 'abcd'}
+2025-07-16 10:07:35 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-16 10:07:35 [INFO] \U0001f510 Rolled password: cdef
+2025-07-16 10:07:35 [INFO] \U0001f510 Cipher preview: LG2vWacIcNEIsUK/RwkcoQ==:syDOabV2KJnE1Ut...
+2025-07-16 10:07:39 [INFO] 127.0.0.1 - - [16/Jul/2025 10:07:39] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:07:39 [INFO] 127.0.0.1 - - [16/Jul/2025 10:07:39] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:08:21 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'LG2vWacIcNEIsUK/RwkcoQ==:syDOabV2KJnE1Ut/tyXlH3w87iUvzx/hu9w08Pf8aks=', 'password': 'cdef'}
+2025-07-16 10:08:21 [INFO] 127.0.0.1 - - [16/Jul/2025 10:08:21] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:09:05 [INFO] 127.0.0.1 - - [16/Jul/2025 10:09:05] "GET / HTTP/1.1" 200 -
+2025-07-16 10:09:18 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello how are you this is life', 'password': 'yes'}
+2025-07-16 10:09:18 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-16 10:09:18 [INFO] \U0001f510 Rolled password: {gu
+2025-07-16 10:09:18 [INFO] \U0001f510 Cipher preview: NJlWvG9LAOuNnGoKwlIF0g==:DB1dYwT9eL7Tmue...
+2025-07-16 10:09:22 [INFO] 127.0.0.1 - - [16/Jul/2025 10:09:22] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:09:22 [INFO] 127.0.0.1 - - [16/Jul/2025 10:09:22] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:09:38 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'NJlWvG9LAOuNnGoKwlIF0g==:DB1dYwT9eL7TmueFEJUKZs0iKexILdaO4seNoZfNz5w=', 'password': '{gu'}
+2025-07-16 10:09:38 [INFO] 127.0.0.1 - - [16/Jul/2025 10:09:38] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:09:57 [INFO] 127.0.0.1 - - [16/Jul/2025 10:09:57] "GET / HTTP/1.1" 200 -
+2025-07-16 10:10:17 [INFO] \U0001f4e5 /encrypt received: {'email': 'pam.work1989@gmail.com', 'message': 'its the play of time', 'password': '1234'}
+2025-07-16 10:10:17 [INFO] \u2705 Encrypted for pam.work1989@gmail.com
+2025-07-16 10:10:17 [INFO] \U0001f510 Rolled password: 3456
+2025-07-16 10:10:17 [INFO] \U0001f510 Cipher preview: gK7xm9m3iuXgWQZ4RVk3tw==:v6Tf7+ixKFkfm3x...
+2025-07-16 10:10:21 [INFO] 127.0.0.1 - - [16/Jul/2025 10:10:21] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:10:21 [INFO] 127.0.0.1 - - [16/Jul/2025 10:10:21] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:10:51 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'gK7xm9m3iuXgWQZ4RVk3tw==:v6Tf7+ixKFkfm3x44ML+uKb5uMmvS6U+of2NUhM6ISg=', 'password': '3456'}
+2025-07-16 10:10:51 [INFO] 127.0.0.1 - - [16/Jul/2025 10:10:51] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:11:09 [INFO] 127.0.0.1 - - [16/Jul/2025 10:11:09] "GET / HTTP/1.1" 200 -
+2025-07-16 10:11:21 [INFO] \U0001f4e5 /encrypt received: {'email': 'pam.work1989@gmail.com', 'message': 'its 2 in the morning', 'password': 'hello'}
+2025-07-16 10:11:21 [INFO] \u2705 Encrypted for pam.work1989@gmail.com
+2025-07-16 10:11:21 [INFO] \U0001f510 Rolled password: jgnnq
+2025-07-16 10:11:21 [INFO] \U0001f510 Cipher preview: tPbzZ6gKOIiB/L0lYeRwmA==:Ir4+9QM5OxH6hdI...
+2025-07-16 10:11:25 [INFO] 127.0.0.1 - - [16/Jul/2025 10:11:25] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:11:25 [INFO] 127.0.0.1 - - [16/Jul/2025 10:11:25] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:11:44 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'tPbzZ6gKOIiB/L0lYeRwmA==:Ir4+9QM5OxH6hdIMSXJdMHSBvsyWHrpQSXlV8wfmNeg=', 'password': 'jgnnq'}
+2025-07-16 10:11:44 [INFO] 127.0.0.1 - - [16/Jul/2025 10:11:44] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:12:01 [INFO] 127.0.0.1 - - [16/Jul/2025 10:12:01] "GET / HTTP/1.1" 200 -
+2025-07-16 10:12:14 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'yeah yeah yes no', 'password': '9080'}
+2025-07-16 10:12:14 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-16 10:12:14 [INFO] \U0001f510 Rolled password: ;2:2
+2025-07-16 10:12:14 [INFO] \U0001f510 Cipher preview: kINcnExS8yySRShBQhk+Vw==:00JY4UYyI0Kkl/H...
+2025-07-16 10:12:18 [INFO] 127.0.0.1 - - [16/Jul/2025 10:12:18] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:12:18 [INFO] 127.0.0.1 - - [16/Jul/2025 10:12:18] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:12:39 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'kINcnExS8yySRShBQhk+Vw==:00JY4UYyI0Kkl/HoFu4dHn1A0P+ua00eaq1b2DCtWDI=', 'password': ';2:2'}
+2025-07-16 10:12:39 [INFO] 127.0.0.1 - - [16/Jul/2025 10:12:39] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:12:55 [INFO] 127.0.0.1 - - [16/Jul/2025 10:12:55] "GET / HTTP/1.1" 200 -
+2025-07-16 10:13:10 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasinn5555@gmail.com', 'message': 'yes i can make this work', 'password': 'perfect'}
+2025-07-16 10:13:10 [INFO] \u2705 Encrypted for hbhasinn5555@gmail.com
+2025-07-16 10:13:10 [INFO] \U0001f510 Rolled password: rgthgev
+2025-07-16 10:13:10 [INFO] \U0001f510 Cipher preview: uqkT7y9xZ2Cb4QOSgdL/rg==:VbN7QTQMaeT+5af...
+2025-07-16 10:13:14 [INFO] 127.0.0.1 - - [16/Jul/2025 10:13:14] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:13:14 [INFO] 127.0.0.1 - - [16/Jul/2025 10:13:14] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:13:30 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'yes i can make this work', 'password': 'perfect'}
+2025-07-16 10:13:30 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-16 10:13:30 [INFO] \U0001f510 Rolled password: rgthgev
+2025-07-16 10:13:30 [INFO] \U0001f510 Cipher preview: Wv+a9Jqi5IjUgXgPmaD2Hg==:iIBpLjXiG0Htg/9...
+2025-07-16 10:13:34 [INFO] 127.0.0.1 - - [16/Jul/2025 10:13:34] "POST /encrypt HTTP/1.1" 200 -
+2025-07-16 10:13:34 [INFO] 127.0.0.1 - - [16/Jul/2025 10:13:34] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-16 10:13:49 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'Wv+a9Jqi5IjUgXgPmaD2Hg==:iIBpLjXiG0Htg/9ZCFyoDjQi/PSFnVB/7m3JTqg0NOw=', 'password': 'rgthgev'}
+2025-07-16 10:13:49 [INFO] 127.0.0.1 - - [16/Jul/2025 10:13:49] "POST /decrypt HTTP/1.1" 200 -
+2025-07-16 10:16:16 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-16 10:16:16 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-16 10:16:17 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-16 10:16:18 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-16 10:16:18 [WARNING]  * Debugger is active!
+2025-07-16 10:16:18 [INFO]  * Debugger PIN: 799-630-082
+2025-07-22 15:23:47 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-22 15:23:47 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-22 15:23:47 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-22 15:23:47 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-22 15:23:48 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-22 15:23:48 [WARNING]  * Debugger is active!
+2025-07-22 15:23:48 [INFO]  * Debugger PIN: 142-251-606
+2025-07-22 15:23:59 [INFO] 127.0.0.1 - - [22/Jul/2025 15:23:59] "GET / HTTP/1.1" 200 -
+2025-07-22 15:24:00 [INFO] 127.0.0.1 - - [22/Jul/2025 15:24:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-26 22:08:41 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-26 22:08:41 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-26 22:08:41 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-26 22:08:41 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-26 22:08:41 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-26 22:08:41 [WARNING]  * Debugger is active!
+2025-07-26 22:08:41 [INFO]  * Debugger PIN: 142-251-606
+2025-07-26 22:08:55 [INFO] 127.0.0.1 - - [26/Jul/2025 22:08:55] "GET / HTTP/1.1" 200 -
+2025-07-26 22:09:02 [INFO] 127.0.0.1 - - [26/Jul/2025 22:09:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-27 00:03:29 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-27 00:03:29 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-27 00:03:29 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-27 00:03:29 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-27 00:03:30 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-27 00:03:30 [WARNING]  * Debugger is active!
+2025-07-27 00:03:30 [INFO]  * Debugger PIN: 142-251-606
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\templating.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\__init__.py', reloading
+2025-07-27 00:03:35 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\environment.py', reloading
+2025-07-27 00:03:36 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_util.py', reloading
+2025-07-27 00:03:36 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\email_util.py', reloading
+2025-07-27 00:03:36 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-27 00:03:37 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-27 00:03:37 [WARNING]  * Debugger is active!
+2025-07-27 00:03:37 [INFO]  * Debugger PIN: 142-251-606
+2025-07-27 00:03:37 [INFO] 127.0.0.1 - - [27/Jul/2025 00:03:37] "GET / HTTP/1.1" 200 -
+2025-07-27 00:12:40 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\helpers.py', reloading
+2025-07-27 00:12:40 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyPDF2\\__init__.py', reloading
+2025-07-27 00:12:40 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyPDF2\\_reader.py', reloading
+2025-07-27 00:12:40 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-27 00:12:41 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-27 00:12:41 [WARNING]  * Debugger is active!
+2025-07-27 00:12:41 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 02:12:39 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 02:12:39 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 02:12:39 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 02:12:39 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 02:12:39 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 02:12:39 [WARNING]  * Debugger is active!
+2025-07-28 02:12:39 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 02:12:49 [INFO] 127.0.0.1 - - [28/Jul/2025 02:12:49] "GET / HTTP/1.1" 200 -
+2025-07-28 02:12:49 [INFO] 127.0.0.1 - - [28/Jul/2025 02:12:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 02:13:57 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello this is a message', 'password': 'mypassword123'}
+2025-07-28 02:13:57 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 02:13:57 [INFO] \U0001f510 Rolled password: o{rcuuyqtf345
+2025-07-28 02:13:57 [INFO] \U0001f510 Cipher preview: IzEaTcD4XjuS7nKns7oMdQ==:vDkpbP4kE1TQ94J...
+2025-07-28 02:13:57 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-28 02:13:57 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-28 02:13:57 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-28 02:13:57 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-28 02:13:58 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 02:13:59 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 02:13:59 [WARNING]  * Debugger is active!
+2025-07-28 02:13:59 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 02:14:13 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello this is a message', 'password': 'mypassword123'}
+2025-07-28 02:14:13 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 02:14:13 [INFO] \U0001f510 Rolled password: o{rcuuyqtf345
+2025-07-28 02:14:13 [INFO] \U0001f510 Cipher preview: kuVZeiMiphdBgmWL40Tocw==:cVAM6UuqN3lPDyg...
+2025-07-28 02:14:17 [INFO] 127.0.0.1 - - [28/Jul/2025 02:14:17] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 02:14:17 [INFO] 127.0.0.1 - - [28/Jul/2025 02:14:17] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 02:15:47 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'kuVZeiMiphdBgmWL40Tocw==:cVAM6UuqN3lPDyg/UxK1wazQ4GgXyijNh1Zk6LkI+qc=', 'password': 'o{rcuuyqtf345'}
+2025-07-28 02:15:47 [INFO] 127.0.0.1 - - [28/Jul/2025 02:15:47] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 11:10:24 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 11:10:24 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 11:10:24 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 11:10:24 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 11:10:24 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 11:10:24 [WARNING]  * Debugger is active!
+2025-07-28 11:10:24 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\app.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\globals.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\templating.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\__init__.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\environment.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_util.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\blueprints.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\sansio\\blueprints.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\typing.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+2025-07-28 11:10:29 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-28 11:10:30 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 11:10:30 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 11:10:30 [WARNING]  * Debugger is active!
+2025-07-28 11:10:30 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 11:10:33 [INFO] 127.0.0.1 - - [28/Jul/2025 11:10:33] "GET / HTTP/1.1" 200 -
+2025-07-28 11:10:33 [INFO] 127.0.0.1 - - [28/Jul/2025 11:10:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 11:20:51 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'this is a message', 'password': '1234'}
+2025-07-28 11:20:51 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 11:20:51 [INFO] \U0001f510 Rolled password: 3456
+2025-07-28 11:20:51 [INFO] \U0001f510 Cipher preview: ziGL0rJRnwcy/T2nNsXR9Q==:89Ur5YPvZjhA6Bf...
+2025-07-28 11:20:51 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-28 11:20:51 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-28 11:20:51 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-28 11:20:51 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-28 11:20:53 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 11:20:53 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 11:20:53 [WARNING]  * Debugger is active!
+2025-07-28 11:20:53 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 11:41:21 [INFO] 127.0.0.1 - - [28/Jul/2025 11:41:21] "GET / HTTP/1.1" 200 -
+2025-07-28 11:49:23 [INFO] 127.0.0.1 - - [28/Jul/2025 11:49:23] "GET / HTTP/1.1" 200 -
+2025-07-28 11:49:24 [INFO] 127.0.0.1 - - [28/Jul/2025 11:49:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 12:15:07 [INFO] 127.0.0.1 - - [28/Jul/2025 12:15:07] "GET / HTTP/1.1" 200 -
+2025-07-28 12:42:30 [INFO] 127.0.0.1 - - [28/Jul/2025 12:42:30] "GET / HTTP/1.1" 200 -
+2025-07-28 12:42:30 [INFO] 127.0.0.1 - - [28/Jul/2025 12:42:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 12:42:54 [ERROR] 127.0.0.1 - - [28/Jul/2025 12:42:54] SSL error occurred: [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:2580)
+2025-07-28 13:01:53 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:01:53 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:01:53 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:01:53 [INFO] \U0001f510 Cipher preview: VvNYypjfCrF/XvgVQQAhMA==:90Iuvw1rHkfgxTD...
+2025-07-28 13:01:53 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-28 13:01:53 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-28 13:01:53 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-28 13:01:53 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-28 13:01:54 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 13:01:55 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:01:55 [WARNING]  * Debugger is active!
+2025-07-28 13:01:55 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 13:02:49 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:02:49 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:02:49 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:02:49 [INFO] \U0001f510 Cipher preview: kXgY3cQJH1mrXeTHs8a3HA==:aEyBGrTDbGEKfyd...
+2025-07-28 13:02:52 [ERROR] \u274c Encryption failed
+Traceback (most recent call last):
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 50, in encrypt_route
+    send_email(email, encrypted, rolled_pwd)
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\email_util.py", line 35, in send_email
+    with smtplib.SMTP_SSL(SMTP_SERVER, SMTP_PORT, context=context) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1382, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-28 13:02:52 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\email_util.py', reloading
+2025-07-28 13:02:52 [INFO] 127.0.0.1 - - [28/Jul/2025 13:02:52] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-07-28 13:02:53 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 13:02:53 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:02:53 [WARNING]  * Debugger is active!
+2025-07-28 13:02:53 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 13:04:14 [INFO] 127.0.0.1 - - [28/Jul/2025 13:04:14] "GET / HTTP/1.1" 200 -
+2025-07-28 13:04:14 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 13:04:14 [INFO] 127.0.0.1 - - [28/Jul/2025 13:04:14] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 13:07:45 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:07:45 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 13:07:45 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 13:07:45 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 13:07:45 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:07:45 [WARNING]  * Debugger is active!
+2025-07-28 13:07:45 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 13:08:52 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:08:52 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 13:08:52 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 13:08:52 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 13:08:53 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:08:53 [WARNING]  * Debugger is active!
+2025-07-28 13:08:53 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 13:09:18 [INFO] 127.0.0.1 - - [28/Jul/2025 13:09:18] "GET / HTTP/1.1" 200 -
+2025-07-28 13:09:32 [INFO] 127.0.0.1 - - [28/Jul/2025 13:09:32] "GET / HTTP/1.1" 200 -
+2025-07-28 13:16:29 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:16:30 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:16:30 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:16:30 [INFO] \U0001f510 Cipher preview: 1yhuZHSSWV4C1vEsQkrRxw==:GyzWHKSVX+Eb1zU...
+2025-07-28 13:16:30 [ERROR] \u274c Encryption failed
+Traceback (most recent call last):
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 50, in encrypt_route
+    send_email(email, encrypted, rolled_pwd)
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\email_util.py", line 35, in send_email
+    with smtplib.SMTP_SSL(SMTP_SERVER, SMTP_PORT, context=context) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1056, in _get_socket
+    new_socket = super()._get_socket(host, port, timeout)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 827, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2025-07-28 13:16:30 [INFO] 127.0.0.1 - - [28/Jul/2025 13:16:30] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-07-28 13:16:31 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:16:31 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:16:31 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:16:31 [INFO] \U0001f510 Cipher preview: 7IOJQ84fR9M9c+7i15NABA==:WfWa85HVf3N2PNC...
+2025-07-28 13:16:31 [ERROR] \u274c Encryption failed
+Traceback (most recent call last):
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 50, in encrypt_route
+    send_email(email, encrypted, rolled_pwd)
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\email_util.py", line 35, in send_email
+    with smtplib.SMTP_SSL(SMTP_SERVER, SMTP_PORT, context=context) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1056, in _get_socket
+    new_socket = super()._get_socket(host, port, timeout)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 827, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2025-07-28 13:16:31 [INFO] 127.0.0.1 - - [28/Jul/2025 13:16:31] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-07-28 13:17:39 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:17:39 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:17:39 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:17:39 [INFO] \U0001f510 Cipher preview: BN1QHa2KAcmI1Sg/In91IA==:UjcWoBmb1UdLQnT...
+2025-07-28 13:17:40 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:17:40 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:17:40 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:17:40 [INFO] \U0001f510 Cipher preview: bgZOQL1M0qPG8HjgM3kTLw==:avjfQ/kWXjO23H6...
+2025-07-28 13:17:43 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'this is a message', 'password': 'mypass123'}
+2025-07-28 13:17:43 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 13:17:43 [INFO] \U0001f510 Rolled password: o{rcuu345
+2025-07-28 13:17:43 [INFO] \U0001f510 Cipher preview: ZMSXINTBKqjve3y4MDRMxA==:w1bYgn1hLi3Esr1...
+2025-07-28 13:17:45 [INFO] 127.0.0.1 - - [28/Jul/2025 13:17:45] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 13:17:45 [INFO] 127.0.0.1 - - [28/Jul/2025 13:17:45] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 13:17:45 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 13:17:45 [INFO] 127.0.0.1 - - [28/Jul/2025 13:17:45] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 13:17:48 [INFO] 127.0.0.1 - - [28/Jul/2025 13:17:48] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 13:17:51 [INFO] 127.0.0.1 - - [28/Jul/2025 13:17:51] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 13:18:59 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'BN1QHa2KAcmI1Sg/In91IA==:UjcWoBmb1UdLQnTa7DWpd4wAPtuHH7CZYzGqd7VQ7zc=', 'password': 'o{rcuu345'}
+2025-07-28 13:18:59 [INFO] 127.0.0.1 - - [28/Jul/2025 13:18:59] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 13:39:32 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:39:32 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 13:39:32 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 13:39:32 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 13:39:33 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 13:39:33 [WARNING]  * Debugger is active!
+2025-07-28 13:39:33 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 13:39:48 [INFO] 127.0.0.1 - - [28/Jul/2025 13:39:48] "GET / HTTP/1.1" 200 -
+2025-07-28 13:39:48 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 13:39:48 [INFO] 127.0.0.1 - - [28/Jul/2025 13:39:48] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 13:39:50 [INFO] 127.0.0.1 - - [28/Jul/2025 13:39:50] "GET / HTTP/1.1" 200 -
+2025-07-28 13:39:50 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 13:39:50 [INFO] 127.0.0.1 - - [28/Jul/2025 13:39:50] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 13:39:57 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hahah', 'password': '124'}
+2025-07-28 13:39:57 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 13:39:57 [INFO] \U0001f510 Rolled password: 346
+2025-07-28 13:39:57 [INFO] \U0001f510 Cipher preview: J6OyOhaVqlK74aCFT3y/iA==:uiEnYZ8TdVFaucE...
+2025-07-28 13:39:58 [ERROR] \u274c Encryption failed
+Traceback (most recent call last):
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\aes_tls_app.py", line 51, in encrypt_route
+    send_email(email, encrypted, rolled_pwd)
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\symm - tls\backend\email_util.py", line 35, in send_email
+    with smtplib.SMTP_SSL(SMTP_SERVER, SMTP_PORT, context=context) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 1056, in _get_socket
+    new_socket = super()._get_socket(host, port, timeout)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 827, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2025-07-28 13:39:58 [INFO] 127.0.0.1 - - [28/Jul/2025 13:39:58] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-07-28 14:36:12 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 14:36:12 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 14:36:12 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 14:36:12 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 14:36:12 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 14:36:12 [WARNING]  * Debugger is active!
+2025-07-28 14:36:12 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 14:37:00 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hahah', 'password': '124'}
+2025-07-28 14:37:00 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 14:37:00 [INFO] \U0001f510 Rolled password: 346
+2025-07-28 14:37:00 [INFO] \U0001f510 Cipher preview: YLD7iji8IrnVo4AIeAu+ag==:kJAiN1QrtogMXc4...
+2025-07-28 14:37:00 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-28 14:37:00 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-28 14:37:00 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-28 14:37:00 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-28 14:37:00 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 14:37:01 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 14:37:01 [WARNING]  * Debugger is active!
+2025-07-28 14:37:01 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 14:38:39 [INFO] 127.0.0.1 - - [28/Jul/2025 14:38:39] "GET / HTTP/1.1" 200 -
+2025-07-28 14:55:43 [INFO] 127.0.0.1 - - [28/Jul/2025 14:55:43] "GET / HTTP/1.1" 200 -
+2025-07-28 14:55:52 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'this is a message', 'password': '123'}
+2025-07-28 14:55:52 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 14:55:52 [INFO] \U0001f510 Rolled password: 345
+2025-07-28 14:55:52 [INFO] \U0001f510 Cipher preview: lCwpM99Rb/nyq2E+NZ28hg==:wSF5+4K7Q38R4RY...
+2025-07-28 14:55:59 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 14:55:59 [INFO] 127.0.0.1 - - [28/Jul/2025 14:55:59] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 14:56:03 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'this is a message', 'password': '123'}
+2025-07-28 14:56:03 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 14:56:03 [INFO] \U0001f510 Rolled password: 345
+2025-07-28 14:56:03 [INFO] \U0001f510 Cipher preview: B2+RCW8Ur15mZ+tU8X99xg==:MKcdY79yPioAMIP...
+2025-07-28 14:56:07 [INFO] 127.0.0.1 - - [28/Jul/2025 14:56:07] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 14:56:07 [INFO] 127.0.0.1 - - [28/Jul/2025 14:56:07] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 14:56:07 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 14:56:07 [INFO] 127.0.0.1 - - [28/Jul/2025 14:56:07] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 14:56:20 [INFO] 127.0.0.1 - - [28/Jul/2025 14:56:20] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 14:56:41 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'B2+RCW8Ur15mZ+tU8X99xg==:MKcdY79yPioAMIPwELXP7j3zBWrU8/bx7AUOiDLylzQ=', 'password': '345'}
+2025-07-28 14:56:41 [INFO] 127.0.0.1 - - [28/Jul/2025 14:56:41] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 14:58:04 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\__init__.py', reloading
+2025-07-28 14:58:04 [INFO]  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\environment.py', reloading
+2025-07-28 14:58:05 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 14:58:05 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 14:58:05 [WARNING]  * Debugger is active!
+2025-07-28 14:58:05 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:03:47 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:03:47 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 15:03:47 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 15:03:47 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:03:47 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:03:47 [WARNING]  * Debugger is active!
+2025-07-28 15:03:47 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:03:55 [INFO] 127.0.0.1 - - [28/Jul/2025 15:03:55] "GET / HTTP/1.1" 200 -
+2025-07-28 15:04:04 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hello', 'password': 'abcd'}
+2025-07-28 15:04:04 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:04:04 [INFO] \U0001f510 Rolled password: cdef
+2025-07-28 15:04:04 [INFO] \U0001f510 Cipher preview: ZDUcjY90ZFt46yTu6sbpBQ==:e/82qaOr5OZ4V0g...
+2025-07-28 15:04:13 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:04:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:04:13] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:04:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:04:13] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:04:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:04:13] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:04:14 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:04:14 [INFO] 127.0.0.1 - - [28/Jul/2025 15:04:14] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:04:38 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'ZDUcjY90ZFt46yTu6sbpBQ==:e/82qaOr5OZ4V0gp8avBCg==', 'password': 'cdef'}
+2025-07-28 15:04:38 [INFO] 127.0.0.1 - - [28/Jul/2025 15:04:38] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 15:11:15 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:11:16 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 15:11:16 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 15:11:16 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:11:16 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:11:16 [WARNING]  * Debugger is active!
+2025-07-28 15:11:16 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:11:26 [INFO] 127.0.0.1 - - [28/Jul/2025 15:11:26] "GET / HTTP/1.1" 200 -
+2025-07-28 15:11:39 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'harshita', 'password': '123'}
+2025-07-28 15:11:39 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:11:39 [INFO] \U0001f510 Rolled password: 345
+2025-07-28 15:11:39 [INFO] \U0001f510 Cipher preview: bBfklDcOFszCvFCA0iCx/g==:nsaXqFm6eaxepJM...
+2025-07-28 15:11:57 [INFO] 127.0.0.1 - - [28/Jul/2025 15:11:57] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:11:57 [INFO] 127.0.0.1 - - [28/Jul/2025 15:11:57] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:12:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:12:13] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:12:26 [INFO] 127.0.0.1 - - [28/Jul/2025 15:12:26] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:12:58 [INFO] 127.0.0.1 - - [28/Jul/2025 15:12:58] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:13:01 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:13:01 [INFO] 127.0.0.1 - - [28/Jul/2025 15:13:01] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:13:18 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-28 15:13:18 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-28 15:13:19 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:13:20 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:13:20 [WARNING]  * Debugger is active!
+2025-07-28 15:13:20 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:13:24 [INFO] 127.0.0.1 - - [28/Jul/2025 15:13:24] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-28 15:13:24 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:13:24 [INFO] 127.0.0.1 - - [28/Jul/2025 15:13:24] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:13:29 [INFO] 127.0.0.1 - - [28/Jul/2025 15:13:29] "GET / HTTP/1.1" 200 -
+2025-07-28 15:13:29 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:13:29 [INFO] 127.0.0.1 - - [28/Jul/2025 15:13:29] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:13:37 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '1'}
+2025-07-28 15:13:37 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:13:37 [INFO] \U0001f510 Rolled password: 3
+2025-07-28 15:13:37 [INFO] \U0001f510 Cipher preview: S9yeNyt45eGrMYRoZfc4Aw==:UroAl0let6zyn9F...
+2025-07-28 15:14:07 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:14:07 [INFO] 127.0.0.1 - - [28/Jul/2025 15:14:07] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:14:11 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '1'}
+2025-07-28 15:14:11 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:14:11 [INFO] \U0001f510 Rolled password: 3
+2025-07-28 15:14:11 [INFO] \U0001f510 Cipher preview: 2GLC4M4DP4+RpMzVNrzS3g==:yW61zPK1rxpq+I9...
+2025-07-28 15:14:19 [INFO] 127.0.0.1 - - [28/Jul/2025 15:14:19] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:14:19 [INFO] 127.0.0.1 - - [28/Jul/2025 15:14:19] "[33mGET /decrypt.html HTTP/1.1[0m" 404 -
+2025-07-28 15:15:09 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-28 15:15:09 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-28 15:15:09 [INFO]  * Detected change in 'c:\\Users\\HP\\Desktop\\RESEARCH PAPER\\WEBUI 2\\symm - tls\\backend\\aes_tls_app.py', reloading
+2025-07-28 15:15:09 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:15:09 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:15:09 [WARNING]  * Debugger is active!
+2025-07-28 15:15:09 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:15:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:15:13] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:15:23 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '1'}
+2025-07-28 15:15:23 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:15:23 [INFO] \U0001f510 Rolled password: 3
+2025-07-28 15:15:23 [INFO] \U0001f510 Cipher preview: mZOVV/D3VNiqucDV3xGPUw==:tJKWmvFOKfS8jLa...
+2025-07-28 15:15:28 [INFO] 127.0.0.1 - - [28/Jul/2025 15:15:28] "GET / HTTP/1.1" 200 -
+2025-07-28 15:15:36 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'helo', 'password': 'hi'}
+2025-07-28 15:15:36 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:15:36 [INFO] \U0001f510 Rolled password: jk
+2025-07-28 15:15:36 [INFO] \U0001f510 Cipher preview: I/rGYqiFhGkD+YmNO68nOQ==:Z8Ab5LLCDPkf3jw...
+2025-07-28 15:15:40 [INFO] 127.0.0.1 - - [28/Jul/2025 15:15:40] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:15:40 [INFO] 127.0.0.1 - - [28/Jul/2025 15:15:40] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:16:36 [INFO] 127.0.0.1 - - [28/Jul/2025 15:16:36] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:20:33 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:20:33 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-28 15:20:33 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 15:20:33 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:20:33 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:20:33 [WARNING]  * Debugger is active!
+2025-07-28 15:20:33 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:20:43 [INFO] 127.0.0.1 - - [28/Jul/2025 15:20:43] "GET / HTTP/1.1" 200 -
+2025-07-28 15:20:52 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '1'}
+2025-07-28 15:20:52 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:20:52 [INFO] \U0001f510 Rolled password: 3
+2025-07-28 15:20:52 [INFO] \U0001f510 Cipher preview: jTjXhqIjnLQZn3575/QCyg==:3nUVWwRp4RLARW7...
+2025-07-28 15:20:57 [INFO] 127.0.0.1 - - [28/Jul/2025 15:20:57] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:20:57 [INFO] 127.0.0.1 - - [28/Jul/2025 15:20:57] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:21:18 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'jTjXhqIjnLQZn3575/QCyg==:3nUVWwRp4RLARW7Vw/Cjrg==', 'password': '3'}
+2025-07-28 15:21:18 [INFO] 127.0.0.1 - - [28/Jul/2025 15:21:18] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 15:25:44 [INFO] 127.0.0.1 - - [28/Jul/2025 15:25:44] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:25:50 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '1'}
+2025-07-28 15:25:50 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:25:50 [INFO] \U0001f510 Rolled password: 3
+2025-07-28 15:25:50 [INFO] \U0001f510 Cipher preview: n1nZQ4KKBv/ha6aYcHgkdg==:sh9srb5F/JKIwh3...
+2025-07-28 15:26:00 [INFO] 127.0.0.1 - - [28/Jul/2025 15:26:00] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:26:00 [INFO] 127.0.0.1 - - [28/Jul/2025 15:26:00] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:37:38 [INFO] 127.0.0.1 - - [28/Jul/2025 15:37:38] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:42:20 [INFO] 127.0.0.1 - - [28/Jul/2025 15:42:20] "GET / HTTP/1.1" 200 -
+2025-07-28 15:46:20 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py', reloading
+2025-07-28 15:46:21 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:46:21 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:46:21 [WARNING]  * Debugger is active!
+2025-07-28 15:46:21 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:47:14 [INFO] 127.0.0.1 - - [28/Jul/2025 15:47:14] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:47:30 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasin5555@gmail.com', 'message': 'hi', 'password': '12'}
+2025-07-28 15:47:30 [INFO] \u2705 Encrypted for hbhasin5555@gmail.com
+2025-07-28 15:47:30 [INFO] \U0001f510 Rolled password: 34
+2025-07-28 15:47:30 [INFO] \U0001f510 Cipher preview: yqBtUXPSSE/C8E+Dc9+VvA==:BDaGBDDFzoontNE...
+2025-07-28 15:47:30 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2025-07-28 15:47:30 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2025-07-28 15:47:30 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2025-07-28 15:47:30 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2025-07-28 15:47:31 [INFO]  * Restarting with watchdog (windowsapi)
+2025-07-28 15:47:31 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2025-07-28 15:47:31 [WARNING]  * Debugger is active!
+2025-07-28 15:47:31 [INFO]  * Debugger PIN: 142-251-606
+2025-07-28 15:47:35 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:47:35 [INFO] 127.0.0.1 - - [28/Jul/2025 15:47:35] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:48:11 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hello', 'password': 'haha'}
+2025-07-28 15:48:11 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 15:48:11 [INFO] \U0001f510 Rolled password: jcjc
+2025-07-28 15:48:11 [INFO] \U0001f510 Cipher preview: 8Fn/YLfzZ97bmXWGqVldrQ==:tfiAqD4lrNrZUqo...
+2025-07-28 15:49:13 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:49:13 [INFO] 127.0.0.1 - - [28/Jul/2025 15:49:13] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:49:17 [INFO] \U0001f4e5 /encrypt received: {'email': 'epitomearchangel84@gmail.com', 'message': 'hello', 'password': 'haha'}
+2025-07-28 15:49:17 [INFO] \u2705 Encrypted for epitomearchangel84@gmail.com
+2025-07-28 15:49:17 [INFO] \U0001f510 Rolled password: jcjc
+2025-07-28 15:49:17 [INFO] \U0001f510 Cipher preview: pTKdcRbD3RVoIQ6y7GGQfg==:3SzStYsAE5aYuZ2...
+2025-07-28 15:49:23 [INFO] 127.0.0.1 - - [28/Jul/2025 15:49:23] "POST /encrypt HTTP/1.1" 200 -
+2025-07-28 15:49:23 [INFO] 127.0.0.1 - - [28/Jul/2025 15:49:23] "GET /decrypt.html HTTP/1.1" 200 -
+2025-07-28 15:49:23 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2025-07-28 15:49:23 [INFO] 127.0.0.1 - - [28/Jul/2025 15:49:23] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -
+2025-07-28 15:50:00 [INFO] \U0001f4e5 /decrypt received: {'ciphertext': 'pTKdcRbD3RVoIQ6y7GGQfg==:3SzStYsAE5aYuZ2S+UXxCQ==', 'password': 'jcjc'}
+2025-07-28 15:50:00 [INFO] 127.0.0.1 - - [28/Jul/2025 15:50:00] "POST /decrypt HTTP/1.1" 200 -
+2025-07-28 15:50:24 [INFO] 127.0.0.1 - - [28/Jul/2025 15:50:24] "POST /encrypt HTTP/1.1" 200 -
+2026-01-02 20:53:21 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2026-01-02 20:53:21 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2026-01-02 20:53:21 [INFO] [33mPress CTRL+C to quit[0m
+2026-01-02 20:53:21 [INFO]  * Restarting with watchdog (windowsapi)
+2026-01-02 20:53:22 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2026-01-02 20:53:22 [WARNING]  * Debugger is active!
+2026-01-02 20:53:22 [INFO]  * Debugger PIN: 117-549-152
+2026-01-02 20:54:08 [INFO] 127.0.0.1 - - [02/Jan/2026 20:54:08] "GET / HTTP/1.1" 200 -
+2026-01-02 20:54:09 [INFO] 127.0.0.1 - - [02/Jan/2026 20:54:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-02 20:54:24 [INFO] \U0001f4e5 /encrypt received: {'email': 'hbhasinn5555@gmail.com', 'message': 'hellp', 'password': 'abcd'}
+2026-01-02 20:54:24 [INFO] \u2705 Encrypted for hbhasinn5555@gmail.com
+2026-01-02 20:54:24 [INFO] \U0001f510 Rolled password: cdef
+2026-01-02 20:54:24 [INFO] \U0001f510 Cipher preview: e4ZvqmFrua+lnFN9omxfhQ==:EcEXAG1q2oDWdfR...
+2026-01-02 20:54:24 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py', reloading
+2026-01-02 20:54:24 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py', reloading
+2026-01-02 20:54:24 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py', reloading
+2026-01-02 20:54:24 [INFO]  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py', reloading
+2026-01-02 20:54:25 [INFO]  * Restarting with watchdog (windowsapi)
+2026-01-02 20:54:25 [INFO] \U0001f680 Running Flask over HTTPS at https://127.0.0.1:5000
+2026-01-02 20:54:25 [WARNING]  * Debugger is active!
+2026-01-02 20:54:25 [INFO]  * Debugger PIN: 117-549-152
+2026-01-02 20:54:31 [INFO] \U0001f50d Ignoring Chrome DevTools probe: /.well-known/appspecific/com.chrome.devtools.json
+2026-01-02 20:54:31 [INFO] 127.0.0.1 - - [02/Jan/2026 20:54:31] "[35m[1mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 204 -

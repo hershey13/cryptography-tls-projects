@@ -1,0 +1,700 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 00:53:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 00:53:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 01:54:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 01:54:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 01:54:34] "[33mGET /public-key HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 01:54:52] "[33mGET /public-key HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2025 01:55:00] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+2025-07-15 11:47:00,138 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 11:47:00,138 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 11:47:36,928 [INFO] 127.0.0.1 - - [15/Jul/2025 11:47:36] "GET / HTTP/1.1" 200 -
+2025-07-15 11:47:37,959 [INFO] 127.0.0.1 - - [15/Jul/2025 11:47:37] "GET / HTTP/1.1" 200 -
+2025-07-15 11:47:39,068 [INFO] 127.0.0.1 - - [15/Jul/2025 11:47:39] "GET / HTTP/1.1" 200 -
+2025-07-15 11:47:40,327 [INFO] 127.0.0.1 - - [15/Jul/2025 11:47:40] "GET / HTTP/1.1" 200 -
+2025-07-15 11:47:42,853 [INFO] 127.0.0.1 - - [15/Jul/2025 11:47:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 11:48:28,649 [INFO] 127.0.0.1 - - [15/Jul/2025 11:48:28] "[33mGET /public-key HTTP/1.1[0m" 404 -
+2025-07-15 11:48:37,558 [INFO] 127.0.0.1 - - [15/Jul/2025 11:48:37] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 11:57:04,632 [INFO] 127.0.0.1 - - [15/Jul/2025 11:57:04] "GET / HTTP/1.1" 200 -
+2025-07-15 11:57:05,472 [INFO] 127.0.0.1 - - [15/Jul/2025 11:57:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 12:41:29,575 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.150.179:5000
+2025-07-15 12:41:29,576 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 12:41:38,838 [INFO] 127.0.0.1 - - [15/Jul/2025 12:41:38] "GET / HTTP/1.1" 200 -
+2025-07-15 12:41:48,255 [INFO] 127.0.0.1 - - [15/Jul/2025 12:41:48] "[33mGET /public-key HTTP/1.1[0m" 404 -
+2025-07-15 14:53:58,333 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://192.168.150.179:443
+2025-07-15 14:53:58,333 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 14:56:37,262 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://192.168.150.179:443
+2025-07-15 14:56:37,262 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 14:57:31,243 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 14:57:31,243 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 14:57:38,024 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 14:57:38,024 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 14:57:50,950 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 14:57:50,962 [INFO] 127.0.0.1 - - [15/Jul/2025 14:57:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 14:58:47,008 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2025-07-15 14:58:47,008 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 14:58:57,049 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 14:58:57,058 [INFO] 127.0.0.1 - - [15/Jul/2025 14:58:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:00:24,689 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:00:24,693 [INFO] 127.0.0.1 - - [15/Jul/2025 15:00:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:08:23,146 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 15:08:23,146 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 15:08:32,758 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:08:32,758 [INFO] 127.0.0.1 - - [15/Jul/2025 15:08:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:08:32,833 [INFO] 127.0.0.1 - - [15/Jul/2025 15:08:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 15:10:15,923 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:10:15,927 [INFO] 127.0.0.1 - - [15/Jul/2025 15:10:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:10:17,821 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:10:17,823 [INFO] 127.0.0.1 - - [15/Jul/2025 15:10:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:10:22,845 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:10:22,846 [INFO] 127.0.0.1 - - [15/Jul/2025 15:10:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:11:27,660 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 15:11:27,660 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 15:11:41,683 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:11:41,688 [INFO] 127.0.0.1 - - [15/Jul/2025 15:11:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:12:58,478 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:12:58,479 [INFO] 127.0.0.1 - - [15/Jul/2025 15:12:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 15:14:59,580 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 15:14:59,582 [INFO] 127.0.0.1 - - [15/Jul/2025 15:14:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 18:35:50,058 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 18:35:50,058 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:35:59,718 [ERROR] Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\RESEARCH PAPER\WEBUI 2\asymm - tls\backend\app.py", line 26, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2025-07-15 18:35:59,733 [INFO] 127.0.0.1 - - [15/Jul/2025 18:35:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-15 18:37:38,821 [INFO] 127.0.0.1 - - [15/Jul/2025 18:37:38] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:38:27,427 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 18:38:27,427 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:38:33,441 [INFO] 127.0.0.1 - - [15/Jul/2025 18:38:33] "GET / HTTP/1.1" 200 -
+2025-07-15 18:38:44,244 [INFO] 127.0.0.1 - - [15/Jul/2025 18:38:44] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:38:55,265 [INFO] 127.0.0.1 - - [15/Jul/2025 18:38:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:40:06,556 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:06] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:40:09,768 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:09] "GET / HTTP/1.1" 200 -
+2025-07-15 18:40:09,839 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:09] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:40:12,312 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:12] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:40:12,323 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:12] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:40:17,406 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:17] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:40:34,797 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:34] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:40:45,290 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 18:40:45,290 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:40:53,075 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:53] "GET / HTTP/1.1" 200 -
+2025-07-15 18:40:53,180 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:53] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:40:59,440 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:59] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:40:59,463 [INFO] \U0001f4e5 Encrypted message received: R8nU0kbqUwDJnRpzvzHSwU+8qslP60yedZenWxqodSz0kicYezZ7qXJzWi1cVPRs79Wk1kfKfYGsCep+Mcg7TUzVjhypMjUDtjq1o8/ElIrJ360c16F0ogeYzvzXisNCGIRjDMyofGC+IzALxZbZUGxAaj9lTkR6xu7msTunpgU0iv8c5Vlq+aAxsuPunhkXXyY+r0bUi5mQmHFkuRnXzBPNqK7TRLISIRPv7DrSAPS6oN9z+c5VVtruKoQ0xF3Ta3gSwvaiw/FSP4GNmg/7ZBQJWBolf78DCScrSDSGjGPmBsV+U30CM9KsUHOyPoIfhU+61TcS+mmWeKpyEA3jLg==
+2025-07-15 18:40:59,463 [INFO] 127.0.0.1 - - [15/Jul/2025 18:40:59] "POST /submit HTTP/1.1" 200 -
+2025-07-15 18:42:29,688 [INFO] 127.0.0.1 - - [15/Jul/2025 18:42:29] "GET / HTTP/1.1" 200 -
+2025-07-15 18:42:29,758 [INFO] 127.0.0.1 - - [15/Jul/2025 18:42:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 18:42:34,767 [INFO] 127.0.0.1 - - [15/Jul/2025 18:42:34] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:42:34,787 [INFO] \U0001f4e5 Encrypted message received: W9cpaS3K0IYIQn7hF0uY7x7lYWtkORJrzRDyALvWhsJDbkE5USryLU+uxcnA/Igvvy+ktsAF/QuA+oiyFgwyoMJ2inK3pVQ1e6jPdTXc2iA9oCjBa7ZTt3JIPV+slSwEs7bHtHHe5Ab4spwd8uoI/7BZJmQPwd4rZv0jZVivwFa/SOZQbtQNAqAnYbOtBsrUTozgnlL6xagFplt9l4Au7+Z2i62wSQGJE4QzQWG/34mv78BgXyo8pPuvZrNza/8obPdyhwdyuj9IrknqZZlGZsgEqpatQ+yhWCnHkMi4boCXA+mi5akjnuiSJO/ELScBB63wwBfS6bedZZb7z9cQ5w==
+2025-07-15 18:42:34,787 [INFO] 127.0.0.1 - - [15/Jul/2025 18:42:34] "POST /submit HTTP/1.1" 200 -
+2025-07-15 18:43:19,871 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 18:43:19,871 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 18:43:45,669 [INFO] 127.0.0.1 - - [15/Jul/2025 18:43:45] "GET / HTTP/1.1" 200 -
+2025-07-15 18:43:57,593 [INFO] 127.0.0.1 - - [15/Jul/2025 18:43:57] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 18:43:57,620 [INFO] \U0001f4e5 Encrypted message received: R7b//CueXMLO068SgUKOs16kBx4y3AirB9aBVbdFz0pMJVy6xVykPGrOiS/YWTzD5u0RgO3sfmeyiGCEux1n4/IfOyCOklG6yG/SODF75JS64ITctH0u4BrLIBZ1xHByQ71kXHvuTWbrPqukYolzyVw+BkdJ9DsxFVnicO61DNK1VBr4VbFulSI4Ieon/ICb1UF5EnC3Ul48rId4JfW5oKcqD73vAuTMuEPerE09THiOpRaadI0QG3OQMovp2M/fT9q3i/tP+IY+r0pFpEFwKxeDSpk6zTGt8hdG+eMSX5knRRenTGGoznxpHCjhMXSyXVXBiUR/RRuoRnZMNM5F0w==
+2025-07-15 18:43:57,620 [INFO] 127.0.0.1 - - [15/Jul/2025 18:43:57] "POST /submit HTTP/1.1" 200 -
+2025-07-15 18:43:57,688 [INFO] 127.0.0.1 - - [15/Jul/2025 18:43:57] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 18:44:17,119 [INFO] \U0001f513 Message decrypted: im having a great time
+2025-07-15 18:44:17,119 [INFO] 127.0.0.1 - - [15/Jul/2025 18:44:17] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 18:44:34,586 [ERROR] \u274c Decryption error: Ciphertext with incorrect length.
+2025-07-15 18:44:34,586 [INFO] 127.0.0.1 - - [15/Jul/2025 18:44:34] "[31m[1mPOST /decrypt-message HTTP/1.1[0m" 400 -
+2025-07-15 18:44:38,902 [ERROR] \u274c Decryption error: Ciphertext with incorrect length.
+2025-07-15 18:44:38,902 [INFO] 127.0.0.1 - - [15/Jul/2025 18:44:38] "[31m[1mPOST /decrypt-message HTTP/1.1[0m" 400 -
+2025-07-15 18:44:39,919 [ERROR] \u274c Decryption error: Ciphertext with incorrect length.
+2025-07-15 18:44:39,919 [INFO] 127.0.0.1 - - [15/Jul/2025 18:44:39] "[31m[1mPOST /decrypt-message HTTP/1.1[0m" 400 -
+2025-07-15 22:49:48,017 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 22:49:48,017 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 22:49:58,142 [INFO] 127.0.0.1 - - [15/Jul/2025 22:49:58] "GET / HTTP/1.1" 200 -
+2025-07-15 22:50:08,929 [INFO] 127.0.0.1 - - [15/Jul/2025 22:50:08] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 22:50:08,953 [INFO] \U0001f4e5 Encrypted message received: T8xbjWYpuwlBjEyVn1a0apIOOydRcFFIfX8oT+lUPvrSGxrLKg0yIL1R6Kq9dcP6GTWLydYYjSh0RH31/QZEPJ3baOSOOjUOKV4KhsgmGA4dft1IaPgDwSIQ35DzZhCE4tdRObJRPuN16cK79zi+afHTPZ/QjxlXZMxCx+Z0sAQhiQ6nTXw6ce66uYUigA+SsTEPzpdADS6nyQ5ickSL+X47EkUcJDjZ0mOP2eltkMB5aG5FqthhBY1018i0QjY+o0zakRUbs8f5bdUEoCru5fGUMEQuMaU0TF89mDk33Y1TgOqK5FkB3lLAUd+STL7l6MihrCv8JiKGZ6rJClCmWg==
+2025-07-15 22:50:08,953 [INFO] 127.0.0.1 - - [15/Jul/2025 22:50:08] "POST /submit HTTP/1.1" 200 -
+2025-07-15 22:50:09,009 [INFO] 127.0.0.1 - - [15/Jul/2025 22:50:09] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 22:51:13,925 [INFO] \U0001f513 Message decrypted: hello
+2025-07-15 22:51:13,925 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:13] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 22:51:21,660 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:21] "GET / HTTP/1.1" 200 -
+2025-07-15 22:51:25,762 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:25] "GET / HTTP/1.1" 200 -
+2025-07-15 22:51:34,895 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:34] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 22:51:34,910 [INFO] \U0001f4e5 Encrypted message received: SheVwWNkcicNW7g4B0UEku46cT7DXXcRDQR6R89pChEwFXva4D8q3qNMTAbhvrrqktMcdvqSZG1MRpa47ixo0O3dCDSd/8BVDVeFtLB8BU246q1SdmFrUwEA/1muXlJJbDQbuVq0AesH8JJ8g9FXnYQBwHyDk2I80ACJ9b2NcjqzoTvFhyLY8xYSYvjTxIIFs8pWDrYVvEvPf9eaci47HHqtoxwfjLdV1AHp29y8ogBjvHFaH0ZIYFiUrIQNjGUvsl4+XPBZ5taPYsEBY4FQjoSDEFKNUiSp1GBY93gVz2TkEwWec76tjdGdw3E/+uOEyrQhMEQBPZpQtHHevLSwXA==
+2025-07-15 22:51:34,914 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:34] "POST /submit HTTP/1.1" 200 -
+2025-07-15 22:51:34,955 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:34] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 22:51:48,972 [INFO] \U0001f513 Message decrypted: good day
+2025-07-15 22:51:48,972 [INFO] 127.0.0.1 - - [15/Jul/2025 22:51:48] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 22:52:08,492 [INFO] 127.0.0.1 - - [15/Jul/2025 22:52:08] "GET / HTTP/1.1" 200 -
+2025-07-15 22:54:13,558 [INFO] 127.0.0.1 - - [15/Jul/2025 22:54:13] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 22:54:13,579 [INFO] \U0001f4e5 Encrypted message received: lapXf9LQAwm1hAcMnX/AYXcF9yGjShi8g5bJ0mPKxMSE3NeUxYg5SXLwcw79OIPQSnU0aMtGQt6V85UJMxX2APPAwAA92CZsN9cv0mW/vINlOsEeLDJ3Zdg+t3w+kMm6hfh9ntxhmfozjwp+Pa24r2k1GETHZ36pG6ZOcr6+Bt8IEWmQaSSoJbNhlB6gWRyeNVn9quJc8oea8siQe6j+nE3MUy+/ihLumspYlQga8XQfIhFV4lfX3l2OllV/faclms7V/tLav31qF9qWW/lWItYQ1uCRyDcGj+unUa2NzUkGOgpOba5f+Oa1XA5CFSLpqOD2tRG/1E93FFFaHcyvrw==
+2025-07-15 22:54:13,579 [INFO] 127.0.0.1 - - [15/Jul/2025 22:54:13] "POST /submit HTTP/1.1" 200 -
+2025-07-15 22:54:13,630 [INFO] 127.0.0.1 - - [15/Jul/2025 22:54:13] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 22:54:24,139 [INFO] \U0001f513 Message decrypted: haha
+2025-07-15 22:54:24,139 [INFO] 127.0.0.1 - - [15/Jul/2025 22:54:24] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 22:57:16,272 [INFO] 127.0.0.1 - - [15/Jul/2025 22:57:16] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 22:57:36,570 [INFO] \U0001f513 Message decrypted: haha
+2025-07-15 22:57:36,570 [INFO] 127.0.0.1 - - [15/Jul/2025 22:57:36] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 22:59:43,588 [INFO] 127.0.0.1 - - [15/Jul/2025 22:59:43] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:11:55,622 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 23:11:55,622 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 23:12:02,593 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:02] "GET / HTTP/1.1" 200 -
+2025-07-15 23:12:12,427 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:12] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:12:12,444 [INFO] \U0001f4e5 Encrypted message received for hbhasin5555@gmail.com
+2025-07-15 23:12:17,110 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:12:18,401 [INFO] \U0001f4e4 Encrypted message emailed to hbhasin5555@gmail.com
+2025-07-15 23:12:18,402 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:18] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:12:18,439 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:18] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:12:18,495 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:18] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:12:32,971 [INFO] \U0001f513 Message decrypted: hello this is a test
+2025-07-15 23:12:32,971 [INFO] 127.0.0.1 - - [15/Jul/2025 23:12:32] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:15:02,201 [INFO] \U0001f513 Message decrypted: hello this is a test
+2025-07-15 23:15:02,201 [INFO] 127.0.0.1 - - [15/Jul/2025 23:15:02] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:15:04,288 [INFO] 127.0.0.1 - - [15/Jul/2025 23:15:04] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:15:04,340 [INFO] 127.0.0.1 - - [15/Jul/2025 23:15:04] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:18:22,981 [INFO] 127.0.0.1 - - [15/Jul/2025 23:18:22] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:18:36,217 [INFO] 127.0.0.1 - - [15/Jul/2025 23:18:36] "GET / HTTP/1.1" 200 -
+2025-07-15 23:18:47,987 [INFO] 127.0.0.1 - - [15/Jul/2025 23:18:47] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:18:48,007 [INFO] \U0001f4e5 Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:19:07,601 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:07] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:19:07,617 [INFO] \U0001f4e5 Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:19:10,218 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:10] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:19:37,212 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:37] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:19:37,228 [INFO] \U0001f4e5 Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:19:40,636 [INFO] \U0001f4e4 Encrypted message emailed to epitomearchangel84@gmail.com
+2025-07-15 23:19:40,636 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:40] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:19:40,679 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:40] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:19:40,712 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:40] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:19:43,398 [INFO] \U0001f4e4 Encrypted message emailed to epitomearchangel84@gmail.com
+2025-07-15 23:19:43,398 [INFO] 127.0.0.1 - - [15/Jul/2025 23:19:43] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:20:12,613 [INFO] \U0001f513 Message decrypted: hi my name is harshita
+2025-07-15 23:20:12,613 [INFO] 127.0.0.1 - - [15/Jul/2025 23:20:12] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:20:44,329 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-15 23:20:44,329 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-15 23:20:51,069 [INFO] 127.0.0.1 - - [15/Jul/2025 23:20:51] "GET / HTTP/1.1" 200 -
+2025-07-15 23:21:10,712 [INFO] 127.0.0.1 - - [15/Jul/2025 23:21:10] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:21:10,729 [INFO]  Encrypted message received for hbhasin5555@gmail.com
+2025-07-15 23:21:14,529 [INFO]  Encrypted message emailed to hbhasin5555@gmail.com
+2025-07-15 23:21:14,529 [INFO] 127.0.0.1 - - [15/Jul/2025 23:21:14] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:21:14,567 [INFO] 127.0.0.1 - - [15/Jul/2025 23:21:14] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:21:29,345 [INFO] Message decrypted: yesterday, today
+2025-07-15 23:21:29,345 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:21:29,345 [INFO] 127.0.0.1 - - [15/Jul/2025 23:21:29] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:22:27,845 [INFO] 127.0.0.1 - - [15/Jul/2025 23:22:27] "GET / HTTP/1.1" 200 -
+2025-07-15 23:22:36,354 [INFO] 127.0.0.1 - - [15/Jul/2025 23:22:36] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:22:36,374 [INFO]  Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:22:59,243 [INFO] Message decrypted: 1234 567
+2025-07-15 23:22:59,243 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:22:59,243 [INFO] 127.0.0.1 - - [15/Jul/2025 23:22:59] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:23:40,016 [INFO] 127.0.0.1 - - [15/Jul/2025 23:23:40] "GET / HTTP/1.1" 200 -
+2025-07-15 23:23:45,194 [INFO]  Encrypted message emailed to epitomearchangel84@gmail.com
+2025-07-15 23:23:45,194 [INFO] 127.0.0.1 - - [15/Jul/2025 23:23:45] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:23:45,230 [INFO] 127.0.0.1 - - [15/Jul/2025 23:23:45] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:23:50,005 [INFO] 127.0.0.1 - - [15/Jul/2025 23:23:50] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:23:50,021 [INFO]  Encrypted message received for pam.work1989@gmail.com
+2025-07-15 23:24:01,776 [INFO]  Encrypted message emailed to pam.work1989@gmail.com
+2025-07-15 23:24:01,776 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:01] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:24:01,797 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:01] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:24:25,447 [INFO] Message decrypted: qwertyuiop
+2025-07-15 23:24:25,447 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:24:25,447 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:25] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:24:39,075 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:39] "GET / HTTP/1.1" 200 -
+2025-07-15 23:24:46,307 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:46] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:24:46,324 [INFO]  Encrypted message received for pam.work1989@gmail.com
+2025-07-15 23:24:49,759 [INFO]  Encrypted message emailed to pam.work1989@gmail.com
+2025-07-15 23:24:49,759 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:49] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:24:49,784 [INFO] 127.0.0.1 - - [15/Jul/2025 23:24:49] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:25:00,742 [INFO] Message decrypted: hahahah 13456
+2025-07-15 23:25:00,742 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:25:00,742 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:00] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:25:26,932 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:26] "GET / HTTP/1.1" 200 -
+2025-07-15 23:25:37,122 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:37] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:25:37,140 [INFO]  Encrypted message received for pam.work1989@gmail.com
+2025-07-15 23:25:47,507 [INFO]  Encrypted message emailed to pam.work1989@gmail.com
+2025-07-15 23:25:47,507 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:47] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:25:47,530 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:47] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:25:52,741 [INFO] Message decrypted: qwdsag hjsydu 134$
+2025-07-15 23:25:52,741 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:25:52,741 [INFO] 127.0.0.1 - - [15/Jul/2025 23:25:52] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:29:30,989 [INFO] 127.0.0.1 - - [15/Jul/2025 23:29:30] "GET / HTTP/1.1" 200 -
+2025-07-15 23:29:40,491 [INFO] 127.0.0.1 - - [15/Jul/2025 23:29:40] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:29:40,520 [INFO]  Encrypted message received for hbhasin5555@gmail.com
+2025-07-15 23:30:21,025 [INFO] 127.0.0.1 - - [15/Jul/2025 23:30:21] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:30:24,572 [INFO] 127.0.0.1 - - [15/Jul/2025 23:30:24] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:30:24,598 [INFO]  Encrypted message received for hbhasin5555@gmail.com
+2025-07-15 23:30:43,053 [INFO] 127.0.0.1 - - [15/Jul/2025 23:30:43] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:30:43,113 [INFO] 127.0.0.1 - - [15/Jul/2025 23:30:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:30:54,264 [INFO] Message decrypted: aaaaaaaaaaaah yee12
+2025-07-15 23:30:54,264 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:30:54,265 [INFO] 127.0.0.1 - - [15/Jul/2025 23:30:54] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-15 23:31:11,673 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:11] "GET / HTTP/1.1" 200 -
+2025-07-15 23:31:18,860 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:18] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:31:18,879 [INFO]  Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:31:26,321 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:26] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-15 23:31:26,336 [INFO]  Encrypted message received for epitomearchangel84@gmail.com
+2025-07-15 23:31:30,235 [INFO]  Encrypted message emailed to epitomearchangel84@gmail.com
+2025-07-15 23:31:30,235 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:30] "POST /submit HTTP/1.1" 200 -
+2025-07-15 23:31:30,307 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:30] "GET /decrypt HTTP/1.1" 200 -
+2025-07-15 23:31:30,775 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:30] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-15 23:31:44,435 [INFO] Message decrypted: 123 qwera
+2025-07-15 23:31:44,435 [INFO] --------------------------------------------------------------------------------
+2025-07-15 23:31:44,435 [INFO] 127.0.0.1 - - [15/Jul/2025 23:31:44] "POST /decrypt-message HTTP/1.1" 200 -
+2025-07-28 02:23:28,312 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5443
+2025-07-28 02:23:28,312 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-28 02:23:39,941 [INFO] 127.0.0.1 - - [28/Jul/2025 02:23:39] "GET / HTTP/1.1" 200 -
+2025-07-28 02:23:41,990 [INFO] 127.0.0.1 - - [28/Jul/2025 02:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-28 02:24:18,088 [INFO] 127.0.0.1 - - [28/Jul/2025 02:24:18] "GET /get-public-key HTTP/1.1" 200 -
+2025-07-28 02:24:18,106 [INFO]  Encrypted message received for hbhasin5555@gmail.com
+2025-07-28 02:24:22,692 [INFO]  Encrypted message emailed to hbhasin5555@gmail.com
+2025-07-28 02:24:22,694 [INFO] 127.0.0.1 - - [28/Jul/2025 02:24:22] "POST /submit HTTP/1.1" 200 -
+2025-07-28 02:24:22,733 [INFO] 127.0.0.1 - - [28/Jul/2025 02:24:22] "GET /decrypt HTTP/1.1" 200 -
+2025-07-28 02:24:48,677 [INFO] Message decrypted: this is an encrypted message
+2025-07-28 02:24:48,677 [INFO] 127.0.0.1 - - [28/Jul/2025 02:24:48] "POST /decrypt-message HTTP/1.1" 200 -

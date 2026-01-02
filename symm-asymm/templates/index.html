@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hybrid Crypto - Input</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .floating-label input:focus + label,
+    .floating-label input:not(:placeholder-shown) + label,
+    .floating-label textarea:focus + label,
+    .floating-label textarea:not(:placeholder-shown) + label {
+      transform: translateY(-1.5rem) scale(0.9);
+      color: #2563eb;
+    }
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+    }
+    .clear-icon:hover {
+      color: #e11d48;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4">
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8 relative">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6">Send Encrypted Message</h1>
+    <form id="cryptoForm" class="space-y-6">
+
+      <!-- Email -->
+      <div class="floating-label relative">
+        <input type="email" id="email" placeholder=" " required
+               class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+        <label for="email"
+               class="absolute left-2 top-2 text-gray-500 transition-all">
+          Email Address
+        </label>
+        <span class="clear-icon" onclick="clearField('email')">&#10005;</span>
+      </div>
+
+      <!-- Message -->
+      <div class="floating-label relative">
+        <textarea id="message" rows="4" placeholder=" " required
+                  class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent resize-none"></textarea>
+        <label for="message"
+               class="absolute left-2 top-2 text-gray-500 transition-all">
+          Message to Encrypt
+        </label>
+        <span class="clear-icon" onclick="clearField('message')">&#10005;</span>
+      </div>
+
+      <!-- Password -->
+      <div class="floating-label relative">
+        <input type="password" id="password" placeholder=" " required
+               class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent" />
+        <label for="password"
+               class="absolute left-2 top-2 text-gray-500 transition-all">
+          Message Password
+        </label>
+        <span class="clear-icon" onclick="clearField('password')">&#10005;</span>
+      </div>
+
+      <!-- Buttons -->
+      <div class="flex justify-between gap-4 pt-4">
+        <button type="submit"
+                class="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 rounded-xl transition">
+          Submit
+        </button>
+        <button type="button" onclick="clearAllFields()"
+                class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 font-medium py-2 rounded-xl transition">
+          Clear All
+        </button>
+      </div>
+    </form>
+  </div>
+
+  <script>
+    function clearField(id) {
+      document.getElementById(id).value = "";
+      document.getElementById(id).focus();
+    }
+
+    function clearAllFields() {
+      ["email", "message", "password"].forEach(clearField);
+    }
+
+    document.getElementById("cryptoForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+
+      const email = document.getElementById("email").value.trim();
+      const message = document.getElementById("message").value.trim();
+      const password = document.getElementById("password").value.trim();
+
+      try {
+        const res = await fetch("http://localhost:5050/send-otp", {
+
+
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email, message, password })
+        });
+
+        const data = await res.json();
+        if (res.ok) {
+          alert("✅ OTP sent to your email. Redirecting to verify...");
+          sessionStorage.setItem("userEmail", email);
+          sessionStorage.setItem("userPassword", password);
+          sessionStorage.setItem("encryptedMessage", data.encrypted_message);
+          sessionStorage.setItem("encryptedKey", data.encrypted_key);
+          sessionStorage.setItem("iv", data.iv);
+          sessionStorage.setItem("privateKey", data.private_key);
+          window.location.href = "pg2.html";
+        } else {
+          alert("❌ Error: " + data.message);
+        }
+      } catch (err) {
+        alert("❌ Network error: " + err.message);
+      }
+    });
+  </script>
+</body>
+</html>

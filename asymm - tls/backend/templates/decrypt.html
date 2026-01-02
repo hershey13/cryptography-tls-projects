@@ -1,0 +1,143 @@
+<!-- 📄 decrypt.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Decrypt Message</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+    .floating-label input:focus + label,
+    .floating-label input:not(:placeholder-shown) + label,
+    .floating-label textarea:focus + label,
+    .floating-label textarea:not(:placeholder-shown) + label {
+      transform: translateY(-1.5rem) scale(0.9);
+      color: #2563eb;
+    }
+    .clear-icon {
+      position: absolute;
+      right: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #999;
+      z-index: 10;
+      transition: color 0.2s;
+    }
+    .clear-icon:hover { color: #e11d48; }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center p-4">
+  <div class="w-full max-w-lg bg-white rounded-2xl shadow-xl p-8">
+    <h1 class="text-3xl font-semibold text-center text-indigo-700 mb-6"> Decrypt Message</h1>
+    <form id="decryptForm" class="space-y-6">
+      
+      <!-- Encrypted Message -->
+      <div class="floating-label relative">
+        <textarea id="encrypted" rows="4" placeholder=" " required
+                  class="peer w-full pr-10 border-b-2 border-gray-300 focus:outline-none focus:border-indigo-500 px-2 pt-4 pb-2 bg-transparent resize-none"></textarea>
+        <label for="encrypted"
+               class="absolute left-2 top-2 text-gray-500 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-focus:top-2 peer-focus:text-sm">
+          Encrypted Message (Base64)
+        </label>
+        <span class="clear-icon" onclick="clearField('encrypted')">&#10005;</span>
+      </div>
+
+      <!-- Buttons -->
+      <div class="flex justify-between gap-4 pt-4">
+        <button type="submit"
+                class="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 rounded-xl transition">
+          Decrypt
+        </button>
+        <button type="button" onclick="clearAllFields()"
+                class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 font-medium py-2 rounded-xl transition">
+          Clear All
+        </button>
+      </div>
+    </form>
+
+    <!-- Decrypted Message Output (Hidden by default) -->
+   <div id="decryptedContainer" class="hidden mt-6">
+  <div class="floating-label relative">
+    <textarea id="decryptedMessage" rows="4" readonly
+              class="peer w-full border-b-2 border-gray-300 bg-gray-100 px-2 pt-4 pb-2 resize-none focus:outline-none"></textarea>
+    <label for="decryptedMessage"
+           class="absolute left-2 top-2 text-gray-600 transition-all peer-placeholder-shown:top-4 peer-placeholder-shown:text-base peer-focus:top-2 peer-focus:text-sm">
+      Decrypted Message
+    </label>
+  </div>
+</div>
+
+
+    <div id="result" class="mt-4 text-sm text-gray-800 break-words"></div>
+  </div>
+
+<script>
+  function clearField(id) {
+    document.getElementById(id).value = "";
+    document.getElementById(id).focus();
+  }
+
+  function clearAllFields() {
+    ['encrypted', 'decryptedMessage'].forEach(clearField);
+    document.getElementById("result").textContent = "";
+    document.getElementById("decryptedContainer").classList.add("hidden");
+  }
+
+  document.getElementById("decryptForm").addEventListener("submit", async function (e) {
+    e.preventDefault();
+
+    const encrypted = document.getElementById("encrypted").value.trim();
+    const resultDiv = document.getElementById("result");
+    const decryptedBox = document.getElementById("decryptedMessage");
+    const container = document.getElementById("decryptedContainer");
+
+    if (!encrypted) {
+      alert("Please enter an encrypted message.");
+      return;
+    }
+
+    try {
+      const res = await fetch("/decrypt-message", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ encrypted_message: encrypted })
+      });
+
+      const data = await res.json();
+
+      if (res.ok) {
+        decryptedBox.textContent = data.decrypted;
+        container.classList.remove("hidden");
+        resultDiv.textContent = "Successfully decrypted.";
+      } else {
+        container.classList.add("hidden");
+        decryptedBox.textContent = "";
+        resultDiv.textContent = "Error: " + data.error;
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      alert("Server error.");
+    }
+  });
+
+  const autoEncrypted = "{{ encrypted_msg }}";
+  const autoPassword = "{{ password }}";
+
+  // Autofill encrypted field
+  document.getElementById("encrypted").value = autoEncrypted;
+
+  // For visibility (light colored hidden info at top-left)
+  const hiddenDiv = document.createElement("div");
+  hiddenDiv.style.position = "absolute";
+  hiddenDiv.style.top = "0";
+  hiddenDiv.style.left = "0";
+  hiddenDiv.style.color = "#e0e7ff"; // matches Tailwind bg-indigo-100
+  hiddenDiv.style.fontSize = "10px";
+  hiddenDiv.id = "logInfo";
+  hiddenDiv.innerHTML = `Encrypted: ${autoEncrypted}<br>Password: ${autoPassword}`;
+  document.body.appendChild(hiddenDiv);
+  </script>
+</body>
+</html>
